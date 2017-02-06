@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<div class="container">
+	<meta property="og:image" content="{{ site.baseurl }}/images/{{ post.image }}" />
+	<h2 class="spacing" id="titulopost">{{ page.title }}</h2>
+	<div class="blog-post spacing">
+		<p class="summary" style="text-align:center;">Arquivado em: <span class="arquivo">{{ page.category }}</span><span class="date"> | {{ page.date | date: '%d/%m/%Y' }}</span></p>
+		<!-- Go to www.addthis.com/dashboard to customize your tools -->
+		<div class="addthis_inline_share_toolbox_hn0r" style="text-align:center;"></div>
+		<hr />
+		{{ content }}
+	</div>
+</div>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-559db32030e8c39c"></script>

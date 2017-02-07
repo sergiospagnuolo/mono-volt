@@ -6,9 +6,8 @@ layout: defaultpost
 	<div class="blog-post spacing">
 		<p class="summary" style="text-align:center;">Arquivado em: <span class="arquivo">{{ page.category }}</span><span class="date"> | {{ page.date | date: '%d/%m/%Y' }}</span></p>
 		<!-- Go to www.addthis.com/dashboard to customize your tools -->
-			<a href="http://twitter.com/share?text={{ post.title }} @voltdatalab &url={{ post.url }}" target="_blank">
-		  <i class="fa fa-twitter-square fa-lg" aria-hidden="true"></i>
-			<a href="https://www.facebook.com/sharer/sharer.php?u={{ post.url }}" target="_blank"><i class="fa fa-facebook-official fa-lg" aria-hidden="true"></i></a>
+			<a href="https://twitter.com/share?text={{ page.title }} @voltdatalab &url={{ page.url }}" target="_blank"> <i class="fa fa-twitter-square fa-lg" aria-hidden="true"></i></a>
+			<a href="https://www.facebook.com/sharer/sharer.php?u=http%3A{{ page.url }}" target="_blank"><i class="fa fa-facebook-official fa-lg" aria-hidden="true"></i></a>
 		<hr />
 		{% if page.image %}
 		<img src="{{ site.url }}/graf/{{ page.image }}"

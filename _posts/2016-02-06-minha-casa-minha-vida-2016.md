@@ -3,6 +3,7 @@ layout: post
 title: Minha Casa Minha Vida - Balanço 2016
 category: brasil
 image: balanco_minha_casa_minha_vida.png
+desc: Contratações e entregas do programa Minha Casa Minha Vida, do governo federal. Balanço fechado de 2016.
 
 tags:
 - governo federal

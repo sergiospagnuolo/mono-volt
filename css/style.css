@@ -31,7 +31,8 @@ h1 {
 
 #titulo {
 	font-family: Inconsolata;
-	font-size: 1.5em
+	font-size: 1.5em;
+	text-align: center;
 }
 
 #creditvolt{
@@ -172,6 +173,31 @@ nav.main-nav li a {
 }
 
 nav.main-nav a:hover{
+	border-bottom: #fff 2px solid;
+}
+
+nav.main-navdois ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	float: left;
+	text-transform: uppercase;
+	font-size: 14px;
+	font-weight: 300;
+	letter-spacing: 2px;
+}
+
+nav.main-navdois li,
+nav.main-navdois a {
+	display: inline-block;
+	border-bottom: #fff 1px solid;
+}
+
+nav.main-navdois li a {
+	padding: 10px;
+}
+
+nav.main-navdois a:hover{
 	border-bottom: #fff 2px solid;
 }
 

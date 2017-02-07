@@ -3,5 +3,5 @@ title: Mono
 email: info@voltdata.info
 description: > # Mono é um repositório de gráficos
  produzidos pela agência Volt Data Lab
-baseurl: "https://mono.voltdata.info" # the subpath of your site, e.g. /blog
+baseurl: "https://site.voltdata.info" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site

@@ -31,10 +31,30 @@ h1 {
 
 #titulo {
 	font-family: Inconsolata;
+	font-size: 1.5em
+}
+
+#creditvolt{
+	font-family: Inconsolata;
+	font-size: 1.2em;
+	font-weight: 700;
+	letter-spacing: 2px;
+}
+
+#creditvolt a{
+	text-decoration: overline;
+  color: #fff;
+	border: none
+}
+
+#creditvolt a:hover{
+  color: #cbcbcb;
+	text-decoration: underline;
+	border: none
 }
 
 h2 {
-	font-size: 36px;
+	font-size: 42px;
 	text-align: center;
 }
 
@@ -80,7 +100,7 @@ header {
 section.hero {
 	color: #fff;
 	background-image: url('/images/bgminor.jpg');
-	background-size: auto;
+	background-size: cover;
 	background-attachment: fixed;
 	background-position: top;
 	height: 100vh;
@@ -127,7 +147,7 @@ section.hero a:hover, a:hover{
 }
 
 header {
-	padding: 10px 0;
+	padding: 3px 0;
 }
 
 nav.main-nav ul {
@@ -136,16 +156,23 @@ nav.main-nav ul {
 	list-style: none;
 	float: right;
 	text-transform: uppercase;
-	font-size: 16px
+	font-size: 14px;
+	font-weight: 300;
+	letter-spacing: 2px;
 }
 
 nav.main-nav li,
 nav.main-nav a {
 	display: inline-block;
+	border-bottom: #fff 1px solid;
 }
 
 nav.main-nav li a {
 	padding: 10px;
+}
+
+nav.main-nav a:hover{
+	border-bottom: #fff 2px solid;
 }
 
 div.content {

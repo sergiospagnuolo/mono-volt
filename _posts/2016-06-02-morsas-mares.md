@@ -2,13 +2,12 @@
 layout: post
 title: Morsas no Hemisfério Norte
 category: ciência
-tags: morsas, Ártico, animais
-permalink: /:categories/:title.html
-image: /graf/aglomeraes-de-morsas-no-tempo.png
----
+image: morsas-no-pacfico-norte.png
 
-![Gráfico Morsas](/graf/aglomeraes-de-morsas-no-tempo.png)
-
+tags:
+- morsas
+- Ártico
+- animais
 ---
 
 #### Descrição

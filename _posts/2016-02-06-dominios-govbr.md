@@ -2,12 +2,13 @@
 layout: post
 title: Registro de domínios gov.br
 category: internet
-tags: brasil, online, domínio
-permalink: /:categories/:title.html
-image: /graf/registros_govbr.png
----
+image: registros_govbr.png
 
-![Domínios gov.br](/graf/registros_govbr.png)
+tags:
+- brasil
+- online
+- domínio
+---
 
 #### Descrição
 Informações sobre os Domínios gov.br registrados. Data da última atualização quando consultado:	2/Fevereiro/2017

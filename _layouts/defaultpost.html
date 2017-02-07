@@ -1,22 +1,28 @@
 <!doctype html>
 
 {% include headpost.html %}
-	<body>
-		<header>
-			<div class="container">
-				<nav class="main-nav">
-					<ul>
-						<li><a href="/sobre.html">Sobre</a></li>
-						<li><a href="/search.html"><i class="fa fa-search" aria-hidden="true"></i>
- Explore</a></li>
-					</ul>
-				</nav>
-				<h1 id="titulo"><a href="/">M0N0</a></h1>
-			</div>
-		</header>
-		<div class="content">
-			{{ content }}
+<body>
+	<header>
+		<div class="container">
+			<nav class="main-nav">
+				<ul>
+					<li><a href="/sobre.html">Sobre</a></li>
+					<li><a href="/quem.html">Quem Faz</a></li>
+				</ul>
+			</nav>
+			<nav class="main-navdois">
+				<ul>
+					<li><a href="/colabore.html">Colabore</a></li>
+					<li><a href="/search.html"><i class="fa fa-search" aria-hidden="true"></i>
+Explore</a></li>
+				</ul>
+			</nav>
+			<h1 id="titulo"><a href="/">M0N0</a></h1>
 		</div>
+	</header>
+	<div class="content">
+		{{ content }}
+	</div>
 {% include footer.html %}
-	</body>
+</body>
 </html>

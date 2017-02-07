@@ -12,7 +12,7 @@
   <script src="https://use.fontawesome.com/ebef64dc49.js"></script>
   <!-- METAS -->
     <meta name='keywords' content='graficos, dataviz, jornalismo de dados, voltdatalab, visualização'>
-    <meta name='description' content='Um banco de gráficos produzidos pelo Volt Data Lab'>
+    <meta name='description' content=''>
     <meta name='subject' content='jornalismo de dados'>
     <meta name='copyright' content='Volt Data Lab - www.voltdata.info'>
     <meta name='language' content='PT'>
@@ -49,6 +49,23 @@
 </head>
 
 <body>
+	<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1085014414958426',
+      xfbml      : true,
+      version    : 'v2.5'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
 	<header>
 		<div class="container">
 			<nav class="main-nav">
@@ -73,8 +90,8 @@ Explore</a></li>
 	<div class="blog-post spacing">
 		<p class="summary" style="text-align:center;">Arquivado em: <span class="arquivo">empresas</span><span class="date"> | 02/07/2016</span></p>
 		<!-- Go to www.addthis.com/dashboard to customize your tools -->
-			<a href="https://twitter.com/share?text=Empresas de Turismo por UF - 2o sem 2016 @voltdatalab &url=/empresas/turismo-2016-parte2.html" target="_blank"> <i class="fa fa-twitter-square fa-lg" aria-hidden="true"></i></a>
-			<a href="https://www.facebook.com/sharer/sharer.php?u=http%3A/empresas/turismo-2016-parte2.html" target="_blank"><i class="fa fa-facebook-official fa-lg" aria-hidden="true"></i></a>
+		<p class="summary" style="text-align:center;"><a style="border:none;" href="https://twitter.com/share?text=Empresas de Turismo por UF - 2o sem 2016 @voltdatalab &url=/empresas/turismo-2016-parte2.html" target="_blank"> <i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a>
+		<a style="border:none;" href="https://facebook.com/sharer.php?u=/empresas/turismo-2016-parte2.html" rel="nofollow" target="_blank" title=""><i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i></a></p>
 		<hr />
 		
 		<img src="/graf/mercado-turstico-por-estado-no-br.png"

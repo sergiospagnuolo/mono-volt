@@ -13,7 +13,7 @@
 
       searchResults.innerHTML = appendString;
     } else {
-      searchResults.innerHTML = '<li>No results found</li>';
+      searchResults.innerHTML = '<li>Estamos construindo nosso banco de gráficos e não encontramos resultados para esse termo ainda. Busque outra coisa: por exemplo MORSAS.</li>';
     }
   }
 

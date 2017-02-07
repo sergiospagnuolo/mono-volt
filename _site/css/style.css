@@ -1,10 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700|Merriweather:300,400,700');
 
+html{
+	height: 100%;
+	min-height: 100%;
+}
+
 body {
 	font-family: "Merriweather", sans-serif;
 	padding: 0;
 	margin: 0;
 	font-size: 20px;
+	height: 100%;
+	min-height: 100%;
 }
 
 p {
@@ -34,9 +41,6 @@ h2 {
 h3 {
 	font-size: 1.8em;
 	margin: 15px 0;
-}
-
-h2, h3 {
 	font-family: Inconsolata;
 }
 
@@ -49,15 +53,23 @@ img {
 div.container,
 div.small-container {
 	margin: 0 auto;
-	padding: 0 20px;
+	padding: 0px 20px;
 }
 
 div.container {
-	max-width: 940px;
+	max-width: 100%;
 }
 
 div.small-container {
 	max-width: 700px;
+	padding: 20% 0;
+}
+
+@media (max-width: 720px) {
+	div.small-container{
+		padding: 50% 0;
+		max-width: 500px;
+	}
 }
 
 header {
@@ -66,10 +78,17 @@ header {
 }
 
 section.hero {
-	color: #222;
-	background-image: url('');
-	background-size: cover;
+	color: #fff;
+	background-image: url('/images/bg.png');
+	background-size: auto;
 	background-attachment: fixed;
+	background-position: top;
+	height: 100vh;
+}
+
+.overlay {
+	background-color: rgba(0,0,0,.5);
+	height: 100vh;
 }
 
 p.post-hero {
@@ -134,12 +153,13 @@ div.content {
 }
 
 section.hero {
-	padding: 120px 0;
+	background-color:  none
 }
 
-p.sub-text, h3.sub-text {
+p.sub-text, h2.sub-text {
 	text-align: center;
 	line-height: 1.2em;
+	color: #fff;
 }
 
 .center-text {
@@ -178,7 +198,7 @@ p.sub-text, h3.sub-text {
 }
 
 .blog-post {
-	max-width: 800px;
+	max-width: 600px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -223,11 +243,11 @@ hr {
 
 textarea,
 input[type="text"] {
-	width: 100%;
-	padding: 10px;
+	padding: 20px 0 20px 10px;
 	font-size: 18px;
 	display: block;
 	box-sizing: padding-box;
+	font-family: Inconsolata
 }
 
 textarea {
@@ -257,11 +277,33 @@ input[type="submit"] {
 	font-size: 16px;
 }
 
+#search_box{
+	width: 100%
+}
+
+@media (max-width: 720px) {
+	#search_box{
+		width: 96%
+	}
+}
+
+.busca {
+	padding: 100px 0;
+	margin: 0 auto;
+}
+
+.photocredit{
+	float:right;
+	margin:3px;
+	padding:0;
+	font-weight: 300;
+	font-size: 12px;
+}
 
 /* Footer */
 
 .containerdois {
-	max-width: 800px;
+	max-width: 700px;
 	width: 100%;
   margin: 0 auto;
   padding: 0 1rem;
@@ -293,8 +335,8 @@ footer a:hover{
 
 .esquerda {
   float: left;
-  max-width: 49%;
-  margin: 0 50px 0 0;
+  max-width: 60%;
+  margin: 0 30px 0 0;
 }
 
 .direita {
@@ -310,12 +352,12 @@ footer a:hover{
 @media (max-width: 720px) {
   .direita {
     float: left;
-    margin-top: 1px solid #000;
+		margin-right: 60px;
+    border-top: 0px solid #000;
   }
   .esquerda {
     float: left;
-    max-width: 100%;
-    margin: 0
+    max-width: 300px;
   }
   footer{
     height: 450px;

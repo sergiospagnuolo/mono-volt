@@ -4,7 +4,7 @@ title: Minha Casa Minha Vida - Balanço 2016
 category: brasil
 tags: governo federal, programas sociais
 permalink: /:categories/:title.html
-image: /graf/balanço_minha_casa_minha_vida.png
+image: graf/balanço_minha_casa_minha_vida.png
 ---
 
 ![Gráfico MCMV](/graf/balanço_minha_casa_minha_vida.png)

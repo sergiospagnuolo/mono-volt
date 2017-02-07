@@ -32,6 +32,7 @@
     <meta name='target' content='all'>
     <meta name='HandheldFriendly' content='True'>
     <meta name='MobileOptimized' content='320'>
+    <meta property="og:image" content="https://c1.staticflickr.com/1/722/31908599374_641672ed69_z.jpg" />
     <meta property="og:url" content="http://mono.voltdata.info">
     <meta property="og:title" content="Mono">
     <meta property="og:description" content="Um banco de gráficos produzidos pelo Volt Data Lab">
@@ -49,33 +50,35 @@
 </head>
 
 	<body>
-		<meta property="og:image" content="https://c1.staticflickr.com/1/722/31908599374_641672ed69_z.jpg" />
 		<header>
 			<div class="container">
 				<nav class="main-nav">
 					<ul>
 						<li><a href="/sobre.html">Sobre</a></li>
-						<li><a href="/search.html">Explore</a></li>
+						<li><a href="/search.html"><i class="fa fa-search" aria-hidden="true"></i>
+ Explore</a></li>
 					</ul>
 				</nav>
 				<h1 id="titulo"><a href="/">M0N0</a></h1>
 			</div>
 		</header>
 		<div class="content">
-			<div>
-<section class="hero">
+			<section class="hero">
+	<div class="overlay">
 	<div class="small-container">
-		<h2 class="sub-text">Um banco de gráficos produzidos pelo <a href="http://voltdata.info" target="_blank">Volt Data Lab</a></h2>
-		<hr />
-		<div class="container">
+		<h2 class="sub-text">Um banco de gráficos sobre tudo</h2>
+		<p class="sub-text">Por Volt Data Lab</p>
+		<div class="busca">
 			<form action="/search.html" method="get">
-				<label for="search_box">Busque por qualquer coisa</label>
-				<input type="text" id="search_box" name="query" placeholder="Ex. Brasil, Economia, Morsas">
+				<!-- <label for="search_box">Busque por qualquer coisa</label> !-->
+				<input type="text" id="search_box" name="query" placeholder="Busque por qualquer coisa - Ex. Brasil, Economia, Morsas">
 				<!--<input type="submit" value="buscar">-->
 			</form>
 		</div>
-		<hr />
+		</div>
 	</div>
+</section>
+<h6 class="photocredit">Imagem: Earth Observatory/NASA</h6>
 	<div class="container">
 			<div class="blog-posts">
 				
@@ -121,19 +124,9 @@
 			</div>
 	</div>
 
-</section>
-
 		</div>
 <footer>
 <div class="containerdois">
-  <div class="esquerda">
-  <h6>Este projeto é publicado sobre as regras do Creative Commons, com livre distribuição,
-    inclusive para uso comercial, desde que haja crédito ao Volt Data Lab e que seu projeto
-    tenha a mesma licença.</h6>
-    <h6>Para mais informações, <a href="LICENSE.html">clique aqui</a>.</h6>
-  <h6>Desenvolvido por <a href="http://voltdata.info" target="_blank">Volt Data Lab</a></h6>
-  <img src="/images/logo.png" width="60px" alt="logo" id="logofoot" style="margin:0" />
-</div>
   <div class="direita">
     <h6>Siga o Volt:
     <a href="https://twitter.com/voltdatalab" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
@@ -144,6 +137,14 @@
   <h6>Entre em contato <a href="http://www.voltdata.info/quemsomos">neste link</a></h6>
   <h6><a href="https://medium.com/volt-data-lab" target="_blank">Blog do Volt no Medium</a></h6>
   <h6><a href="https://github.com/voltdatalab/mono-volt" target="_blank">Código do projeto</a></h6>
+</div>
+<div class="esquerda">
+<h6>Este projeto é publicado sobre as regras do Creative Commons, com livre distribuição,
+  inclusive para uso comercial, desde que haja crédito ao Volt Data Lab e que seu projeto
+  tenha a mesma licença.</h6>
+  <h6>Para mais informações, <a href="LICENSE.html">clique aqui</a>.</h6>
+<h6>Desenvolvido por <a href="http://voltdata.info" target="_blank">Volt Data Lab</a></h6>
+<img src="/images/logo.png" width="60px" alt="logo" id="logofoot" style="margin:0" />
 </div>
 </div>
 </footer>

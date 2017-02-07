@@ -3,20 +3,22 @@ layout: default
 title: Home
 ---
 
-<div>
 <section class="hero">
+	<div class="overlay">
 	<div class="small-container">
-		<h2 class="sub-text">Um banco de gráficos produzidos pelo <a href="http://voltdata.info" target="_blank">Volt Data Lab</a></h2>
-		<hr />
-		<div class="container">
+		<h2 class="sub-text">Um banco de gráficos sobre tudo</h2>
+		<p class="sub-text">Por Volt Data Lab</p>
+		<div class="busca">
 			<form action="/search.html" method="get">
-				<label for="search_box">Busque por qualquer coisa</label>
-				<input type="text" id="search_box" name="query" placeholder="Ex. Brasil, Economia, Morsas">
+				<!-- <label for="search_box">Busque por qualquer coisa</label> !-->
+				<input type="text" id="search_box" name="query" placeholder="Busque por qualquer coisa - Ex. Brasil, Economia, Morsas">
 				<!--<input type="submit" value="buscar">-->
 			</form>
 		</div>
-		<hr />
+		</div>
 	</div>
+</section>
+<h6 class="photocredit">Imagem: Earth Observatory/NASA</h6>
 	<div class="container">
 			<div class="blog-posts">
 				{% for post in site.posts limit:7 %}
@@ -33,5 +35,3 @@ title: Home
 				{% endfor %}
 			</div>
 	</div>
-
-</section>

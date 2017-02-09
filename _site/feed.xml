@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mono</title>
-    <description>Mono é um repositório de gráficos produzidos pela agência Volt Data Lab</description>
-    <link>http://mono.voltdata.info//</link>
-    <atom:link href="http://mono.voltdata.info//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Feb 2017 20:29:55 -0200</pubDate>
-    <lastBuildDate>Thu, 09 Feb 2017 20:29:55 -0200</lastBuildDate>
+    <description></description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 09 Feb 2017 20:49:45 -0200</pubDate>
+    <lastBuildDate>Thu, 09 Feb 2017 20:49:45 -0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -21,8 +21,8 @@
 &lt;p&gt;&lt;a href=&quot;http://dados.gov.br/dataset/dominios-gov-br/resource/197a0106-c93b-42fc-bb4e-c3095baee1a0&quot;&gt;Link para dados&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 08 Feb 2017 00:00:00 -0200</pubDate>
-        <link>http://mono.voltdata.info//internet/registros-dominios-govbr.html</link>
-        <guid isPermaLink="true">http://mono.voltdata.info//internet/registros-dominios-govbr.html</guid>
+        <link>/registros-dominios-govbr</link>
+        <guid isPermaLink="true">/registros-dominios-govbr</guid>
         
         <category>brasil</category>
         
@@ -49,8 +49,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 07 Feb 2017 00:00:00 -0200</pubDate>
-        <link>http://mono.voltdata.info//ambiente/queimadas-amazonas-1998-2016.html</link>
-        <guid isPermaLink="true">http://mono.voltdata.info//ambiente/queimadas-amazonas-1998-2016.html</guid>
+        <link>/queimadas-amazonas-1998-2016</link>
+        <guid isPermaLink="true">/queimadas-amazonas-1998-2016</guid>
         
         <category>queimadas</category>
         
@@ -79,8 +79,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 06 Feb 2017 00:00:00 -0200</pubDate>
-        <link>http://mono.voltdata.info//ci%C3%AAncia/morsas-concentracoes.html</link>
-        <guid isPermaLink="true">http://mono.voltdata.info//ci%C3%AAncia/morsas-concentracoes.html</guid>
+        <link>/morsas-concentracoes</link>
+        <guid isPermaLink="true">/morsas-concentracoes</guid>
         
         <category>morsas</category>
         
@@ -112,8 +112,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 05 Feb 2017 00:00:00 -0200</pubDate>
-        <link>http://mono.voltdata.info//governos/minha-casa-minha-vida-2016.html</link>
-        <guid isPermaLink="true">http://mono.voltdata.info//governos/minha-casa-minha-vida-2016.html</guid>
+        <link>/minha-casa-minha-vida-2016</link>
+        <guid isPermaLink="true">/minha-casa-minha-vida-2016</guid>
         
         <category>governo federal</category>
         
@@ -140,8 +140,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 04 Feb 2017 00:00:00 -0200</pubDate>
-        <link>http://mono.voltdata.info//economia/juros-mundo-fev2017.html</link>
-        <guid isPermaLink="true">http://mono.voltdata.info//economia/juros-mundo-fev2017.html</guid>
+        <link>/juros-mundo-fev2017</link>
+        <guid isPermaLink="true">/juros-mundo-fev2017</guid>
         
         <category>brasil</category>
         
@@ -170,8 +170,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 03 Feb 2017 00:00:00 -0200</pubDate>
-        <link>http://mono.voltdata.info//economia/evolucao-juros-mundo-fev2017.html</link>
-        <guid isPermaLink="true">http://mono.voltdata.info//economia/evolucao-juros-mundo-fev2017.html</guid>
+        <link>/evolucao-juros-mundo-fev2017</link>
+        <guid isPermaLink="true">/evolucao-juros-mundo-fev2017</guid>
         
         <category>brasil</category>
         
@@ -203,8 +203,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 02 Feb 2017 00:00:00 -0200</pubDate>
-        <link>http://mono.voltdata.info//empresas/empresas-de-turismo-brasil-2016.html</link>
-        <guid isPermaLink="true">http://mono.voltdata.info//empresas/empresas-de-turismo-brasil-2016.html</guid>
+        <link>/empresas-de-turismo-brasil-2016</link>
+        <guid isPermaLink="true">/empresas-de-turismo-brasil-2016</guid>
         
         <category>turismo</category>
         
@@ -230,8 +230,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 -0200</pubDate>
-        <link>http://mono.voltdata.info//empresas/empresas-de-turismo-brasil-2016-parte2.html</link>
-        <guid isPermaLink="true">http://mono.voltdata.info//empresas/empresas-de-turismo-brasil-2016-parte2.html</guid>
+        <link>/empresas-de-turismo-brasil-2016-parte2</link>
+        <guid isPermaLink="true">/empresas-de-turismo-brasil-2016-parte2</guid>
         
         <category>turismo</category>
         

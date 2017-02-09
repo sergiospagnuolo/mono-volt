@@ -8,8 +8,8 @@ title: Felippe Mercurio
 author_name: Felippe Mercurio
 ---
 
-# Fred Smith
+<br>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis necessitatibus repellat et similique, assumenda dolor possimus sunt repellendus ratione quas nihil expedita maiores, ex id odio molestiae ipsam officiis magni!
+Consultor independente com foco em sistemas e estruturação de dados, atua há 15 anos em diversas áreas da TI.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis necessitatibus repellat et similique, assumenda dolor possimus sunt repellendus ratione quas nihil expedita maiores, ex id odio molestiae ipsam officiis magni!
+Programador autodidata, fissurado por ciência, tecnologia e dados.

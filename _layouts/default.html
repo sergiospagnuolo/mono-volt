@@ -1,28 +1,20 @@
-<!doctype html>
+<!DOCTYPE html>
+<html class="no-js">
 
-{% include head.html %}
-	<body>
-		<header>
-			<div class="container">
-				<nav class="main-nav">
-					<ul>
-						<li><a href="/sobre.html">Sobre</a></li>
-						<li><a href="/quem.html">Quem Faz</a></li>
-					</ul>
-				</nav>
-				<nav class="main-navdois">
-					<ul>
-						<li><a href="/colabore.html">Colabore</a></li>
-						<li><a href="/search.html"><i class="fa fa-search" aria-hidden="true"></i>
- Explore</a></li>
-					</ul>
-				</nav>
-				<h1 id="titulo"><a href="/">M0N0</a></h1>
-			</div>
-		</header>
-		<div class="content">
-			{{ content }}
-		</div>
-{% include footer.html %}
-	</body>
+  {% include head.html %}
+
+  <body class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %}">
+    {% include nav-no-js.html %}
+    {{ content }}
+
+    <script src='{{ "/js/vendor/modernizr.custom.32229-2.8-respondjs-1-4-2.js" | prepend: site.baseurl }}'></script>
+    <script src="{{'/js/vendor/jquery-1.11.2.min.js' | prepend: site.baseurl }}"></script>
+    <script src='{{ "/js/vendor/jquery.jpanelmenu.min.js" | prepend: site.baseurl }}'></script>
+    <script type='application/javascript' src='{{ "/js/vendor/fastclick.min.js" | prepend: site.baseurl }}'></script>
+    {% if enable_retina %}
+    <script type='application/javascript' src='{{ "/js/vendor/retina.min.js" | prepend: site.baseurl }}'></script>
+    {% endif %}
+    <script src=' {{ "/js/main.js" | prepend: site.baseurl }}'></script>
+  </body>
+
 </html>

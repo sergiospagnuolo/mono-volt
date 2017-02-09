@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mono</title>
+    <description>Mono é um repositório de gráficos produzidos pela agência Volt Data Lab</description>
+    <link>http://mono.voltdata.info//</link>
+    <atom:link href="http://mono.voltdata.info//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 09 Feb 2017 20:29:55 -0200</pubDate>
+    <lastBuildDate>Thu, 09 Feb 2017 20:29:55 -0200</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Registro de domínios gov.br</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/registros_govbr.png&quot; alt=&quot;Grafico registros gov.br&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+&lt;p&gt;Informações sobre os Domínios gov.br registrados. Data da última atualização quando consultado:	2/Fevereiro/2017&lt;/p&gt;
+
+&lt;h3 id=&quot;referncia&quot;&gt;Referência&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://dados.gov.br/dataset/dominios-gov-br/resource/197a0106-c93b-42fc-bb4e-c3095baee1a0&quot;&gt;Link para dados&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 08 Feb 2017 00:00:00 -0200</pubDate>
+        <link>http://mono.voltdata.info//internet/registros-dominios-govbr.html</link>
+        <guid isPermaLink="true">http://mono.voltdata.info//internet/registros-dominios-govbr.html</guid>
+        
+        <category>brasil</category>
+        
+        <category>online</category>
+        
+        <category>domínios</category>
+        
+        
+        <category>internet</category>
+        
+      </item>
+    
+      <item>
+        <title>Recorde de focos de queimadas no Amazonas</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/queimadas-1998-2016.png&quot; alt=&quot;Grafico registros gov.br&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+&lt;p&gt;Comparação do total de focos ativos detectados pelo satélite de referência em cada mês, no período de 1998 até 09/02/2017.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fonte: INPE - Instituto Nacional de Pesquisas Espaciais&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://queimadas.dgi.inpe.br/queimadas/estatistica_estados&quot;&gt;Link para Dados&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 07 Feb 2017 00:00:00 -0200</pubDate>
+        <link>http://mono.voltdata.info//ambiente/queimadas-amazonas-1998-2016.html</link>
+        <guid isPermaLink="true">http://mono.voltdata.info//ambiente/queimadas-amazonas-1998-2016.html</guid>
+        
+        <category>queimadas</category>
+        
+        <category>amazonas</category>
+        
+        <category>brasil</category>
+        
+        <category>meio-ambiente</category>
+        
+        
+        <category>ambiente</category>
+        
+      </item>
+    
+      <item>
+        <title>Concentrações de morsas no Ártico</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/morsas-no-pacfico-norte.png&quot; alt=&quot;grafico morsas&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+&lt;p&gt;Registros sobre aglomerações de morsas em dois dos principais mares do Oceano Ártico.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://alaska.usgs.gov/products/data.php?dataid=74&quot;&gt;Pacific Walrus Coastal Haulout Database 1852-2016&lt;/a&gt;, Serviço Geológico dos Estados Unidos&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 06 Feb 2017 00:00:00 -0200</pubDate>
+        <link>http://mono.voltdata.info//ci%C3%AAncia/morsas-concentracoes.html</link>
+        <guid isPermaLink="true">http://mono.voltdata.info//ci%C3%AAncia/morsas-concentracoes.html</guid>
+        
+        <category>morsas</category>
+        
+        <category>Ártico</category>
+        
+        <category>animais</category>
+        
+        
+        <category>ciência</category>
+        
+      </item>
+    
+      <item>
+        <title>Minha Casa Minha Vida - Balanço 2016</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/balanco_minha_casa_minha_vida.png&quot; alt=&quot;Grafico registros gov.br&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;descrio&quot;&gt;Descrição&lt;/h4&gt;
+&lt;p&gt;Contratações e entregas do programa &lt;a href=&quot;http://www.minhacasaminhavida.gov.br/&quot;&gt;Minha Casa Minha Vida&lt;/a&gt;, do governo federal. Balanço fechado de 2016.&lt;/p&gt;
+
+&lt;h4 id=&quot;referncias&quot;&gt;Referências&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Informações enviadas via assessoria de imprensa do &lt;a href=&quot;http://www.cidades.gov.br/&quot;&gt;Ministério das Cidades&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1xybmHvU7gIjpgdr-tSpE0PAt4uhDgkKCqIwpvZRWn_k/edit?usp=sharing&quot;&gt;Link para tabela&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 05 Feb 2017 00:00:00 -0200</pubDate>
+        <link>http://mono.voltdata.info//governos/minha-casa-minha-vida-2016.html</link>
+        <guid isPermaLink="true">http://mono.voltdata.info//governos/minha-casa-minha-vida-2016.html</guid>
+        
+        <category>governo federal</category>
+        
+        <category>programas sociais</category>
+        
+        <category>minha casa minha vida</category>
+        
+        
+        <category>governos</category>
+        
+      </item>
+    
+      <item>
+        <title>Juros no mundo - base fev/2017</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/juros-no-mundo.png&quot; alt=&quot;Grafico registros gov.br&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+&lt;p&gt;Taxa básica de juros nas maiores economias do mundo, com base nos valores apurados até 09/02/2017.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fonte: Trending Economics&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.tradingeconomics.com/country-list/interest-rate&quot;&gt;Link para dados&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 04 Feb 2017 00:00:00 -0200</pubDate>
+        <link>http://mono.voltdata.info//economia/juros-mundo-fev2017.html</link>
+        <guid isPermaLink="true">http://mono.voltdata.info//economia/juros-mundo-fev2017.html</guid>
+        
+        <category>brasil</category>
+        
+        <category>euro</category>
+        
+        <category>juros</category>
+        
+        <category>selic</category>
+        
+        
+        <category>economia</category>
+        
+      </item>
+    
+      <item>
+        <title>Diferenças entre taxas mínimas e máximas de juros no mundo</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/evolucao-juros-mundo.png&quot; alt=&quot;Grafico registros gov.br&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+&lt;p&gt;Diferença entre os valores mínimos e máximos da básica de juros registrados nas maiores economias do mundo, independentemente de quando foram registrados, com base nos valores apurados até 09/02/2017.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fonte: Trending Economics&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.tradingeconomics.com/country-list/interest-rate&quot;&gt;Link para dados&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 03 Feb 2017 00:00:00 -0200</pubDate>
+        <link>http://mono.voltdata.info//economia/evolucao-juros-mundo-fev2017.html</link>
+        <guid isPermaLink="true">http://mono.voltdata.info//economia/evolucao-juros-mundo-fev2017.html</guid>
+        
+        <category>brasil</category>
+        
+        <category>euro</category>
+        
+        <category>juros</category>
+        
+        <category>selic</category>
+        
+        
+        <category>economia</category>
+        
+      </item>
+    
+      <item>
+        <title>Empresas de Turismo - 2o sem 2016</title>
+        <description>&lt;h4 id=&quot;descrio&quot;&gt;Descrição&lt;/h4&gt;
+&lt;p&gt;Dados dos prestadores de serviço turístico (Agencias de Turismo) com situação regular no 2º trimestre de 2016. Gráfico mostra número de empresas por porte/tamanho.&lt;/p&gt;
+
+&lt;h4 id=&quot;referncias&quot;&gt;Referências&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dados.gov.br/dataset/cadastur-pj-agencia/resource/7bab4346-fa6e-4493-b9ad-d179cce4b851&quot;&gt;Portal Brasileiro dos Dados Abertos&lt;/a&gt;, Cadastrur&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1Z95pBybnd2Hs1BztPSbDNWpW9BWm9Lg8sdHe6cL-oSc/edit?usp=sharing&quot;&gt;Link para tabela com análise do Volt&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 02 Feb 2017 00:00:00 -0200</pubDate>
+        <link>http://mono.voltdata.info//empresas/empresas-de-turismo-brasil-2016.html</link>
+        <guid isPermaLink="true">http://mono.voltdata.info//empresas/empresas-de-turismo-brasil-2016.html</guid>
+        
+        <category>turismo</category>
+        
+        
+        <category>empresas</category>
+        
+      </item>
+    
+      <item>
+        <title>Empresas de Turismo - 2o sem 2016</title>
+        <description>&lt;h4 id=&quot;descrio&quot;&gt;Descrição&lt;/h4&gt;
+&lt;p&gt;Dados dos prestadores de serviço turístico (Agencias de Turismo) com situação regular no 2º trimestre de 2016. Gráfico mostra número de empresas por unidade federativa no Brasil.&lt;/p&gt;
+
+&lt;h4 id=&quot;referncias&quot;&gt;Referências&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://dados.gov.br/dataset/cadastur-pj-agencia/resource/7bab4346-fa6e-4493-b9ad-d179cce4b851&quot;&gt;Portal Brasileiro dos Dados Abertos&lt;/a&gt;, Cadastrur&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1Z95pBybnd2Hs1BztPSbDNWpW9BWm9Lg8sdHe6cL-oSc/edit?usp=sharing&quot;&gt;Link para tabela com análise do Volt&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 01 Feb 2017 00:00:00 -0200</pubDate>
+        <link>http://mono.voltdata.info//empresas/empresas-de-turismo-brasil-2016-parte2.html</link>
+        <guid isPermaLink="true">http://mono.voltdata.info//empresas/empresas-de-turismo-brasil-2016-parte2.html</guid>
+        
+        <category>turismo</category>
+        
+        
+        <category>empresas</category>
+        
+      </item>
+    
+  </channel>
+</rss>

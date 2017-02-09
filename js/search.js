@@ -13,7 +13,7 @@
 
       searchResults.innerHTML = appendString;
     } else {
-      searchResults.innerHTML = '<li>Estamos construindo nosso banco de gráficos e não encontramos resultados para esse termo ainda. Busque outra coisa: por exemplo MORSAS.</li>';
+      searchResults.innerHTML = '<li>No results found</li>';
     }
   }
 
@@ -40,7 +40,7 @@
     var idx = lunr(function () {
       this.field('id');
       this.field('title', { boost: 10 });
-      this.field('tags');
+      this.field('author');
       this.field('category');
       this.field('content');
     });
@@ -49,7 +49,7 @@
       idx.add({
         'id': key,
         'title': window.store[key].title,
-        'tags': window.store[key].tags,
+        'author': window.store[key].author,
         'category': window.store[key].category,
         'content': window.store[key].content
       });

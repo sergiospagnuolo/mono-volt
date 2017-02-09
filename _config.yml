@@ -1,10 +1,22 @@
 # Site settings
 title: Mono
+port: 3000
 email: info@voltdata.info
-description: Mono é um repositório de gráficos produzidos pela agência Volt Data Lab
-# baseurl: '' # the subpath of your site, e.g. /blog
-url: 'http://mono.voltdata.info/' # the base hostname & protocol for your site
-permalink: /:categories/:title.html
+description: > # Mono é um repositório de gráficos produzidos pela agência Volt Data Lab
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+enable_retina: false
+permalink: :title
+nav_list:
+  Home : ['Início', '/', '']
+  About : ['Sobre', '/sobre', ' ']
+  Contact : ['Contato', '/contato', ' ']
+  Author : ['Quem faz', '/quem', ' ']
+single_footer: '<p>Mono, por Volt Data Lab - 2017 <a href="/">gráficos recentes</a></p>'
+footer_links:
+    About: ['Sobre o projeto', '/sobre']
+    Writer: ['Quem faz', '/quem']
 
-# settings
-markdown: kramdown
+
+# Build settings
+# markdown: kramdown

@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700|Merriweather:300,400,700')
+
+$sans : 'Inconsolata', Helvetica, Arial, sans-serif
+$serif : 'Merriweather', serif
+
+$text-color : #222
+$light-grey : #777
+$volt-red : #a7000c
+
+$base-color : $volt-red
+
+body
+    line-height: 1.65
+
+body,
+button,
+input,
+select,
+textarea
+    color: $text-color
+    font-family: $serif
+
+// Text rendering for titles only to insure no performance hit
+.post-preview,
+.sidebar,
+.post-favorite,
+.favorites
+    text-rendering: optimizeLegibility
+    -webkit-font-smoothing: antialiased
+
+p
+    margin-bottom: 30px
+    +font-size(18)
+
+    +breakpoint(sm)
+        +font-size(20)
+
+    +breakpoint(md)
+        +font-size(21)
+a
+    text-decoration: none
+    color: #000
+    border-bottom: solid 2px #a7000c
+
+    &:hover,
+    &:active
+        color: #000
+        transition: all 400ms
+
+h1,
+h2
+    font-weight: 700
+    font-family: $sans
+
+h1
+    +font-size(38)
+h2
+    +font-size(32)
+    &.favorites
+        padding: 10px 0
+        color: #b3b3b7
+        text-transform: uppercase
+        letter-spacing: 2pt
+        border-bottom: solid 1px #dedede
+        border-top: solid 1px #dedede
+        +font-size(12)
+h3
+    color: #999
+    margin-left: -20px
+    +font-size(22)
+
+
+b
+    font-weight: 700
+i
+    font-style: italic
+ul,
+ol
+    margin-bottom: 20px
+    padding-left: 20px
+    +font-size(16)
+
+    li
+        margin: 5px 0

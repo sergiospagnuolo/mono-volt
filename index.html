@@ -1,40 +1,12 @@
 ---
-layout: default
-title: Home
+layout: home-alt-2
+feature_image: feature-san-fran
+title: Mono
+desc: Um bancos de gráficos produzidos pela agência Volt Data Lab
+include_cta_btn: true
+cta_text: Newsletter
+cta_link: /about/
+cta_icon: fa-user-plus
+bodyclass: alt-home
+post_count: 8
 ---
-
-<section class="hero">
-	<div class="overlay">
-	<div class="small-container">
-		<h2 class="sub-text">Um banco de gráficos sobre tudo</h2>
-		<p class="sub-text" id="creditvolt"><a href="https://voltdata.info" target="_blank">Por Volt Data Lab</a></p>
-		<div class="busca">
-			<form action="/search.html" method="get">
-				<!-- <label for="search_box">Busque por qualquer coisa</label> !-->
-				<input type="text" id="search_box" name="query" placeholder="Busque por qualquer coisa - Ex. Brasil, Economia, Morsas">
-				<!--<input type="submit" value="buscar">-->
-			</form>
-		</div>
-		</div>
-	</div>
-</section>
-<h6 class="photocredit">Imagem: São Paulo e Rio de Janeiro vistas de cima. Earth Observatory/NASA</h6>
-	<div class="container">
-			<div class="blog-posts">
-				{% for post in site.posts limit:7 %}
-					<div class="blog-post spacing">
-						<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-						<p class="summary">
-							Arquivado em: <span class="arquivo">{{ post.category }}</span>
-							<span class="date">
-								| {{ post.date | date: '%d/%m/%Y' }}
-							</span>
-						</p>
-						<img src="{{ site.url }}/graf/{{ post.image }}"
-						class="entry-feature-image" alt="{{ page.title }}"
-						{% if site.logo == null %}
-						style="margin-top:0;"{% endif %}>
-					</div>
-				{% endfor %}
-			</div>
-	</div>

@@ -45,7 +45,7 @@ layout: default
                             <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
 
                             <p class="meta">
-                                Arquivado em <a href='{{ "/category/" | append: post.categories.first | prepend: site.baseurl }}'>{{ post.categories.first | capitalize}}</a>
+                                Arquivado em <span style="font-family:Inconsolata;text-transform:uppercase;font-weight:700"><a href='{{ "/category/" | append: post.categories.first | prepend: site.baseurl }}'>{{ post.categories.first | capitalize}}</span></a>
                             </p>
                         </div>
                     </article>

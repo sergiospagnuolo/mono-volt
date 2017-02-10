@@ -12,7 +12,7 @@ show_related_posts: true
 
 tags:
 - morsas
-- Ártico
+- ártico
 - animais
 ---
 

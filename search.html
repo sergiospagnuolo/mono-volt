@@ -1,12 +1,10 @@
 ---
-layout: search
+layout: with-sidebar
+include_cta_btn: true
+cta_text: assine a newsletter do Volt
+cta_link: https://tinyletter.com/voltdatalab
+cta_icon: fa-envelope-o
 ---
-<form action="/search.html" method="get">
-  <label for="search-box">Busque por qualquer coisa</label>
-  <input type="text" id="search-box" name="query">
-  <!-- <input type="submit" value="search"> -->
-</form>
-<hr />
 
 <ul id="search-results"></ul>
 
@@ -15,7 +13,7 @@ layout: search
     {% for post in site.posts %}
       "{{ post.url | slugify }}": {
         "title": "{{ post.title | xml_escape }}",
-        "tags": "{{ post.tags | xml_escape }}",
+        "author": "{{ post.author | xml_escape }}",
         "category": "{{ post.category | xml_escape }}",
         "content": {{ post.content | strip_html | strip_newlines | jsonify }},
         "url": "{{ post.url | xml_escape }}"
@@ -24,5 +22,5 @@ layout: search
     {% endfor %}
   };
 </script>
-<script src="/js/lunr.min.js"></script>
-<script src="/js/search.js"></script>
+<script src="/searchjs/lunr.min.js"></script>
+<script src="/searchjs/search.js"></script>

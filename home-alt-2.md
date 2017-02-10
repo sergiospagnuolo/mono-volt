@@ -1,5 +1,5 @@
 ---
-layout: home-alt-2
+layout: inicio
 title: Home Alt 2
 permalink: /home-alt-2/
 bodyclass: alt-home

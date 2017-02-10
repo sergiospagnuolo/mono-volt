@@ -9,7 +9,6 @@ author_avatar: sergio
 show_avatar : true
 feature_image: morsas-no-pacfico-norte.png
 show_related_posts: true
-square_related: recommend-bar
 
 tags:
 - morsas

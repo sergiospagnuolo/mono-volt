@@ -7,13 +7,14 @@
 
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
-        appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
-        appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
+        appendString += '<a href="' + item.url + '"><h2>' + item.title + '</h2>';
+        //appendString += '<p>' + item.content.substring(0, 150) + '...</p>';
+        appendString += '<p>' + item.content.substring(9, 95) + '...</p></a>';
       }
 
       searchResults.innerHTML = appendString;
     } else {
-      searchResults.innerHTML = '<li>No results found</li>';
+      searchResults.innerHTML = '<h4>Estamos construindo nosso banco de gráficos e não encontramos resultados para esse termo ainda. Busque outra coisa, sugestão: <a href="http://localhost:3000/search.html?query=morsas"> Morsas</a>.</h4>';
     }
   }
 
@@ -40,7 +41,7 @@
     var idx = lunr(function () {
       this.field('id');
       this.field('title', { boost: 10 });
-      this.field('author');
+      this.field('tags');
       this.field('category');
       this.field('content');
     });
@@ -49,7 +50,7 @@
       idx.add({
         'id': key,
         'title': window.store[key].title,
-        'author': window.store[key].author,
+        'tags': window.store[key].tags,
         'category': window.store[key].category,
         'content': window.store[key].content
       });

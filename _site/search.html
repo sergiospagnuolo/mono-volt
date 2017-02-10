@@ -11,8 +11,8 @@
 
     <link rel="stylesheet" href="/css/main.css">
 
-    <link rel="canonical" href="/search">
-    <link rel="alternate" type="application/rss+xml" title="Mono" href="/feed.xml" />
+    <link rel="canonical" href="http://mono.voltdata.info/search">
+    <link rel="alternate" type="application/rss+xml" title="Mono" href="http://mono.voltdata.info/feed.xml" />
 
     <!--[if lt IE 9]>
         <script src="/js/vendor/html5shiv.min.js"></script>
@@ -26,35 +26,93 @@
     <div class="no-js-menu clearfix">
         <ul>
             
-                <li><i class="fa "></i><a href="/">Início</a></li>
+                <li><i class="fa fa-home"></i><a href="/">Início</a></li>
             
-                <li><i class="fa  "></i><a href="/sobre">Sobre</a></li>
+                <li><i class="fa fa-info"></i><a href="/sobre">Sobre</a></li>
             
-                <li><i class="fa  "></i><a href="/contato">Contato</a></li>
+                <li><i class="fa fa-envelope-o"></i><a href="/contato">Contato</a></li>
             
-                <li><i class="fa  "></i><a href="/quem">Quem faz</a></li>
+                <li><i class="fa fa-users"></i><a href="/quem">Quem faz</a></li>
+            
+                <li><i class="fa fa-search"></i><a href="/search">Explore</a></li>
             
         </ul>
     </div>
 </noscript>
 <!-- end no script -->
 
-    <div class="search">
-	<form action="/search.html" method="get">
-  <label for="search-box">Busque por qualquer coisa</label>
-  <input type="text" id="search-box" name="query">
-  <!-- <input type="submit" value="search"> -->
-</form>
-<hr />
+    <main class="container left-container">
+    <div class="row">
+        <div id="menu-target">
+    <ul>
+        
+            <li><i class="fa fa-home"></i><a href="/">Início</a></li>
+        
+            <li><i class="fa fa-info"></i><a href="/sobre">Sobre</a></li>
+        
+            <li><i class="fa fa-envelope-o"></i><a href="/contato">Contato</a></li>
+        
+            <li><i class="fa fa-users"></i><a href="/quem">Quem faz</a></li>
+        
+            <li><i class="fa fa-search"></i><a href="/search">Explore</a></li>
+        
+    </ul>
+</div>
 
-<ul id="search-results"></ul>
+        <section class="sidebar col-md-5 col-sm-12" style='background-image: url(/img/.jpg);'>
+
+    <span class="menu-trigger animated fadeInDown">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+    </span>
+    <section class="header-master">
+    <div style="text-align:right;margin-right:30px;margin-top:-30px;">
+      <br />
+      <h1 id="logo"><a href="/" style="border:0">M0N0</a></h1>
+      <p style="font-size:16px;line-height:10px">Um banco de gráficos sobre tudo<br /><br />por <span style="font-family:Inconsolata"><a href="http://voltdata.info" target="_blank">Volt Data Lab</a></span></p>
+
+      <div class="social-links">
+        <a class="social-icon" href="https://medium.com/volt-data-lab" target="_blank" style="border-bottom:0;margin-left:10px"><i class="fa fa-medium fa-4x" aria-hidden="true"></i></a>
+        <a class="social-icon" href="https://twitter.com/voltdatalab" target="_blank" style="border-bottom:0;margin-left:10px"><i class="fa fa-twitter-square fa-4x" aria-hidden="true"></i></a>
+        <a class="social-icon" href="https://facebook.com/voltdata" target="_blank" style="border-bottom:0;margin-left:10px"><i class="fa fa-facebook-square fa-4x" aria-hidden="true"></i></a>
+      </div>
+
+    </div>
+    <div style="margin: 50px 30px 1% 1%;text-align:right">
+      <form action="/search.html" method="get">
+      <label for="search-box">Busque por qualquer coisa</label>
+      <input type="text" id="search-box" name="query" placeholder="Ex. Brasil, Turismo, Morsas">
+      <!-- <input type="submit" value="search"> -->
+    </form>
+  </div>
+</section>
+    <div class="site-info">
+        <div class="primary-info">
+            <h1></h1>
+            <p></p>
+
+        </div>
+        
+        <div class="secondary-info">
+            <p>
+                <a class="btn btn-primary" href="https://tinyletter.com/voltdatalab"><i class="fa fa-envelope-o"></i>assine a newsletter do Volt</a>
+            </p>
+        </div>
+        
+    </div>
+</section><!-- end sidebar -->
+
+
+        <div class="col-md-7 col-sm-12 col-md-offset-5 main-content">
+            <ul id="search-results"></ul>
 
 <script>
   window.store = {
     
       "registros-dominios-govbr": {
         "title": "Registro de domínios gov.br",
-        "tags": "[&quot;brasil&quot;, &quot;online&quot;, &quot;domínios&quot;]",
+        "author": "",
         "category": "",
         "content": "DescriçãoInformações sobre os Domínios gov.br registrados. Data da última atualização quando consultado:\t2/Fevereiro/2017ReferênciaLink para dados",
         "url": "/registros-dominios-govbr"
@@ -63,7 +121,7 @@
     
       "queimadas-amazonas-1998-2016": {
         "title": "Recorde de focos de queimadas no Amazonas",
-        "tags": "[&quot;queimadas&quot;, &quot;amazonas&quot;, &quot;brasil&quot;, &quot;meio-ambiente&quot;]",
+        "author": "",
         "category": "",
         "content": "DescriçãoComparação do total de focos ativos detectados pelo satélite de referência em cada mês, no período de 1998 até 09/02/2017.Referências  Fonte: INPE - Instituto Nacional de Pesquisas Espaciais  Link para Dados",
         "url": "/queimadas-amazonas-1998-2016"
@@ -72,7 +130,7 @@
     
       "morsas-concentracoes": {
         "title": "Concentrações de morsas no Ártico",
-        "tags": "[&quot;morsas&quot;, &quot;Ártico&quot;, &quot;animais&quot;]",
+        "author": "",
         "category": "",
         "content": "DescriçãoRegistros sobre aglomerações de morsas em dois dos principais mares do Oceano Ártico.Referências  Pacific Walrus Coastal Haulout Database 1852-2016, Serviço Geológico dos Estados Unidos",
         "url": "/morsas-concentracoes"
@@ -81,7 +139,7 @@
     
       "minha-casa-minha-vida-2016": {
         "title": "Minha Casa Minha Vida - Balanço 2016",
-        "tags": "[&quot;governo federal&quot;, &quot;programas sociais&quot;, &quot;minha casa minha vida&quot;]",
+        "author": "",
         "category": "",
         "content": "DescriçãoContratações e entregas do programa Minha Casa Minha Vida, do governo federal. Balanço fechado de 2016.Referências      Informações enviadas via assessoria de imprensa do Ministério das Cidades        Link para tabela  ",
         "url": "/minha-casa-minha-vida-2016"
@@ -90,7 +148,7 @@
     
       "juros-mundo-fev2017": {
         "title": "Juros no mundo - base fev/2017",
-        "tags": "[&quot;brasil&quot;, &quot;euro&quot;, &quot;juros&quot;, &quot;selic&quot;]",
+        "author": "",
         "category": "",
         "content": "DescriçãoTaxa básica de juros nas maiores economias do mundo, com base nos valores apurados até 09/02/2017.Referências  Fonte: Trending Economics  Link para dados",
         "url": "/juros-mundo-fev2017"
@@ -99,7 +157,7 @@
     
       "evolucao-juros-mundo-fev2017": {
         "title": "Diferenças entre taxas mínimas e máximas de juros no mundo",
-        "tags": "[&quot;brasil&quot;, &quot;euro&quot;, &quot;juros&quot;, &quot;selic&quot;]",
+        "author": "",
         "category": "",
         "content": "DescriçãoDiferença entre os valores mínimos e máximos da básica de juros registrados nas maiores economias do mundo, independentemente de quando foram registrados, com base nos valores apurados até 09/02/2017.Referências  Fonte: Trending Economics  Link para dados",
         "url": "/evolucao-juros-mundo-fev2017"
@@ -108,7 +166,7 @@
     
       "empresas-de-turismo-brasil-2016": {
         "title": "Empresas de Turismo por porte - 2o sem 2016",
-        "tags": "[&quot;turismo&quot;]",
+        "author": "",
         "category": "",
         "content": "DescriçãoDados dos prestadores de serviço turístico (Agencias de Turismo) com situação regular no 2º trimestre de 2016. Gráfico mostra número de empresas por porte/tamanho.Referências      Portal Brasileiro dos Dados Abertos, Cadastrur        Link para tabela com análise do Volt  ",
         "url": "/empresas-de-turismo-brasil-2016"
@@ -117,7 +175,7 @@
     
       "empresas-de-turismo-brasil-2016-parte2": {
         "title": "Empresas de Turismo por UF - 2o sem 2016",
-        "tags": "[&quot;turismo&quot;]",
+        "author": "",
         "category": "",
         "content": "DescriçãoDados dos prestadores de serviço turístico (Agencias de Turismo) com situação regular no 2º trimestre de 2016. Gráfico mostra número de empresas por unidade federativa no Brasil.Referências      Portal Brasileiro dos Dados Abertos, Cadastrur        Link para tabela com análise do Volt  ",
         "url": "/empresas-de-turismo-brasil-2016-parte2"
@@ -126,10 +184,26 @@
     
   };
 </script>
-<script src="/js/lunr.min.js"></script>
-<script src="/js/search.js"></script>
+<script src="/searchjs/lunr.min.js"></script>
+<script src="/searchjs/search.js"></script>
 
-</div>
+            <footer class="split-footer">
+    
+        <a href="/sobre">Sobre o projeto</a>
+
+        
+            <i class="link-spacer"></i>
+        
+    
+        <a href="/quem">Quem faz</a>
+
+        
+    
+</footer>
+        </div><!-- main content -->
+    </div> <!--/row -->
+
+</main> <!-- /container -->
 
 
     <script src='/js/vendor/modernizr.custom.32229-2.8-respondjs-1-4-2.js'></script>

@@ -9,11 +9,10 @@ author_avatar: felippe
 show_avatar : true
 feature_image: registros_govbr.png
 show_related_posts: true
-square_related: recommend-bar
 
 tags:
-- brasil
-- online
+- brasil,
+- online,
 - domínios
 ---
 

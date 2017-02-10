@@ -1,13 +1,24 @@
 
-<h3 style="margin-left:10px;color:#a7000c">Outros Gráficos no Mono</h3>
+<h3 class="outros_graficos" style="margin-left:10px;">Outros Gráficos no Mono</h3>
 <div class="row read-another-section">
     {% for post in site.related_posts %}
         {% if forloop.index <= 6 %}
         <a href="{{ post.url | prepend: site.baseurl }}"><div class="col-sm-6 col-md-2 no-gutter read-another-container">
             <div class="overlay"></div>
-            <img src='{{ "/img/" | append: post.square_related | prepend: site.baseurl }}.jpg'>
+            <img src='{{ "/graf/" | append: post.feature_image | prepend: site.baseurl }}' class="recommend_img">
             <h3 class="read-another">{{ post.title }}</h3>
         </div></a>
         {% endif %}
     {% endfor %}
 </div>
+
+<style>
+.recommend_img {
+  max-height: 180px;
+  overflow: auto;
+}
+
+.outros_graficos{
+  color:#a7000c
+}
+</style>

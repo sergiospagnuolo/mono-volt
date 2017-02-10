@@ -8,18 +8,17 @@ layout: default
         <span class="bar"></span>
         <span class="bar"></span>
     </span>
-
     {% include nav.html %}
+    <h1 style="color:#a7000c;float:right;margin-right:30px;"><a href="/">M0N0</a></h1>
 </header>
 
 <main class="container">
     <div class="row">
         <div class="col-xs-12 single-content">
-            <p class="meta">
-                <a href='{{ "/category/" | append: page.categories.first | prepend: site.baseurl }}'>{{ page.categories[0] | capitalize }}</a>
-            </p>
-
             <h1>{{ page.title }}</h1>
+            <p class="meta" style="color:#a7000c;text-transform:uppercase;font-family:Inconsolata">
+                Arquivado em  <a href='{{ "/category/" | append: page.categories.first | prepend: site.baseurl }}'>{{ page.categories[0] | capitalize }}</a>
+            </p>
             <hr />
             {{ content }}
 

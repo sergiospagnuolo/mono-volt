@@ -6900,7 +6900,8 @@ button.close {
   content: "\f23a"; }
 
 body {
-  line-height: 1.65; }
+  line-height: 1.65;
+  background-color: #fff; }
 
 body,
 button,
@@ -6909,6 +6910,16 @@ select,
 textarea {
   color: #222;
   font-family: "Merriweather", serif; }
+
+input {
+  padding: 10px;
+  max-width: 100%;
+  width: 800px;
+  font-size: 14px;
+  border: 1px #a7000c solid;
+  border-radius: 5px;
+  background-color: #f5f5f5;
+  color: #777; }
 
 .post-preview,
 .sidebar,
@@ -6981,6 +6992,9 @@ ol {
   ul li,
   ol li {
     margin: 5px 0; }
+
+#logo a {
+  border: none; }
 
 .animated {
   -webkit-animation-fill-mode: both;
@@ -7362,20 +7376,20 @@ ol {
 .btn-primary,
 .label-primary,
 .progress-bar-primary {
-  background: #4761e2;
-  border-color: #314edf; }
+  background: #a7000c; }
   .btn-primary:hover,
   .label-primary:hover,
   .progress-bar-primary:hover {
-    background: #2140d5;
-    border-color: #213ed0; }
+    background: #5e5e5e; }
 
 .btn-primary {
-  background: #4761e2;
+  background: #a7000c;
   color: #fff;
-  font-family: "Inconsolata", Helvetica, Arial, sans-serif; }
+  font-family: "Inconsolata", Helvetica, Arial, sans-serif;
+  float: right;
+  margin-left: 100px; }
   .btn-primary:hover {
-    background-color: #2F49CA;
+    background: #5e5e5e;
     color: #fff; }
   .btn-primary:active {
     background-color: #2B43BD; }
@@ -7503,7 +7517,7 @@ ol {
   min-height: 100%; }
 
 #jPanelMenu-menu {
-  background-color: #333337;
+  background-color: #ccc;
   overflow: hidden;
   overflow-y: hidden !important; }
   #jPanelMenu-menu ul {
@@ -7514,17 +7528,18 @@ ol {
     list-style: none; }
     #jPanelMenu-menu li i {
       padding: 0 20px;
-      color: #DADADA;
+      color: #a7000c;
       font-style: normal;
-      font-size: 14px;
-      font-size: 1.4rem; }
+      font-size: 16px;
+      font-size: 1.6rem; }
     #jPanelMenu-menu li a {
-      color: #DADADA;
+      color: #a7000c;
+      text-align: left;
       font-family: "Inconsolata", Helvetica, Arial, sans-serif;
       font-weight: 700;
       border-bottom: 0 transparent;
-      font-size: 12px;
-      font-size: 1.2rem; }
+      font-size: 22px;
+      font-size: 2.2rem; }
       #jPanelMenu-menu li a:hover {
         border-bottom: none;
         color: #fff; }
@@ -7767,8 +7782,8 @@ ol {
 hr {
   display: block;
   width: 20%;
-  margin: 50px auto 40px auto;
-  border: 1px solid #dededc; }
+  margin: 30px auto 40px 0;
+  border: 1px solid #777; }
 
 blockquote {
   font-size: 24px;
@@ -7882,7 +7897,8 @@ footer.single {
     footer.single .social-icon i {
       font-style: normal; }
     footer.single .social-icon:hover, footer.single .social-icon:active {
-      border: none; }
+      border: none;
+      color: #a7000c; }
   footer.single .category-list {
     padding: 30px 0; }
     @media (min-width: 768px) {
@@ -8239,5 +8255,5 @@ a {
   text-decoration: none; }
   a:hover, a:active, a:focus {
     text-decoration: none;
-    color: #999;
+    color: #a7000c;
     border-bottom: solid 2px #a7000c; }

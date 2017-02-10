@@ -9,7 +9,6 @@ author_avatar: sergio
 show_avatar : true
 feature_image: mercado-turstico-no-brasil.png
 show_related_posts: true
-square_related: recommend-bar
 
 tags:
 - turismo

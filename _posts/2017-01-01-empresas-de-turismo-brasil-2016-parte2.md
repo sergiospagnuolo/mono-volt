@@ -9,7 +9,6 @@ author_avatar: sergio
 show_avatar : true
 feature_image: mercado-turstico-por-estado-no-br.png
 show_related_posts: true
-square_related: recommend-bar
 
 tags:
 - turismo

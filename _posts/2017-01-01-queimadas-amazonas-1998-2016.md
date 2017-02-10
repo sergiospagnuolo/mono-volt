@@ -9,7 +9,6 @@ author_avatar: sergio
 show_avatar : true
 feature_image: queimadas-1998-2016.png
 show_related_posts: true
-square_related: recommend-bar
 
 tags:
 - queimadas

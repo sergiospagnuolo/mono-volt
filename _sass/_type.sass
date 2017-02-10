@@ -11,6 +11,7 @@ $base-color : $volt-red
 
 body
     line-height: 1.65
+    background-color: #fff
 
 body,
 button,
@@ -19,6 +20,16 @@ select,
 textarea
     color: $text-color
     font-family: $serif
+
+input
+    padding: 10px
+    max-width: 100%
+    width: 800px
+    font-size: 14px
+    border: 1px #a7000c solid
+    border-radius: 5px
+    background-color: #f5f5f5
+    color: $light-grey
 
 // Text rendering for titles only to insure no performance hit
 .post-preview,
@@ -82,3 +93,8 @@ ol
 
     li
         margin: 5px 0
+
+#logo a
+    border: none
+
+#logo a:hover

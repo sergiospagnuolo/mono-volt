@@ -5,6 +5,8 @@ permalink: /sobre/
 feature_image: mono
 ---
 
+___
+
 É muito fácil ter acesso a dados hoje em dia. Já é assim faz algum tempo. Mas o que fazer com esses dados?
 
 Às vezes, dados são bons o suficiente para jornalistas contarem uma história, escreverem um furo de reportagem, encontrarem uma notícia. Para isso, veículos jornalísticos valem-se do chamado *jornalismo de dados*, que nada mais é do que o dado como o guia da reportagem - em vez, digamos, de uma dica de uma fonte, de uma declaração, de um documento.

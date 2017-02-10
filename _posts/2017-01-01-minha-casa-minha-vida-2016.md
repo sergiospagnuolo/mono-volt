@@ -9,7 +9,6 @@ author_avatar: sergio
 show_avatar : true
 feature_image: balanco_minha_casa_minha_vida.png
 show_related_posts: true
-square_related: recommend-bar
 
 tags:
 - governo federal

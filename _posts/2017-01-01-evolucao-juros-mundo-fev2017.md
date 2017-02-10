@@ -11,9 +11,9 @@ feature_image: juros-no-mundo.png
 show_related_posts: true
 
 tags:
-- brasil
-- euro
-- juros
+- brasil,
+- euro,
+- juros,
 - selic
 ---
 

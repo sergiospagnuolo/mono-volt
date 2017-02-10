@@ -16,10 +16,10 @@ tags:
 
 ![Gráfico empresas turismo UF](/graf/mercado-turstico-por-estado-no-br.png)
 
-#### Descrição
+### Descrição
 Dados dos prestadores de serviço turístico (Agencias de Turismo) com situação regular no 2º trimestre de 2016. Gráfico mostra número de empresas por unidade federativa no Brasil.
 
-#### Referências
+### Referências
 
 * [Portal Brasileiro dos Dados Abertos](http://dados.gov.br/dataset/cadastur-pj-agencia/resource/7bab4346-fa6e-4493-b9ad-d179cce4b851), Cadastrur
 

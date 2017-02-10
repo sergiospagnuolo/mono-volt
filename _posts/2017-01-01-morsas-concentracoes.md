@@ -11,9 +11,9 @@ feature_image: morsas-no-pacfico-norte.png
 show_related_posts: true
 
 tags:
-- morsas
-- ártico
-- animais
+- morsas,
+- ártico,
+- animais,
 ---
 
 ![grafico morsas](/graf/morsas-no-pacfico-norte.png)

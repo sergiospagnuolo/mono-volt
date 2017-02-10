@@ -5,9 +5,123 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 Feb 2017 19:19:52 -0200</pubDate>
-    <lastBuildDate>Fri, 10 Feb 2017 19:19:52 -0200</lastBuildDate>
+    <pubDate>Fri, 10 Feb 2017 20:34:33 -0200</pubDate>
+    <lastBuildDate>Fri, 10 Feb 2017 20:34:33 -0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Empresas no Brasil não superam custos</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/industria-2014-ibge.png&quot; alt=&quot;Gráfico empresas industriais IBGE&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+&lt;p&gt;Resultados das empresas industriais no Brasil, de acordo com estudo realizado pelo IBGE com dados de 2014, o mais recente até a publicação desse gráfico. Segundo o site do IBGE, um novo estudo industrial está previsto para meados do ano, com dados de 2015.&lt;/p&gt;
+
+&lt;p&gt;Abaixo, a tabela exata que consta no estudo, apenas com alteração na marcação de unidade em reais, por motivos de estilo. Nota está abaixo da tabela.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;descrição&lt;/th&gt;
+      &lt;th&gt;2013&lt;/th&gt;
+      &lt;th&gt;2014&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Número de empresas&lt;/td&gt;
+      &lt;td&gt;334,474&lt;/td&gt;
+      &lt;td&gt;334,752&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Pessoal ocupado total&lt;/td&gt;
+      &lt;td&gt;9,038,136&lt;/td&gt;
+      &lt;td&gt;8,817,389&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Média de pessoal ocupado por empresa&lt;/td&gt;
+      &lt;td&gt;27&lt;/td&gt;
+      &lt;td&gt;26&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Receita líquida de vendas (1 000 000 R$) (1)&lt;/td&gt;
+      &lt;td&gt;2,660,902&lt;/td&gt;
+      &lt;td&gt;2,796,480&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Gastos de pessoal (1 000 000 R$) (1)&lt;/td&gt;
+      &lt;td&gt;386,337&lt;/td&gt;
+      &lt;td&gt;416,779&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Valor bruto da produção (1000 000 R$) (1)&lt;/td&gt;
+      &lt;td&gt;2,536,933&lt;/td&gt;
+      &lt;td&gt;2,655,537&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Consumo intermediário (1 000 000 R$) (1)&lt;/td&gt;
+      &lt;td&gt;1,759,908&lt;/td&gt;
+      &lt;td&gt;1,872,413&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Valor adicionado (1 000 000 R$) (1)&lt;/td&gt;
+      &lt;td&gt;777,024&lt;/td&gt;
+      &lt;td&gt;783,124&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Valor bruto da produção industrial (1 000 000 R$) (1)&lt;/td&gt;
+      &lt;td&gt;2,416,100&lt;/td&gt;
+      &lt;td&gt;2,529,984&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Custos das operações industriais (1 000 000 R$) (1)&lt;/td&gt;
+      &lt;td&gt;1,330,927&lt;/td&gt;
+      &lt;td&gt;1,410,596&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Valor da transformação industrial (1 000 000 R$) (1)&lt;/td&gt;
+      &lt;td&gt;1,085,172&lt;/td&gt;
+      &lt;td&gt;1,119,388&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Investimentos realizados para o ativo imobilizado (1 000 000 R$) (1)&lt;/td&gt;
+      &lt;td&gt;214,605&lt;/td&gt;
+      &lt;td&gt;216,250&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Custos e despesas (1 000 000 R$) (1)&lt;/td&gt;
+      &lt;td&gt;2,752,815&lt;/td&gt;
+      &lt;td&gt;2,997,218&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;todos-os-dados-so-em-valores-correntes-em-r-e-devem-ser-multiplicados-por-1000000---ou-seja-trata-se-de-trilhes&quot;&gt;&lt;em&gt;Todos os dados são em valores correntes em R$ e devem ser multiplicados por 1,000,000 - ou seja, trata-se de trilhões.&lt;/em&gt;&lt;/h4&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://biblioteca.ibge.gov.br/visualizacao/periodicos/1719/pia_2014_v33_n1_empresa.pdf&quot;&gt;Pesquisa Industrial 2014 &lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&amp;amp;id=71719&quot;&gt;Link para biblioteca do IBGE&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 10 Feb 2017 00:00:00 -0200</pubDate>
+        <link>http://mono.voltdata.info/ibge-dados-industriais-resultados</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/ibge-dados-industriais-resultados</guid>
+        
+        <category>indústria,</category>
+        
+        <category>custo,</category>
+        
+        <category>resultados</category>
+        
+        
+        <category>empresas</category>
+        
+      </item>
     
       <item>
         <title>Registro de domínios gov.br</title>
@@ -52,13 +166,13 @@
         <link>http://mono.voltdata.info/queimadas-amazonas-1998-2016</link>
         <guid isPermaLink="true">http://mono.voltdata.info/queimadas-amazonas-1998-2016</guid>
         
-        <category>queimadas</category>
+        <category>queimadas,</category>
         
-        <category>amazonas</category>
+        <category>amazonas,</category>
         
-        <category>brasil</category>
+        <category>brasil,</category>
         
-        <category>meio-ambiente</category>
+        <category>meio-ambiente,</category>
         
         
         <category>ambiente</category>
@@ -82,11 +196,11 @@
         <link>http://mono.voltdata.info/morsas-concentracoes</link>
         <guid isPermaLink="true">http://mono.voltdata.info/morsas-concentracoes</guid>
         
-        <category>morsas</category>
+        <category>morsas,</category>
         
-        <category>ártico</category>
+        <category>ártico,</category>
         
-        <category>animais</category>
+        <category>animais,</category>
         
         
         <category>ciência</category>
@@ -97,10 +211,10 @@
         <title>Minha Casa Minha Vida - Balanço 2016</title>
         <description>&lt;p&gt;&lt;img src=&quot;/graf/balanco_minha_casa_minha_vida.png&quot; alt=&quot;Grafico registros gov.br&quot; /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;descrio&quot;&gt;Descrição&lt;/h4&gt;
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
 &lt;p&gt;Contratações e entregas do programa &lt;a href=&quot;http://www.minhacasaminhavida.gov.br/&quot;&gt;Minha Casa Minha Vida&lt;/a&gt;, do governo federal. Balanço fechado de 2016.&lt;/p&gt;
 
-&lt;h4 id=&quot;referncias&quot;&gt;Referências&lt;/h4&gt;
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -115,11 +229,11 @@
         <link>http://mono.voltdata.info/minha-casa-minha-vida-2016</link>
         <guid isPermaLink="true">http://mono.voltdata.info/minha-casa-minha-vida-2016</guid>
         
-        <category>governo federal</category>
+        <category>governo federal,</category>
         
-        <category>programas sociais</category>
+        <category>programas sociais,</category>
         
-        <category>minha casa minha vida</category>
+        <category>minha casa minha vida,</category>
         
         
         <category>governos</category>
@@ -143,11 +257,11 @@
         <link>http://mono.voltdata.info/juros-mundo-fev2017</link>
         <guid isPermaLink="true">http://mono.voltdata.info/juros-mundo-fev2017</guid>
         
-        <category>brasil</category>
+        <category>brasil,</category>
         
-        <category>euro</category>
+        <category>euro,</category>
         
-        <category>juros</category>
+        <category>juros,</category>
         
         <category>selic</category>
         
@@ -173,11 +287,11 @@
         <link>http://mono.voltdata.info/evolucao-juros-mundo-fev2017</link>
         <guid isPermaLink="true">http://mono.voltdata.info/evolucao-juros-mundo-fev2017</guid>
         
-        <category>brasil</category>
+        <category>brasil,</category>
         
-        <category>euro</category>
+        <category>euro,</category>
         
-        <category>juros</category>
+        <category>juros,</category>
         
         <category>selic</category>
         
@@ -190,10 +304,10 @@
         <title>Empresas de Turismo por porte - 2o sem 2016</title>
         <description>&lt;p&gt;&lt;img src=&quot;/graf/mercado-turstico-no-brasil.png&quot; alt=&quot;Gráfico mercado turismo&quot; /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;descrio&quot;&gt;Descrição&lt;/h4&gt;
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
 &lt;p&gt;Dados dos prestadores de serviço turístico (Agencias de Turismo) com situação regular no 2º trimestre de 2016. Gráfico mostra número de empresas por porte/tamanho.&lt;/p&gt;
 
-&lt;h4 id=&quot;referncias&quot;&gt;Referências&lt;/h4&gt;
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -219,10 +333,10 @@
         <title>Empresas de Turismo por UF - 2o sem 2016</title>
         <description>&lt;p&gt;&lt;img src=&quot;/graf/mercado-turstico-por-estado-no-br.png&quot; alt=&quot;Gráfico empresas turismo UF&quot; /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;descrio&quot;&gt;Descrição&lt;/h4&gt;
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
 &lt;p&gt;Dados dos prestadores de serviço turístico (Agencias de Turismo) com situação regular no 2º trimestre de 2016. Gráfico mostra número de empresas por unidade federativa no Brasil.&lt;/p&gt;
 
-&lt;h4 id=&quot;referncias&quot;&gt;Referências&lt;/h4&gt;
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;

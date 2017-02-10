@@ -5,8 +5,8 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 Feb 2017 20:59:59 -0200</pubDate>
-    <lastBuildDate>Fri, 10 Feb 2017 20:59:59 -0200</lastBuildDate>
+    <pubDate>Fri, 10 Feb 2017 21:21:53 -0200</pubDate>
+    <lastBuildDate>Fri, 10 Feb 2017 21:21:53 -0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -120,6 +120,32 @@
         
         
         <category>empresas</category>
+        
+      </item>
+    
+      <item>
+        <title>Maiores ondas registradas - algumas delas não dá para surfar</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/maiores-ondas.png&quot; alt=&quot;Gráfico maiores ondas&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+&lt;p&gt;Dados de 2014 sobre as maiores ondas já registradas no mundo, compilados pela Smithsonian Magazine. A revista não cita fontes, mas com uma busca na Internet dá pra verificar. Eu converti os valores de pés para metros, utilizando um aplicativo.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.smithsonianmag.com/science-nature/biggest-waves-recorded-history-180952432/#ZPrYC09dPIqvqGqy.99&quot;&gt;Smithsonian Magazine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 09 Feb 2017 00:00:00 -0200</pubDate>
+        <link>http://mono.voltdata.info/maiores-ondas-registradas</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/maiores-ondas-registradas</guid>
+        
+        <category>ondas,</category>
+        
+        <category>surf</category>
+        
+        
+        <category>esporte</category>
         
       </item>
     

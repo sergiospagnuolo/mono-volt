@@ -1,8 +1,20 @@
 ---
 published: true
+categories: ambiente
+title: GO e MG lideram desmatamento no cerrado
+layout: post-no-feature
+excerpt: 'Total de desmatamento acumulado em 11 Estados, em km2'
+author_name: Sérgio Spagnuolo
+author_url: /author/sergio
+author_avatar: sergio
+show_avatar: true
+feature_image: desmatamento-cerrado.png
+show_related_posts: true
+tags:
+  - 'desmatamento,'
+  - 'cerrado,'
+  - estados
 ---
-## GO e MG lideram desmatamento no cerrado
-
 ![Grafico desmatamento no cerrado](/graf/desmatamento-cerrado.png)
 
 ### Descrição

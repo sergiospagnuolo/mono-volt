@@ -5,9 +5,124 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 Feb 2017 12:15:01 -0200</pubDate>
-    <lastBuildDate>Sun, 12 Feb 2017 12:15:01 -0200</lastBuildDate>
+    <pubDate>Mon, 13 Feb 2017 00:54:44 -0200</pubDate>
+    <lastBuildDate>Mon, 13 Feb 2017 00:54:44 -0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>GO e MG lideram desmatamento no cerrado</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/desmatamento-cerrado.png&quot; alt=&quot;Grafico desmatamento no cerrado&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;Desmatamento acumulado do cerrado nos Estados mencionados até 2013, conforme Planos de Ação para a Prevenção e o Controle do Desmatamento no Cerrado e na Amazônia, publicado em dezembro de 2016.&lt;/p&gt;
+
+&lt;p&gt;Segundo o relatório, à página 35, “o desmatamento mensurado não diferencia o desmatamento legal, permitido no Código Florestal (Lei nº 12.651/2012), do desmatamento ilegal.”&lt;/p&gt;
+
+&lt;p&gt;Abaixo, tabela de destamento por categoria fundiária. Terras privadas, voltadas para produção agrícola, naturalmente possuem uma taxa de desmatamento muito maior.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Estado&lt;/th&gt;
+      &lt;th&gt;Terras Privadas/Outras&lt;/th&gt;
+      &lt;th&gt;Terras Indígenas&lt;/th&gt;
+      &lt;th&gt;Áreas de conservação&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;GO&lt;/td&gt;
+      &lt;td&gt;98 %&lt;/td&gt;
+      &lt;td&gt;0 %&lt;/td&gt;
+      &lt;td&gt;0.1 %&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;MG&lt;/td&gt;
+      &lt;td&gt;98&lt;/td&gt;
+      &lt;td&gt;0.1&lt;/td&gt;
+      &lt;td&gt;0.4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;MS&lt;/td&gt;
+      &lt;td&gt;98&lt;/td&gt;
+      &lt;td&gt;0.3&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;MT&lt;/td&gt;
+      &lt;td&gt;96&lt;/td&gt;
+      &lt;td&gt;0.2&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;SP&lt;/td&gt;
+      &lt;td&gt;99&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0.1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;TO&lt;/td&gt;
+      &lt;td&gt;95&lt;/td&gt;
+      &lt;td&gt;0.1&lt;/td&gt;
+      &lt;td&gt;0.2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;BA&lt;/td&gt;
+      &lt;td&gt;96&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0.2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;MA&lt;/td&gt;
+      &lt;td&gt;93&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0.3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PI&lt;/td&gt;
+      &lt;td&gt;98&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0.2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DF&lt;/td&gt;
+      &lt;td&gt;91&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PR&lt;/td&gt;
+      &lt;td&gt;100&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;fonte-mma&quot;&gt;Fonte: MMA&lt;/h4&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.mma.gov.br/images/arquivo/80120/PPCDAm%20e%20PPCerrado%20-%20Encarte%20Principal%20-%20GPTI%20_%20p%20site.pdf&quot;&gt;Planos de Ação para a Prevenção e
+o Controle do Desmatamento&lt;/a&gt;, elaborado pelo Departamento de Políticas para o Combate ao Desmatamento do Ministério do Meio Ambiente&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 13 Feb 2017 00:00:00 -0200</pubDate>
+        <link>http://mono.voltdata.info/serra-no-cerrado</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/serra-no-cerrado</guid>
+        
+        <category>desmatamento,</category>
+        
+        <category>cerrado,</category>
+        
+        <category>estados</category>
+        
+        
+        <category>ambiente</category>
+        
+      </item>
     
       <item>
         <title>Tarifa anual de cartões de crédito - pouca diferença desde 2008</title>
@@ -390,35 +505,6 @@
         
         
         <category>economia</category>
-        
-      </item>
-    
-      <item>
-        <title>Empresas de Turismo por porte - 2o sem 2016</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/mercado-turstico-no-brasil.png&quot; alt=&quot;Gráfico mercado turismo&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-&lt;p&gt;Dados dos prestadores de serviço turístico (Agencias de Turismo) com situação regular no 2º trimestre de 2016. Gráfico mostra número de empresas por porte/tamanho.&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://dados.gov.br/dataset/cadastur-pj-agencia/resource/7bab4346-fa6e-4493-b9ad-d179cce4b851&quot;&gt;Portal Brasileiro dos Dados Abertos&lt;/a&gt;, Cadastrur&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1Z95pBybnd2Hs1BztPSbDNWpW9BWm9Lg8sdHe6cL-oSc/edit?usp=sharing&quot;&gt;Link para tabela com análise do Volt&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 02 Feb 2017 00:00:00 -0200</pubDate>
-        <link>http://mono.voltdata.info/empresas-de-turismo-brasil-2016</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/empresas-de-turismo-brasil-2016</guid>
-        
-        <category>turismo</category>
-        
-        
-        <category>empresas</category>
         
       </item>
     

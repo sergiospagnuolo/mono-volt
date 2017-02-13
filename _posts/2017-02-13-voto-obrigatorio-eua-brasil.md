@@ -1,6 +1,6 @@
 ---
 categories: governos
-title: O voto obrigatório nos EUA ajudaria Trump?
+title: O voto obrigatório nos EUA aumentaria comparecimento às urnas?
 layout: post-no-feature
 author_name: Sérgio Spagnuolo
 exerpt: 'Gráfico interativo'

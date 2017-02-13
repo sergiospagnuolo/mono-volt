@@ -9,7 +9,7 @@
     <meta property="og:title" content="{{ site.title }} | {% if page.title %}{{ page.title }}{% endif %}" />
     <meta property="og:type" content="blog" />
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-    <meta property="og:image" content="/graf/{{ page.feature_image }}" />
+    <meta property="og:image" content="{{ site.url }}/graf/{{ page.feature_image }}" />
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 

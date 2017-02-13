@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## GO e MG lideram desmatamento no cerrado
 

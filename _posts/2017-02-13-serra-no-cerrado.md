@@ -3,7 +3,6 @@ published: true
 categories: ambiente
 title: GO e MG lideram desmatamento no cerrado
 layout: post-no-feature
-excerpt: 'Total de desmatamento acumulado em 11 Estados, em km2'
 author_name: Sérgio Spagnuolo
 author_url: /author/sergio
 author_avatar: sergio
@@ -23,7 +22,7 @@ Desmatamento acumulado do cerrado nos Estados mencionados até 2013, conforme Pl
 
 Segundo o relatório, à página 35, "o desmatamento mensurado não diferencia o desmatamento legal, permitido no Código Florestal (Lei nº 12.651/2012), do desmatamento ilegal."
 
-Abaixo, tabela de destamento por categoria fundiária. Terras privadas, voltadas para produção agrícola, naturalmente possuem uma taxa de desmatamento muito maior. 
+Abaixo, tabela de destamento por categoria fundiária. Terras privadas, voltadas para produção agrícola, naturalmente possuem uma taxa de desmatamento muito maior.
 
 
 | Estado | Terras Privadas/Outras | Terras Indígenas | Áreas de conservação |
@@ -41,6 +40,7 @@ Abaixo, tabela de destamento por categoria fundiária. Terras privadas, voltadas
 | PR     | 100                    | 0                | 0                    |
 
 #### Fonte: MMA
+#### Áreas de conservação incluem federal e estadual
 
 ### Referências
 

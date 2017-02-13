@@ -2,8 +2,8 @@
 categories: governos
 title: O voto obrigatório nos EUA ajudaria Trump?
 layout: post-no-feature
-excerpt: 'Taxa de comparecimento às urnas em relação à população com idade de voto nos EUA comparada às maiores democracias com voto obrigatório, em eleições gerais'
 author_name: Sérgio Spagnuolo
+exerpt: 'Gráfico interativo'
 author_url: /author/sergio
 author_avatar: sergio
 show_avatar: true

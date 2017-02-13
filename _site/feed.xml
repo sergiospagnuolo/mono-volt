@@ -5,8 +5,8 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Feb 2017 11:55:38 -0200</pubDate>
-    <lastBuildDate>Mon, 13 Feb 2017 11:55:38 -0200</lastBuildDate>
+    <pubDate>Mon, 13 Feb 2017 13:14:49 -0200</pubDate>
+    <lastBuildDate>Mon, 13 Feb 2017 13:14:49 -0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -312,6 +312,7 @@ d3.csv(&quot;https://cdn.rawgit.com/voltdatalab/dados/master/politica/eua-vs-man
 &lt;/table&gt;
 
 &lt;h4 id=&quot;fonte-mma&quot;&gt;Fonte: MMA&lt;/h4&gt;
+&lt;p&gt;#### Áreas de conservação incluem federal e estadual&lt;/p&gt;
 
 &lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
 
@@ -332,6 +333,46 @@ o Controle do Desmatamento&lt;/a&gt;, elaborado pelo Departamento de Políticas 
         
         
         <category>ambiente</category>
+        
+      </item>
+    
+      <item>
+        <title>Qual a estimativa de pessoas com AIDS nos maiores países emergentes</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/dados-aids-bris.png&quot; alt=&quot;Gráfico AIDS brics&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;Prevalência estimada, em percentual, pessoas entre 15 e 49 anos vivendo com HIV. Fiz um recorte aqui apenas com dados a partir de 1990, considerando que antes disso se tratava de algumas estimativas feitas pelo Gapminder, não de dados da ONU.&lt;/p&gt;
+
+&lt;p&gt;A UNAIDS &lt;a href=&quot;http://www.unaids.org/en/regionscountries/countries/southafrica&quot;&gt;estima&lt;/a&gt; que cerca de 7 milhões de pessoas na África do Sul estejam vivendo com AIDS.&lt;/p&gt;
+
+&lt;p&gt;A epidemia de AIDS no país africado pode ter chegado ao pico, segundo &lt;a href=&quot;http://www.unaids.org/sites/default/files/country/documents//ce_ZA_Narrative_Report.pdf&quot;&gt;relatório&lt;/a&gt; da agência da ONU (em inglês), mas o país tem tido alguns avanços, especialmente em tratamento.&lt;/p&gt;
+
+&lt;p&gt;“Há uma substancial queda em mortalidade relacionada à AIDS em anos recentes, com o número anual de mortes por AIDS reduzido de cerca de 257 mil em 2005 para cerca de 194 mil em 2010”, segundo o relatório.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.aidsinfoonline.org&quot;&gt;UNAIDS&lt;/a&gt;, com dados compilados pelo &lt;a href=&quot;http://www.gapminder.org/data/&quot;&gt;Gapminder&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://spreadsheets.google.com/pub?key=pyj6tScZqmEfbZyl0qjbiRQ&amp;amp;gid=0&quot;&gt;Link para tabela&lt;/a&gt; do Gapminder&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 13 Feb 2017 00:00:00 -0200</pubDate>
+        <link>http://mono.voltdata.info/aids-emergentes</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/aids-emergentes</guid>
+        
+        <category>AIDS, </category>
+        
+        <category>saúde, </category>
+        
+        <category>BRICS</category>
+        
+        
+        <category>ciência</category>
         
       </item>
     
@@ -391,7 +432,7 @@ o Controle do Desmatamento&lt;/a&gt;, elaborado pelo Departamento de Políticas 
   &lt;li&gt;&lt;a href=&quot;http://www.bcb.gov.br/?SPBADENDOS&quot;&gt;Estatísticas de Pagamentos de Varejo e de Cartões no Brasil&lt;/a&gt;, Banco Central do Brasil&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sun, 12 Feb 2017 00:00:00 -0200</pubDate>
+        <pubDate>Mon, 13 Feb 2017 00:00:00 -0200</pubDate>
         <link>http://mono.voltdata.info/cartoes-credito-tarifas</link>
         <guid isPermaLink="true">http://mono.voltdata.info/cartoes-credito-tarifas</guid>
         
@@ -656,36 +697,6 @@ o Controle do Desmatamento&lt;/a&gt;, elaborado pelo Departamento de Políticas 
         
         
         <category>governos</category>
-        
-      </item>
-    
-      <item>
-        <title>Juros no mundo - base fev/2017</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/juros-no-mundo.png&quot; alt=&quot;Grafico registros gov.br&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-&lt;p&gt;Taxa básica de juros nas maiores economias do mundo, com base nos valores apurados até 09/02/2017.&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Fonte: Trending Economics&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.tradingeconomics.com/country-list/interest-rate&quot;&gt;Link para dados&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 04 Feb 2017 00:00:00 -0200</pubDate>
-        <link>http://mono.voltdata.info/juros-mundo-fev2017</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/juros-mundo-fev2017</guid>
-        
-        <category>brasil,</category>
-        
-        <category>euro,</category>
-        
-        <category>juros,</category>
-        
-        <category>selic</category>
-        
-        
-        <category>economia</category>
         
       </item>
     

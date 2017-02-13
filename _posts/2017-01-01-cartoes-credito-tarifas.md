@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: Tarifa anual de cartões de crédito - pouca diferença desde 2008
-date: 2017-02-12
+date: 2017-02-13
 categories: empresas
 #excerpt: Tarifas médias das principais bandeiras de cartão de crédito de 2008 a 2015
 author_name : Sérgio Spagnuolo

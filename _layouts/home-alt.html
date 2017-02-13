@@ -2,13 +2,29 @@
 layout: with-sidebar
 ---
 
+<section class="row favorite-categories animated fadeIn">
+    <div class="col-sm-12">
+        <h2 class="favorites">Explore por categoria<h2>
+    </div>
+
+     {% for category in site.categories %}
+        {% if forloop.index <= 9 %}
+        <div class="category-preview col-xs-6 col-sm-4 ">
+            <h2>{{ category | first | capitalize }}</h2>
+            <a href='{{ "/category/" | append: category.first | prepend: site.baseurl }}'><img src='{{ "/img/" | append: category.first | prepend: site.baseurl }}-thumbnail.png' alt="category-image" height="230px" width="160px;"></a>
+        </div>
+        {% endif %}
+    {% endfor %}
+
+</section>
+
 <section class="row">
     <div class="col-sm-12">
-        <h2 class="favorites">Favorite posts</h2>
+        <h2 class="favorites">Explore os Gráficos</h2>
     </div>
 
     {% for post in site.posts %}
-        {% if forloop.index <= 4 %}
+        {% if forloop.index <= 50 %}
         <article class="post-favorite col-xs-12 col-sm-6 ">
             <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
 
@@ -23,19 +39,3 @@ layout: with-sidebar
     {% endfor %}
 
 </section><!-- end fav posts -->
-
-<section class="row favorite-categories animated fadeIn">
-    <div class="col-sm-12">
-        <h2 class="favorites">Favorite categories<h2>
-    </div>
-
-     {% for category in site.categories %}
-        {% if forloop.index <= 3 %}
-        <div class="category-preview col-xs-6 col-sm-4 ">
-            <h2>{{ category | first | capitalize }}</h2>
-            <a href='{{ "/category/" | append: category.first | prepend: site.baseurl }}'><img src='{{ "/img/" | append: category.first | prepend: site.baseurl }}-thumbnail.jpg' alt="category-image"></a>
-        </div>
-        {% endif %}
-    {% endfor %}
-
-</section>

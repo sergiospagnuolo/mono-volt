@@ -2,6 +2,7 @@
 published: true
 categories: ambiente
 title: GO e MG lideram desmatamento no cerrado
+date: 2017-02-12
 layout: post-no-feature
 author_name: Sérgio Spagnuolo
 author_url: /author/sergio

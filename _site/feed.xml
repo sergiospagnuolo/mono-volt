@@ -5,8 +5,8 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Feb 2017 13:14:49 -0200</pubDate>
-    <lastBuildDate>Mon, 13 Feb 2017 13:14:49 -0200</lastBuildDate>
+    <pubDate>Mon, 13 Feb 2017 15:39:25 -0200</pubDate>
+    <lastBuildDate>Mon, 13 Feb 2017 15:39:25 -0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -221,6 +221,103 @@ d3.csv(&quot;https://cdn.rawgit.com/voltdatalab/dados/master/politica/eua-vs-man
       </item>
     
       <item>
+        <title>Entre grandes economias mundiais, só a China não peca no consumo de açúcar</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/doce-desenvolvimento.png&quot; alt=&quot;Grafico consumo de açúcar&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;Consumo de açúcar diário por pessoas, em gramas. A ideia aqui foi pegar uma grande economia de cada continente e comparar com a recomendação de consumo da Organização Mundial da Saúde, de apenas 50 gramas por dia.&lt;/p&gt;
+
+&lt;p&gt;Como podemos ver, apenas a China não extrapola esse nível de consumo, ao passo que os Estados Unidos estão bem à frente. No longo prazo, no entanto, apenas a África do Sul reduziu seu consumo diário dentre os países citados.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://faostat.fao.org/site/609/DesktopDefault.aspx?PageID=609#cible&quot;&gt;FAO&lt;/a&gt;, com dados compilados pelo &lt;a href=&quot;http://www.gapminder.org/data/&quot;&gt;Gapminder&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spreadsheets.google.com/pub?key=phAwcNAVuyj2sdmdhX9zuKg&amp;amp;gid=0&quot;&gt;Link para tabela&lt;/a&gt; Gapminder&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 13 Feb 2017 00:00:00 -0200</pubDate>
+        <link>http://mono.voltdata.info/consumo-acucar</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/consumo-acucar</guid>
+        
+        <category>açúcar,</category>
+        
+        <category>consumo</category>
+        
+        
+        <category>coisas</category>
+        
+      </item>
+    
+      <item>
+        <title>Tarifa anual de cartões de crédito - pouca diferença desde 2008</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/tarifa-cartoes-credito.png&quot; alt=&quot;Gráfico empresas industriais IBGE&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+&lt;p&gt;Tarifas anuais médias das principais bandeiras de cartão de crédito de 2008 a 2015, com valores já deflacionados pelo IPCA, segundo informações do Banco Central coletadas junto aos emissores dos cartões. As informações são trimestrais.&lt;/p&gt;
+
+&lt;p&gt;Abaixo, a tarifa média de cada bandeira a de 2008 a 2015, exceto para Elo e Hipercard, que foram lançadas depois.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;bandeira&lt;/th&gt;
+      &lt;th&gt;tarifa média - 2008/2015&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;American Express&lt;/td&gt;
+      &lt;td&gt;R$ 78.58&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Diners Club&lt;/td&gt;
+      &lt;td&gt;R$ 155.54&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Elo&lt;/td&gt;
+      &lt;td&gt;R$ 53.99&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Hipercard&lt;/td&gt;
+      &lt;td&gt;R$ 128.53&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;MasterCard&lt;/td&gt;
+      &lt;td&gt;R$  78.40&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Visa&lt;/td&gt;
+      &lt;td&gt;R$ 81.30&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;elo-a-partir-de-2011---hipercard-a-partir-de-2013&quot;&gt;&lt;em&gt;Elo a partir de 2011 - Hipercard a partir de 2013&lt;/em&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;fonte-banco-central&quot;&gt;&lt;em&gt;Fonte: Banco Central&lt;/em&gt;&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bcb.gov.br/?SPBADENDOS&quot;&gt;Estatísticas de Pagamentos de Varejo e de Cartões no Brasil&lt;/a&gt;, Banco Central do Brasil&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 13 Feb 2017 00:00:00 -0200</pubDate>
+        <link>http://mono.voltdata.info/cartoes-credito-tarifas</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/cartoes-credito-tarifas</guid>
+        
+        <category>cartão de crédito</category>
+        
+        
+        <category>empresas</category>
+        
+      </item>
+    
+      <item>
         <title>GO e MG lideram desmatamento no cerrado</title>
         <description>&lt;p&gt;&lt;img src=&quot;/graf/desmatamento-cerrado.png&quot; alt=&quot;Grafico desmatamento no cerrado&quot; /&gt;&lt;/p&gt;
 
@@ -321,7 +418,7 @@ d3.csv(&quot;https://cdn.rawgit.com/voltdatalab/dados/master/politica/eua-vs-man
 o Controle do Desmatamento&lt;/a&gt;, elaborado pelo Departamento de Políticas para o Combate ao Desmatamento do Ministério do Meio Ambiente&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 13 Feb 2017 00:00:00 -0200</pubDate>
+        <pubDate>Sun, 12 Feb 2017 00:00:00 -0200</pubDate>
         <link>http://mono.voltdata.info/serra-no-cerrado</link>
         <guid isPermaLink="true">http://mono.voltdata.info/serra-no-cerrado</guid>
         
@@ -361,7 +458,7 @@ o Controle do Desmatamento&lt;/a&gt;, elaborado pelo Departamento de Políticas 
   &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 13 Feb 2017 00:00:00 -0200</pubDate>
+        <pubDate>Sun, 12 Feb 2017 00:00:00 -0200</pubDate>
         <link>http://mono.voltdata.info/aids-emergentes</link>
         <guid isPermaLink="true">http://mono.voltdata.info/aids-emergentes</guid>
         
@@ -373,73 +470,6 @@ o Controle do Desmatamento&lt;/a&gt;, elaborado pelo Departamento de Políticas 
         
         
         <category>ciência</category>
-        
-      </item>
-    
-      <item>
-        <title>Tarifa anual de cartões de crédito - pouca diferença desde 2008</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/tarifa-cartoes-credito.png&quot; alt=&quot;Gráfico empresas industriais IBGE&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-&lt;p&gt;Tarifas anuais médias das principais bandeiras de cartão de crédito de 2008 a 2015, com valores já deflacionados pelo IPCA, segundo informações do Banco Central coletadas junto aos emissores dos cartões. As informações são trimestrais.&lt;/p&gt;
-
-&lt;p&gt;Abaixo, a tarifa média de cada bandeira a de 2008 a 2015, exceto para Elo e Hipercard, que foram lançadas depois.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;bandeira&lt;/th&gt;
-      &lt;th&gt;tarifa média - 2008/2015&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;American Express&lt;/td&gt;
-      &lt;td&gt;R$ 78.58&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Diners Club&lt;/td&gt;
-      &lt;td&gt;R$ 155.54&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Elo&lt;/td&gt;
-      &lt;td&gt;R$ 53.99&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Hipercard&lt;/td&gt;
-      &lt;td&gt;R$ 128.53&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MasterCard&lt;/td&gt;
-      &lt;td&gt;R$  78.40&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Visa&lt;/td&gt;
-      &lt;td&gt;R$ 81.30&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h4 id=&quot;elo-a-partir-de-2011---hipercard-a-partir-de-2013&quot;&gt;&lt;em&gt;Elo a partir de 2011 - Hipercard a partir de 2013&lt;/em&gt;&lt;/h4&gt;
-
-&lt;h4 id=&quot;fonte-banco-central&quot;&gt;&lt;em&gt;Fonte: Banco Central&lt;/em&gt;&lt;/h4&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.bcb.gov.br/?SPBADENDOS&quot;&gt;Estatísticas de Pagamentos de Varejo e de Cartões no Brasil&lt;/a&gt;, Banco Central do Brasil&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 13 Feb 2017 00:00:00 -0200</pubDate>
-        <link>http://mono.voltdata.info/cartoes-credito-tarifas</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/cartoes-credito-tarifas</guid>
-        
-        <category>cartão de crédito</category>
-        
-        
-        <category>empresas</category>
         
       </item>
     
@@ -664,39 +694,6 @@ o Controle do Desmatamento&lt;/a&gt;, elaborado pelo Departamento de Políticas 
         
         
         <category>ciência</category>
-        
-      </item>
-    
-      <item>
-        <title>Minha Casa Minha Vida - Balanço 2016</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/balanco_minha_casa_minha_vida.png&quot; alt=&quot;Grafico registros gov.br&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-&lt;p&gt;Contratações e entregas do programa &lt;a href=&quot;http://www.minhacasaminhavida.gov.br/&quot;&gt;Minha Casa Minha Vida&lt;/a&gt;, do governo federal. Balanço fechado de 2016.&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Informações enviadas via assessoria de imprensa do &lt;a href=&quot;http://www.cidades.gov.br/&quot;&gt;Ministério das Cidades&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1xybmHvU7gIjpgdr-tSpE0PAt4uhDgkKCqIwpvZRWn_k/edit?usp=sharing&quot;&gt;Link para tabela&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 05 Feb 2017 00:00:00 -0200</pubDate>
-        <link>http://mono.voltdata.info/minha-casa-minha-vida-2016</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/minha-casa-minha-vida-2016</guid>
-        
-        <category>governo federal,</category>
-        
-        <category>programas sociais,</category>
-        
-        <category>minha casa minha vida,</category>
-        
-        
-        <category>governos</category>
         
       </item>
     

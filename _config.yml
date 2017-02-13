@@ -9,10 +9,11 @@ enable_retina: false
 permalink: :title
 nav_list:
   Home : ['Início', '/', 'fa-home']
-  About : ['Sobre', '/sobre', 'fa-info']
+  About : ['Sobre', '/sobre', 'fa-file-text-o']
   Contact : ['Colabore', '/contato', 'fa-envelope-o']
   Author : ['Quem faz', '/quem', 'fa-users']
   Search: ['Explore', '/explore', 'fa-search']
+  Feed: ['RSS', '/feed.xml', 'fa-rss-square']
 single_footer: '<p>Mono, por <a href="http://voltdata.info" target="_blank"> Volt Data Lab</a> - 2017 - <a href="/">gráficos recentes</a> </p>'
 footer_links:
     About: ['Sobre o projeto', '/sobre']

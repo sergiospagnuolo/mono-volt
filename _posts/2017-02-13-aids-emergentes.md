@@ -1,6 +1,7 @@
 ---
 categories: ciência
 title: Qual a estimativa de pessoas com AIDS nos maiores países emergentes
+date: 2017-02-12
 layout: post-no-feature
 author_name: Sérgio Spagnuolo
 author_url: /author/sergio

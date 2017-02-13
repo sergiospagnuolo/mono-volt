@@ -23,7 +23,7 @@ Levem em conta que ainda vamos melhorar essa plataforma, inteiramente baseada em
 
 E considerem também que o **Mono** vai ser baseado em **buscas diretas**, baseadas em tags e categorias, e não em navegação por subeditorias. Não pretendemos colocar uma página para cada categoria que criarmos. O interesse do usuário é que guiará o que ele quiser ver.
 
-Breve nota sobre o nome do projeto: "Mono" pode ser muitas coisas, mas também significa "macaco" em espanhol. A ideia é de que pulemos de gualho em galho, com gráficos e dados sobre de qualquer assunto.
+Breve nota sobre o nome do projeto: "Mono" pode ser muitas coisas, mas também significa "macaco" em espanhol. A ideia é de que pulemos de galho em galho, com gráficos e dados sobre de qualquer assunto.
 
 Fica um alerta, no entanto, que, como qualquer protótipo, esse projeto busca se provar como algo viável, sem futuro certo. Só esperamos encontrar interesse entre, não apenas aqueles que acompanham o jornalismo e suas ramificações, mas também entre consumidores de notícia de uma maneira geral.
 

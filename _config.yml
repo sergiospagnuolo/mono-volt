@@ -10,7 +10,7 @@ permalink: :title
 nav_list:
   Home : ['Início', '/', 'fa-home']
   About : ['Sobre', '/sobre', 'fa-info']
-  Contact : ['Contato', '/contato', 'fa-envelope-o']
+  Contact : ['Colabore', '/contato', 'fa-envelope-o']
   Author : ['Quem faz', '/quem', 'fa-users']
   Search: ['Explore', '/search', 'fa-search']
 single_footer: '<p>Mono, por <a href="http://voltdata.info" target="_blank"> Volt Data Lab</a> - 2017 - <a href="/">gráficos recentes</a> </p>'

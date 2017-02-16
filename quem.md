@@ -2,7 +2,7 @@
 layout: page_no_hero
 title: Quem faz
 permalink: /quem/
-feature_image: mono
+feature_image: mono.jpg
 ---
 
 ---

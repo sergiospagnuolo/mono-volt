@@ -7387,7 +7387,7 @@ ol {
   color: #fff;
   font-family: "Inconsolata", Helvetica, Arial, sans-serif;
   float: right;
-  margin-left: 100px; }
+  margin-left: 0px; }
   .btn-primary:hover {
     background: #5e5e5e;
     color: #fff; }
@@ -7589,7 +7589,7 @@ ol {
       width: 464px; } }
   .sidebar .site-info {
     padding: 90px 15px 0 15px;
-    color: #fafafa; }
+    color: #222; }
     @media (min-width: 768px) {
       .sidebar .site-info {
         padding: 180px 100px 0 100px; } }
@@ -7624,10 +7624,10 @@ ol {
     .sidebar .site-info .primary-info {
       border-bottom: solid 1px rgba(255, 255, 255, 0.3); }
       .sidebar .site-info .primary-info a {
-        color: #E0E0E0; }
+        color: #222; }
       .sidebar .site-info .primary-info a:hover,
       .sidebar .site-info .primary-info a:active {
-        color: #fafafa; }
+        color: #222; }
     .sidebar .site-info .secondary-info p {
       margin: 20px 0 0;
       font-family: "Inconsolata", Helvetica, Arial, sans-serif;

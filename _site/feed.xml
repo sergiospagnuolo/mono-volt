@@ -5,9 +5,44 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Feb 2017 17:03:45 -0200</pubDate>
-    <lastBuildDate>Thu, 16 Feb 2017 17:03:45 -0200</lastBuildDate>
+    <pubDate>Thu, 16 Feb 2017 19:28:54 -0200</pubDate>
+    <lastBuildDate>Thu, 16 Feb 2017 19:28:54 -0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Buscas por 'Espírito Santo' no Google disparam e atingem máxima histórica</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/popularidade-infeliz.png&quot; alt=&quot;Grafico buscas por ES no Google&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;Imerso em uma grave crise de segurança pública, o Espírito Santo foi bastante popular entre internautas: as buscas pelo Estado no Google nunca foram tão altas, de acordo com dados do mecanismo de buscas. Uma fama infeliz, no entanto, considerando que durante a crise o &lt;a href=&quot;http://www1.folha.uol.com.br/cotidiano/2017/02/1859279-com-motim-da-policia-militar-mortes-no-es-sobem-quase-quatro-vezes.shtml&quot;&gt;número de homicídios&lt;/a&gt; disparou.&lt;/p&gt;
+
+&lt;p&gt;Em uma escala de 0 a 100, onde 0 é interesse mínimo por um assunto e 100 representa o máximo, o ES atingiu, no início de fevereiro, a marca mais alta já registrada desde o começo da série, em 2004. Um mês antes, no começo do ano, foram registrados 48 pontos.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.com/trends/&quot;&gt;Google Trends&lt;/a&gt; - busca simples pelo termo “Espírito Santo”&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 16 Feb 2017 08:00:00 -0200</pubDate>
+        <link>http://mono.voltdata.info/crise-ES-dispara-buscas-google</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/crise-ES-dispara-buscas-google</guid>
+        
+        <category>violência, </category>
+        
+        <category>segurança, </category>
+        
+        <category>Espírito Santo, </category>
+        
+        <category>Google, </category>
+        
+        <category>Buscas na Internet</category>
+        
+        
+        <category>internet</category>
+        
+      </item>
     
       <item>
         <title>Entre 150 PMs indiciados no ES, apenas 4 oficiais</title>
@@ -624,121 +659,6 @@ d3.csv(&quot;https://cdn.rawgit.com/voltdatalab/dados/master/politica/eua-vs-man
         
         
         <category>empresas</category>
-        
-      </item>
-    
-      <item>
-        <title>GO e MG lideram desmatamento no cerrado</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/desmatamento-cerrado.png&quot; alt=&quot;Grafico desmatamento no cerrado&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;Desmatamento acumulado do cerrado nos Estados mencionados até 2013, conforme Planos de Ação para a Prevenção e o Controle do Desmatamento no Cerrado e na Amazônia, publicado em dezembro de 2016.&lt;/p&gt;
-
-&lt;p&gt;Segundo o relatório, à página 35, “o desmatamento mensurado não diferencia o desmatamento legal, permitido no Código Florestal (Lei nº 12.651/2012), do desmatamento ilegal.”&lt;/p&gt;
-
-&lt;p&gt;Abaixo, tabela de destamento por categoria fundiária. Terras privadas, voltadas para produção agrícola, naturalmente possuem uma taxa de desmatamento muito maior.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Estado&lt;/th&gt;
-      &lt;th&gt;Terras Privadas/Outras&lt;/th&gt;
-      &lt;th&gt;Terras Indígenas&lt;/th&gt;
-      &lt;th&gt;Áreas de conservação&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;GO&lt;/td&gt;
-      &lt;td&gt;98 %&lt;/td&gt;
-      &lt;td&gt;0 %&lt;/td&gt;
-      &lt;td&gt;0.1 %&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MG&lt;/td&gt;
-      &lt;td&gt;98&lt;/td&gt;
-      &lt;td&gt;0.1&lt;/td&gt;
-      &lt;td&gt;0.4&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MS&lt;/td&gt;
-      &lt;td&gt;98&lt;/td&gt;
-      &lt;td&gt;0.3&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MT&lt;/td&gt;
-      &lt;td&gt;96&lt;/td&gt;
-      &lt;td&gt;0.2&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;SP&lt;/td&gt;
-      &lt;td&gt;99&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0.1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;TO&lt;/td&gt;
-      &lt;td&gt;95&lt;/td&gt;
-      &lt;td&gt;0.1&lt;/td&gt;
-      &lt;td&gt;0.2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;BA&lt;/td&gt;
-      &lt;td&gt;96&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0.2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MA&lt;/td&gt;
-      &lt;td&gt;93&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0.3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;PI&lt;/td&gt;
-      &lt;td&gt;98&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0.2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;DF&lt;/td&gt;
-      &lt;td&gt;91&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;4&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;PR&lt;/td&gt;
-      &lt;td&gt;100&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h6 id=&quot;reas-de-conservao-incluem-federal-e-estadual&quot;&gt;Áreas de conservação incluem federal e estadual&lt;/h6&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.mma.gov.br/images/arquivo/80120/PPCDAm%20e%20PPCerrado%20-%20Encarte%20Principal%20-%20GPTI%20_%20p%20site.pdf&quot;&gt;Planos de Ação para a Prevenção e
-o Controle do Desmatamento&lt;/a&gt;, elaborado pelo Departamento de Políticas para o Combate ao Desmatamento do Ministério do Meio Ambiente&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 12 Feb 2017 00:00:00 -0200</pubDate>
-        <link>http://mono.voltdata.info/serra-no-cerrado</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/serra-no-cerrado</guid>
-        
-        <category>desmatamento,</category>
-        
-        <category>cerrado,</category>
-        
-        <category>estados</category>
-        
-        
-        <category>ambiente</category>
         
       </item>
     

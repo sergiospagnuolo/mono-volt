@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: Entre 150 PMs indiciados no ES, apenas 4 oficiais
-intro: Na primeira leva inquéritos contra policiais militares após motim no ES, apenas quatro oficiais foram indiciados
+intro: Na primeira leva de inquéritos contra policiais militares após motim no ES, apenas quatro oficiais foram indiciados
 categories: governos
 author_name: Sérgio Spagnuolo
 author_url: /author/sergio

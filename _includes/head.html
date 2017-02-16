@@ -9,7 +9,7 @@
     <meta property="og:title" content="{{ site.title }} | {% if page.title %}{{ page.title }}{% endif %}" />
     <meta property="og:type" content="blog" />
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-    <meta property="og:image" content="{% if page.feature_image %}{{ site.url }}/graf/{{ page.feature_image }}{% else %}mono{% endif %}" />
+    <meta property="og:image" content="{% if page.feature_image %}{{ site.url }}/graf/{{ page.feature_image }}{% else %}{{ site.url }}/img/mono.jpg{% endif %}" />
     <meta property="og:description" content="{% if page.intro %}{{ page.intro | strip_html | strip_newlines | truncate: 160 }}{% else %}Um banco de gráficos sobre tudo, por Volt Data Lab{% endif %}">
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">

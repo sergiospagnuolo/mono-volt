@@ -3,9 +3,9 @@ categories: ciência
 title: Qual a estimativa de pessoas com AIDS nos maiores países emergentes
 date: 2017-02-12
 layout: post-no-feature
-author_name: Sérgio Spagnuolo
-author_url: /author/sergio
-author_avatar: sergio
+author_name: Felippe Mercurio
+author_url: /author/felippe
+author_avatar: felippe
 show_avatar: true
 feature_image: dados-aids-bris.png
 show_related_posts: true

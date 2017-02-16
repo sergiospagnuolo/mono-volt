@@ -40,8 +40,7 @@ Abaixo, tabela de destamento por categoria fundiária. Terras privadas, voltadas
 | DF     | 91                     | 0                | 4                    |
 | PR     | 100                    | 0                | 0                    |
 
-#### Fonte: MMA
-#### Áreas de conservação incluem federal e estadual
+###### Áreas de conservação incluem federal e estadual
 
 ### Referências
 

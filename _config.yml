@@ -18,6 +18,7 @@ single_footer: '<p>Mono, por <a href="http://voltdata.info" target="_blank"> Vol
 footer_links:
     About: ['Sobre o projeto', '/sobre']
     Writer: ['Quem faz', '/quem']
+    Explore: ['Explore', '/explore']
 
 
 # Build settings

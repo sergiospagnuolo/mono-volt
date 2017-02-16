@@ -40,7 +40,7 @@ Abaixo, a tabela exata que consta no estudo, apenas com alteração na marcaçã
 | Investimentos realizados para o ativo imobilizado (1 000 000 R$) (1) | 214,605   | 216,250   |
 | Custos e despesas (1 000 000 R$) (1)                                 | 2,752,815 | 2,997,218 |
 
-#### *Todos os dados são em valores correntes em R$ e devem ser multiplicados por 1,000,000 - ou seja, trata-se de trilhões.*
+###### *Todos os dados são em valores correntes em R$ e devem ser multiplicados por 1,000,000 - ou seja, trata-se de trilhões.*
 
 
 ### Referências

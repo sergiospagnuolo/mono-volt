@@ -32,9 +32,9 @@ Abaixo, a tarifa média de cada bandeira a de 2008 a 2015, exceto para Elo e Hip
 | MasterCard       | R$  78.40                |
 | Visa             | R$ 81.30                 |
 
-#### *Elo a partir de 2011 - Hipercard a partir de 2013*
+###### *Elo a partir de 2011 - Hipercard a partir de 2013*
 
-#### *Fonte: Banco Central*
+###### *Fonte: Banco Central*
 
 ---
 

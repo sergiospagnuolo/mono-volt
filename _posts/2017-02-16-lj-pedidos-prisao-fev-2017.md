@@ -1,5 +1,6 @@
 ---
 categories: governos
+intro: Nas 37 fases da operação, assim como em desdobramentos, os pedidos de coercitivas já totalizam 202, enquanto preventivas e temporárias, somadas, totalizam 188
 title: Na Lava Jato, pedidos para condução coercitiva superam prisões preventivas e temporárias somadas
 layout: post-no-feature
 author_name: Sérgio Spagnuolo

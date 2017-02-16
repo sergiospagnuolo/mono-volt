@@ -3,6 +3,7 @@ layout: post-no-feature
 title: Recorde de focos de queimadas no Amazonas
 date: 2017-02-07
 categories: ambiente
+intro: Comparação do total de focos ativos detectados pelo satélite de referência em cada mês, de 1998 a 2017
 author_name : Sérgio Spagnuolo
 author_url : /author/sergio
 author_avatar: sergio

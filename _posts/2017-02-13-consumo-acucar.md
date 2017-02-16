@@ -1,6 +1,7 @@
 ---
 published: true
 categories: coisas
+intro: Consumo de açúcar diário por pessoas, em gramas
 title: Entre grandes economias mundiais, só a China não peca no consumo de açúcar
 date: 2017-02-13
 layout: post-no-feature

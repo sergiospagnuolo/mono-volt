@@ -1,5 +1,6 @@
 ---
 categories: governos
+intro: coletou menos de um terço das multas aplicadas em processos administrativos punitivos desde 2004
 title: Desde 2004, COAF recolheu apenas 29% das multas aplicadas
 layout: post-no-feature
 author_name: Felippe Mercurio

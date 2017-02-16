@@ -1,6 +1,7 @@
 ---
 published: true
 categories: ambiente
+intro: Desmatamento acumulado do cerrado nos Estados mencionados até 2013, conforme Planos de Ação para a Prevenção e o Controle do Desmatamento no Cerrado e na Amazônia
 title: GO e MG lideram desmatamento no cerrado
 date: 2017-02-12
 layout: post-no-feature

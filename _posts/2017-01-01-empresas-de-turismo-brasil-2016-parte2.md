@@ -3,6 +3,7 @@ layout: post-no-feature
 title: Empresas de Turismo por UF - 2o sem 2016
 date: 2017-02-01
 categories: empresas
+intro: Dados dos prestadores de serviço turístico (Agencias de Turismo) com situação regular no 2º trimestre de 2016
 author_name : Sérgio Spagnuolo
 author_url : /author/sergio
 author_avatar: sergio

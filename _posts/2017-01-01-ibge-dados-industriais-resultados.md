@@ -3,6 +3,7 @@ layout: post-no-feature
 title: Empresas no Brasil não vencem os custos, segundo IBGE
 date: 2017-02-10
 categories: empresas
+intro: Resultados das empresas industriais no Brasil, de acordo com estudo realizado pelo IBGE com dados de 2014
 author_name : Sérgio Spagnuolo
 author_url : /author/sergio
 author_avatar: sergio

@@ -3,6 +3,7 @@ categories: ciência
 title: Qual a estimativa de pessoas com AIDS nos maiores países emergentes
 date: 2017-02-12
 layout: post-no-feature
+intro: Prevalência estimada de pessoas entre 15 e 49 anos vivendo com HIV
 author_name: Felippe Mercurio
 author_url: /author/felippe
 author_avatar: felippe
@@ -19,7 +20,7 @@ tags:
 
 ### Descrição
 
-Prevalência estimada, em percentual, pessoas entre 15 e 49 anos vivendo com HIV. Fiz um recorte aqui apenas com dados a partir de 1990, considerando que antes disso se tratava de algumas estimativas feitas pelo Gapminder, não de dados da ONU.
+Prevalência estimada, em percentual, de pessoas entre 15 e 49 anos vivendo com HIV. Fiz um recorte aqui apenas com dados a partir de 1990, considerando que antes disso se tratava de algumas estimativas feitas pelo Gapminder, não de dados da ONU.
 
 A UNAIDS [estima](http://www.unaids.org/en/regionscountries/countries/southafrica) que cerca de 7 milhões de pessoas na África do Sul estejam vivendo com AIDS.
 

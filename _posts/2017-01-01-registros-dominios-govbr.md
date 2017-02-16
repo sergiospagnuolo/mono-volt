@@ -3,6 +3,7 @@ layout: post-no-feature
 title: Registro de domínios gov.br
 date: 2017-02-08
 categories: internet
+intro: Informações sobre os Domínios gov.br já registrados pelo governo federal
 author_name : Felippe Mercurio
 author_url : /author/felippe
 author_avatar: felippe
@@ -21,7 +22,7 @@ tags:
 
 
 ### Descrição
-Informações sobre os Domínios gov.br registrados. Data da última atualização quando consultado:	2/Fevereiro/2017
+Informações sobre os Domínios gov.br registrados pelo governo federal. Data da última atualização quando consultado:	2/Fevereiro/2017
 
 
 ### Referência

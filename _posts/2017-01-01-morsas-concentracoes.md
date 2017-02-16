@@ -3,6 +3,7 @@ layout: post-no-feature
 title: Concentrações de morsas no Ártico
 date: 2017-02-06
 categories: ciência
+intro: Registros sobre aglomerações de morsas em dois dos principais mares do Oceano Ártico
 author_name : Sérgio Spagnuolo
 author_url : /author/sergio
 author_avatar: sergio

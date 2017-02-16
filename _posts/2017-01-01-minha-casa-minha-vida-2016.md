@@ -4,6 +4,7 @@ title: Minha Casa Minha Vida - Balanço 2016
 date: 2017-02-05
 categories: governos
 author_name : Sérgio Spagnuolo
+intro: Contratações e entregas do programa Minha Casa Minha Vida do governo federal
 author_url : /author/sergio
 author_avatar: sergio
 show_avatar : true

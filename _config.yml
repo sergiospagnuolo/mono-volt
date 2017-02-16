@@ -2,7 +2,7 @@
 title: Mono
 port: 3000
 email: info@voltdata.info
-description: > # Mono é um repositório de gráficos produzidos pela agência Volt Data Lab
+description: > Mono é um banco de gráficos produzidos pela agência Volt Data Lab
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mono.voltdata.info" # the base hostname & protocol for your site
 enable_retina: false

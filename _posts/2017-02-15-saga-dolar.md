@@ -1,5 +1,6 @@
 ---
 categories: economia
+intro: Os muito otimistas podem ver uma abertura a economia, queda na inflação e viagens mais baratas. Os pessimistas podem lembrar que o valor da moeda ainda está muito superior à mediana desde o começo do Plano Real
 title: Dólar em queda no começo de 2017, em alta nos últimos 22 anos
 layout: post-no-feature
 author_name: Sérgio Spagnuolo

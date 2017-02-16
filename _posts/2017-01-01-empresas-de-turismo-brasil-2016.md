@@ -3,6 +3,7 @@ layout: post-no-feature
 title: Empresas de Turismo por porte - 2o sem 2016
 date: 2017-02-02
 categories: empresas
+intro: número de empresas de turismo por porte e tamanho
 author_name : Sérgio Spagnuolo
 author_url : /author/sergio
 author_avatar: sergio

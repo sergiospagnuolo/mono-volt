@@ -3,6 +3,7 @@ layout: post-no-feature
 title: Maiores ondas registradas - algumas delas não dá para surfar
 date: 2017-02-09
 categories: esporte
+intro: Dados de 2014 sobre as maiores ondas já registradas no mundo, compilados pela Smithsonian Magazine
 author_name : Sérgio Spagnuolo
 author_url : /author/sergio
 author_avatar: sergio

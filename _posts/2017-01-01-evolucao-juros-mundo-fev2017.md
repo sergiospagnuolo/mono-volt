@@ -3,6 +3,7 @@ layout: post-no-feature
 title: Diferenças entre taxas mínimas e máximas de juros no mundo
 date: 2017-02-03
 categories: economia
+intro: Diferença entre os valores mínimos e máximos da básica de juros registrados nas maiores economias do mundo
 author_name : Sérgio Spagnuolo
 author_url : /author/sergio
 author_avatar: sergio

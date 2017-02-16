@@ -3,6 +3,7 @@ layout: post-no-feature
 title: Juros no mundo - base fev/2017
 date: 2017-02-04
 categories: economia
+intro: Taxa básica de juros nas maiores economias do mundo
 author_name : Sérgio Spagnuolo
 author_url : /author/sergio
 author_avatar: sergio

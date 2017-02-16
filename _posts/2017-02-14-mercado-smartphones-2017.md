@@ -1,5 +1,6 @@
 ---
 categories: internet
+intro: Consultoria IDC prevê crescimento em 2017 por conta do ciclo de troca de aparelhos
 title: Vendas de smartphones têm previsão de alta em 2017, mas mercado já parece maduro
 layout: post-no-feature
 author_name: Felippe Mercurio

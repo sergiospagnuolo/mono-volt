@@ -2,7 +2,7 @@
 layout: page_no_hero
 title: Mono, um banco de gráficos sobre tudo
 permalink: /sobre/
-feature_image: mono
+feature_image: mono.jpg
 ---
 
 ___

@@ -5,9 +5,132 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Feb 2017 22:02:31 -0200</pubDate>
-    <lastBuildDate>Fri, 17 Feb 2017 22:02:31 -0200</lastBuildDate>
+    <pubDate>Sat, 18 Feb 2017 13:02:02 -0200</pubDate>
+    <lastBuildDate>Sat, 18 Feb 2017 13:02:02 -0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Em termos ajustados, como o dólar se comportou nos últimos 22 anos?</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/dolar-saga-p2.png&quot; alt=&quot;Grafico saga do dolar ajustado taxa bc&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;O &lt;a href=&quot;/saga-dolar&quot;&gt;primeiro gráfico&lt;/a&gt; no &lt;strong&gt;Mono&lt;/strong&gt; sobre a saga do dólar deu alguma repercussão. Alguns apontaram para as políticas cambiais de 1994 ao começo e 1999, quando o governo interferia no câmbio. Outros apontaram para a necessidade de uma comparação ajustada pela inflação - não apenas com os valores nominais como foi feito. Minha intenção foi mostrar a volatilidade do dólar em valores nominais desde a entrada em vigor do Real, em julho de 1994, e não apontar para as políticas do Banco Central nem para o poder de compra da época.&lt;/p&gt;
+
+&lt;p&gt;Todavia, foram colocações muito pertinentes, que acho que deveriam ser respondidas. A primeira foi respondida com uma atualização do &lt;a href=&quot;/saga-dolar&quot;&gt;&lt;em&gt;post&lt;/em&gt;&lt;/a&gt; anterior. Neste gráfico, tento responder a segunda.&lt;/p&gt;
+
+&lt;p&gt;Nele constam os índices de Taxa de Câmbio Real (TCR) e Taxa de Câmbio Real Efetiva (TCRE). Como eles são &lt;strong&gt;índices&lt;/strong&gt;, há um valor base comparativo - neste caso 100 para junho de 1994, quando o dólar foi estabelecido em 1:1 com o real.&lt;/p&gt;
+
+&lt;p&gt;A primeira taxa é “definida como a taxa de câmbio nominal corrigida pelo diferencial de preços internos e externos entre dois países/moedas”, de acordo com a metodologia do BC. Já a segunda, a TCRE, “pode ser definida como uma média de taxas de câmbio reais, frente a cada um dos países pertencentes a uma determinada cesta, ponderada pela participação de cada país no total da referida cesta.”&lt;/p&gt;
+
+&lt;p&gt;Podemos ver que, se considerarmos apenas a taxa real, o real agora está praticamente pareado com dólar em 1994 (um pouquinho mais barato).&lt;/p&gt;
+
+&lt;p&gt;No entanto, se considerarmos a taxa real efetiva, que o BC considera como uma análise “aprimorada”, segundo sua metodologia, o dólar ainda continua mais caro nos últimos 22 anos - embora aparentemente em queda.&lt;/p&gt;
+
+&lt;p&gt;Os dados, no entanto, vão apenas até dezembro de 2016 - ainda não havia dados de 2017 à época da publicação desta página.&lt;/p&gt;
+
+&lt;p&gt;Para fazer sua própria análise entre datas e valores do índice, o Volt publicou um gráfico interativo &lt;a href=&quot;http://www.charted.co/c/63fcb0a&quot;&gt;neste link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Série 1 (TCRE): &lt;a href=&quot;https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries&quot;&gt;Sistema Gerenciador de Séries Temporais&lt;/a&gt;, do Banco Central do Brasil. “Índice da taxa de câmbio efetiva real (IPCA) - Jun/1994=100”, Código 11752 do banco de dados&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Série 2 (TCR): &lt;a href=&quot;https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries&quot;&gt;Sistema Gerenciador de Séries Temporais&lt;/a&gt;, do Banco Central do Brasil. “Índice da taxa de câmbio real (IPCA) - Jun/1994=100 - Dólar americano”, Código 11753 do banco de dados&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;nota&quot;&gt;Nota&lt;/h3&gt;
+
+&lt;p&gt;A cesta de cálculo da TCRE é composta pelos 15 países elencados abaixo, os quais representaram 66% do total exportado pelo Brasil no período 2004 a 2006:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;país&lt;/th&gt;
+      &lt;th&gt;peso&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;EUA&lt;/td&gt;
+      &lt;td&gt;28,8%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Argentina&lt;/td&gt;
+      &lt;td&gt;12,5%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;China&lt;/td&gt;
+      &lt;td&gt;8,9%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Países Baixos&lt;/td&gt;
+      &lt;td&gt;7,3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Alemanha&lt;/td&gt;
+      &lt;td&gt;6,3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;México&lt;/td&gt;
+      &lt;td&gt;5,3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Japão&lt;/td&gt;
+      &lt;td&gt;4,3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Itália&lt;/td&gt;
+      &lt;td&gt;4,3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Chile&lt;/td&gt;
+      &lt;td&gt;4,3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Rússia&lt;/td&gt;
+      &lt;td&gt;3,4%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Reino Unido&lt;/td&gt;
+      &lt;td&gt;3,2%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;França&lt;/td&gt;
+      &lt;td&gt;3,2%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bélgica&lt;/td&gt;
+      &lt;td&gt;3,1%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Espanha&lt;/td&gt;
+      &lt;td&gt;2,8%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Coréia do Sul&lt;/td&gt;
+      &lt;td&gt;2,3%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Sat, 18 Feb 2017 00:00:00 -0200</pubDate>
+        <link>http://mono.voltdata.info/saga-dolar-parte2-vinganca</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/saga-dolar-parte2-vinganca</guid>
+        
+        <category>dólar, </category>
+        
+        <category>Banco Central, </category>
+        
+        <category>câmbio</category>
+        
+        
+        <category>economia</category>
+        
+      </item>
     
       <item>
         <title>Fusão Kraft Heinz/Unilever seria 3ª maior do mundo - se não tivesse sido declinada</title>
@@ -208,6 +331,10 @@
 
 &lt;p&gt;Além disso, um leitor colocou em questão a política de controle do dólar pelo Banco Central (como as bandas cambiais ou a &lt;a href=&quot;http://www.econ.puc-rio.br/gfranco/a45.htm&quot;&gt;famigerada&lt;/a&gt; ‘banda diagonal endógena’ de Chico Lopes), anterior à crise cambial de 1999. É um argumento válido. Se considerado o período a partir de 15 de janeiro de 1999, quando o país abandonou políticas de intervenção direta, &lt;strong&gt;a mediana até fevereiro de 2017 foi de R$2,19 por dólar&lt;/strong&gt;.&lt;/p&gt;
 
+&lt;p&gt;A PUC tem um &lt;a href=&quot;http://revistas.pucsp.br/index.php/aurora/article/viewFile/4174/2824&quot;&gt;bom artigo&lt;/a&gt; sobre a crise cambial de 1999.&lt;/p&gt;
+
+&lt;p&gt;Para conferir a saga do dólar ajustado, veja &lt;a href=&quot;/saga-dolar-parte2-vinganca&quot;&gt;este gráfico&lt;/a&gt;.&lt;/p&gt;
+
 &lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
 
 &lt;ul&gt;
@@ -218,13 +345,11 @@
         <link>http://mono.voltdata.info/saga-dolar</link>
         <guid isPermaLink="true">http://mono.voltdata.info/saga-dolar</guid>
         
-        <category>COAF, </category>
+        <category>dólar, </category>
         
-        <category>Fazenda, </category>
+        <category>Banco Central, </category>
         
-        <category>lavagem de dinheiro, </category>
-        
-        <category>combate ao terrorismo</category>
+        <category>câmbio</category>
         
         
         <category>economia</category>
@@ -606,36 +731,6 @@ d3.csv(&quot;https://cdn.rawgit.com/voltdatalab/dados/master/politica/eua-vs-man
         
         
         <category>governos</category>
-        
-      </item>
-    
-      <item>
-        <title>Entre grandes economias mundiais, só a China não peca no consumo de açúcar</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/doce-desenvolvimento.png&quot; alt=&quot;Grafico consumo de açúcar&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;Consumo de açúcar diário por pessoas, em gramas. A ideia aqui foi pegar uma grande economia de cada continente e comparar com a recomendação de consumo da Organização Mundial da Saúde, de apenas 50 gramas por dia.&lt;/p&gt;
-
-&lt;p&gt;Como podemos ver, apenas a China não extrapola esse nível de consumo, ao passo que os Estados Unidos estão bem à frente. No longo prazo, no entanto, apenas a África do Sul reduziu seu consumo diário dentre os países citados.&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://faostat.fao.org/site/609/DesktopDefault.aspx?PageID=609#cible&quot;&gt;FAO&lt;/a&gt;, com dados compilados pelo &lt;a href=&quot;http://www.gapminder.org/data/&quot;&gt;Gapminder&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://spreadsheets.google.com/pub?key=phAwcNAVuyj2sdmdhX9zuKg&amp;amp;gid=0&quot;&gt;Link para tabela&lt;/a&gt; Gapminder&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 13 Feb 2017 00:00:00 -0200</pubDate>
-        <link>http://mono.voltdata.info/consumo-acucar</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/consumo-acucar</guid>
-        
-        <category>açúcar,</category>
-        
-        <category>consumo</category>
-        
-        
-        <category>coisas</category>
         
       </item>
     

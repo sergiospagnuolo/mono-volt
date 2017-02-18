@@ -5,16 +5,15 @@
         </div>
         <div class="col-xs-12 col-sm-6">
             <div class="category-list">
-                <p>Publicado em <span>{{ page.date | date: "%d.%m.%Y" }}</span></p>
-                {% if page.include.revisado == true %}
-                <div class="secondary-info">
-                    <p>
-                        <span>Revistado em {{page.revisado_text}}</span></a>
-                    </p>
-                </div>
-                {% endif %}
-                <p>Por <a href="{{ page.author_url  | prepend: site.baseurl }}">{{ page.author_name | capitalize }}</a>
+                <p>Publicado em <span>{{ page.date | date: "%d.%m.%Y" }}</span>
+                {% if page.atualiza_data %}
+                <br />atualizado em <span><strong>{{ page.atualiza_data }}</strong></span>
 
+                {% else %}
+                {% endif %}
+                  </p>
+                  </div>
+                <p>Por <a href="{{ page.author_url  | prepend: site.baseurl }}">{{ page.author_name | capitalize }}</a></p>
                 <div class="other-catergories">
                     <h3>Arquivado em </h3>
 
@@ -37,9 +36,8 @@
                         {% endfor %}
                     </ul>
                 </div>
-
             </div>
-        </div><!-- end col -->
+        <!-- end col -->
         <div class="col-xs-12 col-sm-4">
             <div class="social">
                 <p>Compartilhe</a>

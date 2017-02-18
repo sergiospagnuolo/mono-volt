@@ -22,6 +22,32 @@ layout: default
             <hr />
             {{ content }}
 
+            {% if page.atualiza_data %}
+            <br />
+            <hr />
+            <div class="secondary-info">
+                <p>
+                  <em><span style="font-size:.8em">Publicação alterada em {{ page.atualiza_data }}
+                    para {{ page.atualiza_texto }}
+                  </span></em>
+                </p>
+            </div>
+            {% else %}
+            {% endif %}
+
+            {% if page.correcao_data %}
+            <br />
+            <hr />
+            <div class="secondary-info">
+                <p>
+                  <span style="color:#a7000c">Publicação alterada em {{ page.correcao_data }}
+                    para refletir a seguinte correção: {{ page.correcao_texto }}
+                  </span>
+                </p>
+            </div>
+            {% else %}
+            {% endif %}
+
         </div><!-- main-content/col -->
     </div> <!--/row -->
 

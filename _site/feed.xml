@@ -5,9 +5,176 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Feb 2017 13:53:54 -0200</pubDate>
-    <lastBuildDate>Sat, 18 Feb 2017 13:53:54 -0200</lastBuildDate>
+    <pubDate>Mon, 20 Feb 2017 17:42:39 -0300</pubDate>
+    <lastBuildDate>Mon, 20 Feb 2017 17:42:39 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Plenário do STF trabalha mais, mas produz menos decisões finais do que em 2010</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/produtividade-stf.png&quot; alt=&quot;Grafico stf produtividade&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;O plenário do Supremo Tribunal Federal (STF) tem arregaçado as mangas nos últimos anos, após uma aparente desaceleração das atividades em 2012. No entanto, o número de decisões finais desde então mudou pouco, ao passo que disparou o total de decisões em recurso interno - quando um ministro, por exemplo, entra com &lt;a href=&quot;http://www.stf.jus.br/portal/glossario/verVerbete.asp?letra=A&amp;amp;id=133&quot;&gt;agravo regimental&lt;/a&gt; ou outro recurso previsto no regimento contra uma decisão.&lt;/p&gt;
+
+&lt;p&gt;Para saber mais sobre o processo de trabalho do tribunal, a assessoria de gestão estratégica tem um &lt;a href=&quot;http://www.stf.jus.br/portal/cms/verTexto.asp?servico=estatistica&amp;amp;pagina=explicafases&quot;&gt;manual um tanto arcano&lt;/a&gt; sobre o assunto.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Espécie de decisão&lt;/th&gt;
+      &lt;th&gt;2010&lt;/th&gt;
+      &lt;th&gt;2011&lt;/th&gt;
+      &lt;th&gt;2012&lt;/th&gt;
+      &lt;th&gt;2013&lt;/th&gt;
+      &lt;th&gt;2014&lt;/th&gt;
+      &lt;th&gt;2015&lt;/th&gt;
+      &lt;th&gt;2016&lt;/th&gt;
+      &lt;th&gt;2 017&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Decisão em recurso interno&lt;/td&gt;
+      &lt;td&gt;2097&lt;/td&gt;
+      &lt;td&gt;1586&lt;/td&gt;
+      &lt;td&gt;1034&lt;/td&gt;
+      &lt;td&gt;2184&lt;/td&gt;
+      &lt;td&gt;2346&lt;/td&gt;
+      &lt;td&gt;2527&lt;/td&gt;
+      &lt;td&gt;3147&lt;/td&gt;
+      &lt;td&gt;134&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Decisão Final&lt;/td&gt;
+      &lt;td&gt;277&lt;/td&gt;
+      &lt;td&gt;229&lt;/td&gt;
+      &lt;td&gt;76&lt;/td&gt;
+      &lt;td&gt;141&lt;/td&gt;
+      &lt;td&gt;201&lt;/td&gt;
+      &lt;td&gt;154&lt;/td&gt;
+      &lt;td&gt;177&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Decisão Interlocutória&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Decisão Liminar&lt;/td&gt;
+      &lt;td&gt;32&lt;/td&gt;
+      &lt;td&gt;28&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;18&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Decisão Rep. Geral&lt;/td&gt;
+      &lt;td&gt;24&lt;/td&gt;
+      &lt;td&gt;22&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;40&lt;/td&gt;
+      &lt;td&gt;47&lt;/td&gt;
+      &lt;td&gt;34&lt;/td&gt;
+      &lt;td&gt;29&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Decisão Sobrestamento&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Soma:&lt;/td&gt;
+      &lt;td&gt;2432&lt;/td&gt;
+      &lt;td&gt;1865&lt;/td&gt;
+      &lt;td&gt;1129&lt;/td&gt;
+      &lt;td&gt;2379&lt;/td&gt;
+      &lt;td&gt;2615&lt;/td&gt;
+      &lt;td&gt;2735&lt;/td&gt;
+      &lt;td&gt;3374&lt;/td&gt;
+      &lt;td&gt;138&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.stf.jus.br/portal/cms/verTexto.asp?servico=estatistica&amp;amp;pagina=decisoesinicio&quot;&gt;Estatísticas do Supremo Tribunal Federal&lt;/a&gt; - Nota: SFT inexplicavemente disponibiliza dados em formato MHTML&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 20 Feb 2017 00:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/produtividade-stf-2010-2016</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/produtividade-stf-2010-2016</guid>
+        
+        <category>STF, </category>
+        
+        <category>Supremo, </category>
+        
+        <category>direito, </category>
+        
+        <category>Justiça, </category>
+        
+        
+        <category>coisas</category>
+        
+      </item>
+    
+      <item>
+        <title>Nas lavouras brasileiras, valores da produção de cebola e pimenta do reino têm alta volatilidade</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/cebola-pimenta.png&quot; alt=&quot;Grafico cebola pimenta&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;O Valor Bruto da Produção Agropecuária (VPB) mostra a evolução do desempenho das lavouras e da pecuária ao longo do ano e corresponde ao faturamento bruto dentro do estabelecimento. Em 2016, essa medida da produção no campo atingiu R$ 527,9 bilhões, que da quase 2% sobre o ano anterior - atribuída pelo Ministério da Agricultura à seca.&lt;/p&gt;
+
+&lt;p&gt;Embora lavouras menores e de pouco peso no resultado, é curioso notar que pimenta do reino e cebola têm um histórico de grande volatilidade no último quarto de século.&lt;/p&gt;
+
+&lt;p&gt;No gráfico, foi calculada a variação do VPB para os dois produtos ao longo dos anos, a fim de comparar com a soja e com a média total das lavouras. Utilizar valores absolutos distorceria a escala, em vista das centenas de bilhões de reais por ano gerados pela soja e pela soma de todas as lavouras.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.agricultura.gov.br/noticias/valor-da-producao-de-2016-fecha-em-r-527-9-bilhoes&quot;&gt;Secretaria de Política Agrícola (SPA)&lt;/a&gt;, do Ministério da Agricultura, Pecuária e Abastecimento (Mapa)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 20 Feb 2017 00:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/cebola-pimenta-volatilidade</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/cebola-pimenta-volatilidade</guid>
+        
+        <category>agricultura, </category>
+        
+        <category>VPB, </category>
+        
+        <category>produção, </category>
+        
+        <category>safra, </category>
+        
+        <category>pimenta, </category>
+        
+        <category>cebola</category>
+        
+        
+        <category>coisas</category>
+        
+      </item>
     
       <item>
         <title>Em termos ajustados, como o dólar se comportou nos últimos 22 anos?</title>
@@ -477,257 +644,6 @@
         <category>censura, </category>
         
         <category>eleições</category>
-        
-        
-        <category>governos</category>
-        
-      </item>
-    
-      <item>
-        <title>Vendas de smartphones têm previsão de alta em 2017, mas mercado já parece maduro</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/venda-cel.png&quot; alt=&quot;Grafico celulares&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;Não é de hoje que o mercado de smartphones no Brasil tem mostrado sinais de estagnação e &lt;a href=&quot;http://br.reuters.com/article/internetNews/idBRKCN0WG2CA&quot;&gt;até retração&lt;/a&gt;, após forte alta desde o começo da década. No entanto, a consultoria IDC prevê crescimento em 2017 por conta do ciclo de troca de aparelhos, segundo &lt;a href=&quot;http://br.idclatin.com/releases/news.aspx?id=2129&quot;&gt;relatório&lt;/a&gt; de janeiro.&lt;/p&gt;
-
-&lt;p&gt;“O mercado de Smartphones, que apresentou queda nas vendas em 2016, voltará a ganhar fôlego em 2017, com previsão de crescimento de 3,5% em unidades em comparação ao volume do ano passado. A troca média dos aparelhos ocorre a cada dois anos e pelo menos 37% da base instalada ativa foi adquirida antes de 2015.”&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.teleco.com.br/smartphone.asp&quot;&gt;Consultoria Teleco&lt;/a&gt;, com dados do IDC&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://br.idclatin.com/releases/news.aspx?id=2083&quot;&gt;IDC&lt;/a&gt;, previsão para 2016 e para &lt;a href=&quot;http://br.idclatin.com/releases/news.aspx?id=2129&quot;&gt;2017&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;Este gráfico pode ser atualizado com dados novos, assim que disponíveis&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 14 Feb 2017 00:00:00 -0200</pubDate>
-        <link>http://mono.voltdata.info/mercado-smartphones-2017</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/mercado-smartphones-2017</guid>
-        
-        <category>smartphones, </category>
-        
-        <category>celulares, </category>
-        
-        <category>telecom, </category>
-        
-        
-        <category>internet</category>
-        
-      </item>
-    
-      <item>
-        <title>O voto obrigatório nos EUA aumentaria comparecimento às urnas?</title>
-        <description>&lt;div id=&quot;scatter&quot;&gt; &lt;/div&gt;
-
-&lt;script src=&quot;http://d3js.org/d3.v3.min.js&quot;&gt;&lt;/script&gt;
-
-&lt;h5 id=&quot;grfico-interativo&quot;&gt;Gráfico interativo&lt;/h5&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;Taxa de comparecimento às urnas em relação à população com idade de voto nos EUA comparada às maiores democracias com voto obrigatório, em eleições gerais. Não inclui eleição presidencial americana de 2016.&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.idea.int/data-tools/question-view/524&quot;&gt;International Institute for Democracy and Electoral Assistance, IDEA&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;style&gt;
-.axis path,
-.axis line {
-  fill: none;
-  stroke: #000;
-  shape-rendering: crispEdges;
-}
-
-.dot {
-  stroke: #;
-}
-
-.tooltip {
-  position: absolute;
-  width: 200px;
-  height: 40px;
-  pointer-events: none;
-}
-
-#scatter{
-  max-width: 800px;
-  min-widh: 500px;
-}
-&lt;/style&gt;
-
-&lt;script&gt;
-var margin = {
-    top: 20,
-    right: 10,
-    bottom: 30,
-    left: 0
-  },
-  width = 600 - margin.left - margin.right,
-  height = 400 - margin.top - margin.bottom;
-
-var xValue = function(d) {
-    return d.year;
-  },
-  xScale = d3.scale.linear().range([0, width]),
-  xMap = function(d) {
-    return xScale(xValue(d));
-  },
-  xAxis = d3.svg.axis().scale(xScale).orient(&quot;bottom&quot;).ticks(10,&quot;d&quot;);
-
-
-var yValue = function(d) {
-    return d.vapvt;
-  },
-  yScale = d3.scale.linear().range([height, 0]),
-  yMap = function(d) {
-    return yScale(yValue(d));
-  },
-  yAxis = d3.svg.axis().scale(yScale).orient(&quot;left&quot;);
-
-// cores
-var cValue = function(d) {
-    return d.country;
-  },
-  color = d3.scale.category10();
-
-var svg = d3.select(&quot;#scatter&quot;).append(&quot;svg&quot;)
-  .attr(&quot;viewBox&quot;, &quot;0 0 600 400&quot;)
-  .append(&quot;g&quot;)
-  .style(&quot;font&quot;, &quot;14px Inconsolata&quot;)
-  .attr(&quot;transform&quot;, &quot;translate(&quot; + margin.left + &quot;,&quot; + margin.top + &quot;)&quot;);
-
-
-// tooltip
-var tooltip = d3.select(&quot;body&quot;).append(&quot;div&quot;)
-  .attr(&quot;class&quot;, &quot;tooltip&quot;)
-  .style(&quot;opacity&quot;, 0);
-
-//  data
-d3.csv(&quot;https://cdn.rawgit.com/voltdatalab/dados/master/politica/eua-vs-mandatory.csv&quot;, function(error, data) {
-
-  // csv para numero
-  data.forEach(function(d) {
-    d.vap = +d.vap;
-    d.vapvt = +d.vapvt;
-    d.year = +d.year;
-    //console.log(d);
-  });
-
-  xScale.domain([d3.min(data, xValue) - 1, d3.max(data, xValue) + 1]);
-  yScale.domain([d3.min(data, yValue) - 1, d3.max(data, yValue) + 1]);
-
-  // x-axis
-  svg.append(&quot;g&quot;)
-    .attr(&quot;class&quot;, &quot;x axis&quot;)
-    .attr(&quot;transform&quot;, &quot;translate(0,&quot; + height + &quot;)&quot;)
-    .call(xAxis)
-    .append(&quot;text&quot;)
-    .attr(&quot;class&quot;, &quot;label&quot;)
-    .attr(&quot;x&quot;, width)
-    .attr(&quot;y&quot;, -6)
-    .style(&quot;text-anchor&quot;, &quot;end&quot;)
-    .style(&quot;font&quot;, &quot;1.1em Inconsolata&quot;)
-    .text(&quot;&quot;);
-
-  // y-axis
-  svg.append(&quot;g&quot;)
-    .attr(&quot;class&quot;, &quot;y axis&quot;)
-    .call(yAxis)
-    .append(&quot;text&quot;)
-    .attr(&quot;class&quot;, &quot;label&quot;)
-    .attr(&quot;transform&quot;, &quot;rotate(-90)&quot;)
-    .attr(&quot;y&quot;, 6)
-    .attr(&quot;dy&quot;, &quot;.71em&quot;)
-    .style(&quot;text-anchor&quot;, &quot;end&quot;)
-    .style(&quot;font&quot;, &quot;1em Inconsolata&quot;)
-    .text(&quot;Taxa de participação nas urnas em %&quot;);
-
-  // dots
-  svg.selectAll(&quot;.dot&quot;)
-    .data(data)
-    .enter().append(&quot;circle&quot;)
-    .attr(&quot;class&quot;, &quot;dot&quot;)
-    .attr(&quot;r&quot;, 4)
-    .style(&quot;opacity&quot;, .8)
-    .attr(&quot;cx&quot;, xMap)
-    .attr(&quot;cy&quot;, yMap)
-    .style(&quot;fill&quot;, function(d) {
-      return color(cValue(d));
-    })
-    .on(&quot;mouseover&quot;, function(d) {
-      tooltip.transition()
-        .duration(50)
-        .attr(&quot;min-height&quot;, &quot;120px&quot;)
-        .style(&quot;opacity&quot;, 1)
-        .style(&quot;background-color&quot;, &quot;#cbcbcb&quot;)
-        .style(&quot;font&quot;, &quot;12px Inconsolata&quot;)
-        .style(&quot;padding&quot;, &quot;10px&quot;);
-
-      tooltip.html(&quot;Year:&lt;strong&gt; &quot; + d.year + &quot;&lt;/strong&gt;&quot; + &quot;&lt;br/&gt;&quot;+ &quot;Voting age pop: &quot;+ d.vap + &quot;&lt;/strong&gt; &lt;br/&gt;&quot; +
-          &quot;Turnout rate: &lt;strong&gt; &quot; + yValue(d) + &quot; %&lt;/strong&gt;&quot;)
-        .style(&quot;left&quot;, (d3.event.pageX + 5) + &quot;px&quot;)
-        .style(&quot;top&quot;, (d3.event.pageY - 28) + &quot;px&quot;)
-        .style(&quot;bottom&quot;, (d3.event.pageY - 28) + &quot;px&quot;);
-    })
-    .on(&quot;mouseout&quot;, function(d) {
-      tooltip.transition()
-        .duration(500)
-        .style(&quot;opacity&quot;, 0);
-    });
-
-  //  legenda
-  var legend = svg.selectAll(&quot;.legend&quot;)
-    .data(color.domain())
-    .enter().append(&quot;g&quot;)
-    .attr(&quot;class&quot;, &quot;legend&quot;)
-    .style(&quot;font&quot;, &quot;18px Inconsolata&quot;)
-    .attr(&quot;transform&quot;, function(d, i) {
-      return &quot;translate(0,&quot; + i * 20 + &quot;)&quot;;
-    });
-
-  // legenda retangular
-  legend.append(&quot;rect&quot;)
-    .attr(&quot;x&quot;, width / 1.24)
-    .attr(&quot;y&quot;, 225)
-    .attr(&quot;width&quot;, 8)
-    .attr(&quot;height&quot;, 18)
-    .style(&quot;fill&quot;, color);
-
-  // texto legenda
-  legend.append(&quot;text&quot;)
-    .attr(&quot;x&quot;, width / 1.2)
-    .attr(&quot;y&quot;, 235)
-    .attr(&quot;dy&quot;, &quot;.35em&quot;)
-    .style(&quot;font&quot;, &quot;.8em Inconsolata&quot;)
-    .style(&quot;text-anchor&quot;, &quot;right&quot;)
-    .text(function(d) {
-      return d;
-    })
-});
-
-&lt;/script&gt;
-
-</description>
-        <pubDate>Mon, 13 Feb 2017 00:00:00 -0200</pubDate>
-        <link>http://mono.voltdata.info/voto-obrigatorio-eua-brasil</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/voto-obrigatorio-eua-brasil</guid>
-        
-        <category>eleição, </category>
-        
-        <category>voto obrigatório, </category>
-        
-        <category>EUA</category>
         
         
         <category>governos</category>

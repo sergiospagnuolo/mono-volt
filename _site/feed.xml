@@ -5,8 +5,8 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Feb 2017 00:19:30 -0300</pubDate>
-    <lastBuildDate>Tue, 21 Feb 2017 00:19:30 -0300</lastBuildDate>
+    <pubDate>Tue, 21 Feb 2017 11:07:25 -0300</pubDate>
+    <lastBuildDate>Tue, 21 Feb 2017 11:07:25 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -154,7 +154,7 @@
 &lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.stf.jus.br/portal/cms/verTexto.asp?servico=estatistica&amp;amp;pagina=decisoesinicio&quot;&gt;Estatísticas do Supremo Tribunal Federal&lt;/a&gt; - Nota: SFT inexplicavemente disponibiliza dados em formato MHTML&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.stf.jus.br/portal/cms/verTexto.asp?servico=estatistica&amp;amp;pagina=decisoesinicio&quot;&gt;Estatísticas do Supremo Tribunal Federal&lt;/a&gt; - Nota: STF inexplicavemente disponibiliza dados em formato MHTML, para abri-lo é necessário Internet Explorer (?!) ou Firefox com plugin especial.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 20 Feb 2017 00:00:00 -0300</pubDate>

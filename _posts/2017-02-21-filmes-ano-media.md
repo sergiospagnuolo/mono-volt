@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 categories: coisas
 intro: >-
   Quantidade de lançamentos cinematográficos levando em conta o orçamento médio

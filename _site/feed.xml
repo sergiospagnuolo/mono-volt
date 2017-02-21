@@ -5,8 +5,8 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Feb 2017 11:07:25 -0300</pubDate>
-    <lastBuildDate>Tue, 21 Feb 2017 11:07:25 -0300</lastBuildDate>
+    <pubDate>Tue, 21 Feb 2017 14:39:10 -0300</pubDate>
+    <lastBuildDate>Tue, 21 Feb 2017 14:39:10 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -43,6 +43,39 @@
         
         
         <category>governos</category>
+        
+      </item>
+    
+      <item>
+        <title>Lançamentos cinematográficos do início do século 21 até 2016</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/filmes_ano_media.png&quot; alt=&quot;Grafico filmes&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;O site &lt;a href=&quot;http://www.the-numbers.com&quot;&gt;www.the-numbers.com&lt;/a&gt; reúne de forma independente dados sobre lançamentos de produções cinematográficas mundo afora, neste gráfico usamos os dados de “Produções de Filmes por País” divididas em quantidades totais por ano.&lt;/p&gt;
+
+&lt;p&gt;Percebe-se que durante este período a variação do budget médio não excede em 20% a comparação entre os anos mencionados. Porém, 2015, ano da série com menor budget médio (US$27,4mi), é seguido pelo ano com maior budget médio da série (US$49,2mi).&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;www.the-numbers.com&quot;&gt;The Numbers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 21 Feb 2017 00:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/filmes-ano-media</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/filmes-ano-media</guid>
+        
+        <category>filmes, </category>
+        
+        <category>hollywood, </category>
+        
+        <category>cinema, </category>
+        
+        <category>movies, </category>
+        
+        
+        <category>coisas</category>
         
       </item>
     
@@ -557,84 +590,6 @@
         
         
         <category>economia</category>
-        
-      </item>
-    
-      <item>
-        <title>Desde 2004, COAF recolheu apenas 29% das multas aplicadas</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/coaf-multas.png&quot; alt=&quot;Grafico coaf multas&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;O Conselho de Controle de Atividades Financeiras (COAF), órgão ligado ao Ministério da Fazenda &lt;a href=&quot;http://www.coaf.fazenda.gov.br/acesso-a-informacao/Institucional/competencias&quot;&gt;para&lt;/a&gt; combate à lavagem de dinheiro e ao financiamento de terrorismo, coletou menos de um terço das multas aplicadas em processos administrativos punitivos desde 2004, segundo dados da próprio entidade.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Setor&lt;/th&gt;
-      &lt;th&gt;Multas Aplicadas&lt;/th&gt;
-      &lt;th&gt;Multas Aplicadas (R$)&lt;/th&gt;
-      &lt;th&gt;Multas Recolhidas&lt;/th&gt;
-      &lt;th&gt;Multas Recolhidas (R$)&lt;/th&gt;
-      &lt;th&gt;% Valor Recolhido&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Bens de luxo&lt;/td&gt;
-      &lt;td&gt;112&lt;/td&gt;
-      &lt;td&gt;328.562&lt;/td&gt;
-      &lt;td&gt;112&lt;/td&gt;
-      &lt;td&gt;145.562&lt;/td&gt;
-      &lt;td&gt;44%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Factoring&lt;/td&gt;
-      &lt;td&gt;140&lt;/td&gt;
-      &lt;td&gt;5.748.307&lt;/td&gt;
-      &lt;td&gt;140&lt;/td&gt;
-      &lt;td&gt;1.544.047&lt;/td&gt;
-      &lt;td&gt;27%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Joias&lt;/td&gt;
-      &lt;td&gt;91&lt;/td&gt;
-      &lt;td&gt;425.445&lt;/td&gt;
-      &lt;td&gt;91&lt;/td&gt;
-      &lt;td&gt;186.233&lt;/td&gt;
-      &lt;td&gt;44%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Total Geral&lt;/td&gt;
-      &lt;td&gt;343&lt;/td&gt;
-      &lt;td&gt;6.502.314&lt;/td&gt;
-      &lt;td&gt;343&lt;/td&gt;
-      &lt;td&gt;1.875.842&lt;/td&gt;
-      &lt;td&gt;29%&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://coaf.fazenda.gov.br/menu/estatisticas/comunicacoes&quot;&gt;COAF&lt;/a&gt;, do Ministério da Fazenda&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 15 Feb 2017 00:00:00 -0200</pubDate>
-        <link>http://mono.voltdata.info/coaf-multas-irregularidades</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/coaf-multas-irregularidades</guid>
-        
-        <category>COAF, </category>
-        
-        <category>Fazenda, </category>
-        
-        <category>lavagem de dinheiro, </category>
-        
-        <category>combate ao terrorismo</category>
-        
-        
-        <category>governos</category>
         
       </item>
     

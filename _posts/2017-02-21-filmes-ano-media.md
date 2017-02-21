@@ -22,7 +22,7 @@ tags:
 
 ### Descrição
 
-O site www.the-numbers.com reúne de forma independente dados sobre lançamentos de produções cinematográficas mundo afora, neste gráfico usamos os dados de "Produções de Filmes por País" divididas em quantidades totais por ano.
+O site [www.the-numbers.com](http://www.the-numbers.com) reúne de forma independente dados sobre lançamentos de produções cinematográficas mundo afora, neste gráfico usamos os dados de "Produções de Filmes por País" divididas em quantidades totais por ano.
 
 Percebe-se que durante este período a variação do budget médio não excede em 20% a comparação entre os anos mencionados. Porém, 2015, ano da série com menor budget médio (US$27,4mi), é seguido pelo ano com maior budget médio da série (US$49,2mi).
 

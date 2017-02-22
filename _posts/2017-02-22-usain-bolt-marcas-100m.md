@@ -26,7 +26,7 @@ Como pode ser visto na linha de regressão do gráfico acima, após o ápice alc
 
 Claro, menor tempo não significa perder uma corrida, e Bolt ainda impera nas pistas, mas é interessante notar que, embora campeão, ele não deve conseguir superar mais sua própria marca.
 
-Segundo análise do volt com dados do impressionante conjunto de dados do site [All-Time Athletics](http://www.alltime-athletics.com/m_100ok.htm), 23 três anos é a idade na qual atletas alcançaram mais recordes.
+Segundo análise do volt com dados do impressionante conjunto de dados do site [All-Time Athletics](http://www.alltime-athletics.com/m_100ok.htm), 23 anos é a idade na qual atletas alcançaram mais recordes.
 
 | Idade   | Nº de recordes|
 |---------|---------------|

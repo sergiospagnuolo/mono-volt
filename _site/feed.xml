@@ -5,9 +5,44 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Feb 2017 11:31:17 -0300</pubDate>
-    <lastBuildDate>Wed, 22 Feb 2017 11:31:17 -0300</lastBuildDate>
+    <pubDate>Wed, 22 Feb 2017 14:12:22 -0300</pubDate>
+    <lastBuildDate>Wed, 22 Feb 2017 14:12:22 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>No sistema do Alto Tietê, situação de reservatório é delicada, mas está longe dos níveis críticos de 2014</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/sistema-tiete.png&quot; alt=&quot;Grafico sistema tiete&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;Após a &lt;a href=&quot;http://www.idec.org.br/em-acao/noticia-consumidor/depois-do-cantareira-seca-em-so-paulo-afeta-reservatorio-alto-tiete&quot;&gt;estiagem&lt;/a&gt; em 2014 que afetou grandes mananciais do Estado de São Paulo, especialmente o sistema Cantareira e o Alto Tietê, as coisas pareceram melhorar em 2016.&lt;/p&gt;
+
+&lt;p&gt;No sistema Alto Tietê, onde o volume de água ficou abaixo de 4% no fim de 2014, o volume armazenado estava próximo de 45% ao final de dezembro último - ajudado pela profusão de chuvas na região. Não é o ideal, mas não está tão crítico quanto antes. Os dados são da Sabesp, mas foram compilados pela jornalista Jamile Santana.&lt;/p&gt;
+
+&lt;p&gt;Para ter um panorama geral sobre os mananciais de São Paulo e sua situação de armazenamento e de chuvas, o Código Urbano tem o excelente projeto &lt;a href=&quot;http://mananciais.tk/&quot;&gt;Mananciais&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Os dados são da &lt;a href=&quot;http://www2.sabesp.com.br/mananciais/DivulgacaoSiteSabesp.aspx&quot;&gt;Sabesp&lt;/a&gt;, mas o trabalho de compilação dos relatórios mensais foi feito pela jornalista &lt;a href=&quot;https://www.linkedin.com/in/jamile-santana-11704119/&quot;&gt;Jamile Santana&lt;/a&gt;, que gentilmente cedeu a &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1fve7DzYxw0CFUDOLHDlzUmbuqgUNizA_wn_q1C1L_s0/edit?usp=sharing&quot;&gt;compilação&lt;/a&gt; ao &lt;strong&gt;Volt Data Lab&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 22 Feb 2017 07:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/sistema-tiete-nivel</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/sistema-tiete-nivel</guid>
+        
+        <category>água, </category>
+        
+        <category>mananciais, </category>
+        
+        <category>sistema Tietê, </category>
+        
+        <category>chuva</category>
+        
+        
+        <category>ambiente</category>
+        
+      </item>
     
       <item>
         <title>Imbatível dentro das pistas, Usain Bolt encontra na idade um adversário</title>
@@ -554,73 +589,6 @@
         <category>motim, </category>
         
         <category>Polícia Militar</category>
-        
-        
-        <category>governos</category>
-        
-      </item>
-    
-      <item>
-        <title>Na Lava Jato, pedidos para condução coercitiva superam prisões preventivas e temporárias somadas</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/lj-coercitiva.png&quot; alt=&quot;Grafico lf pedidos de prisão&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;A operação Lava Jato possui mais &lt;strong&gt;pedidos&lt;/strong&gt; de condução coercitiva do que pedidos por prisões temporárias ou preventivas, de acordo com análise do Volt Data Lab.&lt;/p&gt;
-
-&lt;p&gt;Nas 37 fases da operação, assim como em desdobramentos, os pedidos de coercitivas já totalizam 202, enquanto preventivas e temporárias, somadas, totalizam 188.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;coercitivas&lt;/th&gt;
-      &lt;th&gt;temporárias&lt;/th&gt;
-      &lt;th&gt;preventivas&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;202&lt;/td&gt;
-      &lt;td&gt;99&lt;/td&gt;
-      &lt;td&gt;89&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;Note que o total de pedidos supera o número de pessoas efetivamente levadas para depor ou presas, já que às vezes o mesmo investigado pode ser alvo de pedidos diferentes. Dessa forma, foram 390 pedidos feitos à Justiça para 359 pessoas.&lt;/p&gt;
-
-&lt;p&gt;O juiz federal Sergio Moro há tempos tem sofrido críticas por aceitar muitos pedidos de prisão do Ministério Público no âmbito da Lava Jato, sejam eles de prisões preventivas, temporárias e até &lt;a href=&quot;http://www.ebc.com.br/noticias/2016/03/o-que-e-conducao-coercitiva&quot;&gt;conduções coercitivas&lt;/a&gt; - quando o investigado é levado para prestar depoimento, mas não preso, como foi o caso do ex-presidente Luiz Inácio Lula da Silva, em 04 de março de 2016.&lt;/p&gt;
-
-&lt;p&gt;Mais recentemente, o ministro do Supremo Tribunal Federal Gilmar Mendes &lt;a href=&quot;http://www1.folha.uol.com.br/poder/2017/02/1856558-stf-tem-que-discutir-prisoes-que-moro-determinou-diz-gilmar-mendes.shtml&quot;&gt;bateu de frente&lt;/a&gt; criticou essa postura, levando o juiz a &lt;a href=&quot;http://politica.estadao.com.br/blogs/vera-magalhaes/analise-despacho-de-moro-dificulta-soltura-de-cunha-pelo-stf/&quot;&gt;rebater&lt;/a&gt;. A Lava Jato já soma 87 condenados em primeira instância, com quatro absolvidos em segunda instância.&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Assessoria de imprensa da Justiça Federal do Paraná, que disponibiliza regularmente uma planilha com informações da Lava Jato para jornalistas&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;/arquivos/Planilha_Lava _Jatol.xls&quot;&gt;Anexamos a planilha original aqui&lt;/a&gt;, enviada em 07/02/2017&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A análise do Volt você pode &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1wMnotR3E60QMeLECcrNCgy0-tbgo_TdKRC68ygLY-EU/edit?usp=sharing&quot;&gt;acessar nesta tabela&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 16 Feb 2017 00:00:00 -0200</pubDate>
-        <link>http://mono.voltdata.info/lj-pedidos-prisao-fev-2017</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/lj-pedidos-prisao-fev-2017</guid>
-        
-        <category>Lava Jato, </category>
-        
-        <category>corrupção, </category>
-        
-        <category>pedidos de prisão, </category>
-        
-        <category>judiciário, </category>
-        
-        <category>direito</category>
         
         
         <category>governos</category>

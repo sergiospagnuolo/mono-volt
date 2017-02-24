@@ -1,7 +1,7 @@
 ---
 categories: internet
 intro: Segundo levantamento, os 70 posts com mais compartilhamentos foram majoritariamente de direita
-title: Páginas de direita tiveram mais posts e compartilhamentos sobre "polêmica do turbante" no Facebook
+title: Páginas de direita tiveram mais posts e compartilhamentos sobre polêmica do turbante no Facebook
 layout: post-no-feature
 author_name: Sérgio Spagnuolo
 author_url: /author/sergio

@@ -5,12 +5,41 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Feb 2017 00:06:57 -0300</pubDate>
-    <lastBuildDate>Fri, 24 Feb 2017 00:06:57 -0300</lastBuildDate>
+    <pubDate>Fri, 03 Mar 2017 12:45:09 -0300</pubDate>
+    <lastBuildDate>Fri, 03 Mar 2017 12:45:09 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Páginas de direita tiveram mais posts e compartilhamentos sobre &quot;polêmica do turbante&quot; no Facebook</title>
+        <title>Fundo Soberano do Brasil - crescimento consistente, mas turbulento de 2011 a 2013</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/fundo-soberano.png&quot; alt=&quot;Grafico fundo soberano do Brasil&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;Evolução do patromônio líquido do Fundo Soberano do Brasil desde sua criação até fevereiro de 2017.&lt;/p&gt;
+
+&lt;p&gt;O &lt;a href=&quot;http://economia.estadao.com.br/noticias/negocios,entenda-o-fundo-soberano-do-brasil,7156e&quot;&gt;Estadao.com&lt;/a&gt; traz uma boa explicação sobre o fundo, suas funções e sua finalidade.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dados.gov.br/dataset/fundo-soberano-do-brasil/resource/7f61f290-cfc5-40e4-97a7-0e45b8b750d4&quot;&gt;Porta Brasileiro de Dados Abertos&lt;/a&gt;, com dados até 2 de fevereiro de 2017&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 03 Mar 2017 00:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/fundo-soberano-br-pl</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/fundo-soberano-br-pl</guid>
+        
+        <category>Fundo Soberano, </category>
+        
+        <category>investimentos</category>
+        
+        
+        <category>economia</category>
+        
+      </item>
+    
+      <item>
+        <title>Páginas de direita tiveram mais posts e compartilhamentos sobre polêmica do turbante no Facebook</title>
         <description>&lt;p&gt;&lt;img src=&quot;/graf/burgos-watch-midias.png&quot; alt=&quot;Grafico bugos watch redes sociais&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
@@ -647,46 +676,6 @@ Eu desconsiderei aqui comentários e reações (&lt;em&gt;likes&lt;/em&gt; e out
         
         
         <category>economia</category>
-        
-      </item>
-    
-      <item>
-        <title>Fusão Kraft Heinz/Unilever seria 3ª maior do mundo - se não tivesse sido declinada</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/m&amp;amp;a-alltime.png&quot; alt=&quot;Grafico PMS indiciados no ES&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;A rejeição, pela Unilever, de um &lt;a href=&quot;http://www.valor.com.br/empresas/4873224/kraft-heinz-faz-proposta-de-fusao-com-unilever-rival-recusa&quot;&gt;acordo avaliado&lt;/a&gt; em US$ 143 bilhões deixará inalterado, ao menos por enquanto, o ranking das maiores fusões e aquisições de todos os tempos.&lt;/p&gt;
-
-&lt;p&gt;O gráfico acima mostra como o negócio figuraria entre os 10 maiores acordos de M&amp;amp;A da história.&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://imaa-institute.org/mergers-and-acquisitions-statistics/&quot;&gt;Institute of Mergers, Acquisitions and Alliances (IMAA)&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.valor.com.br/empresas/4873224/kraft-heinz-faz-proposta-de-fusao-com-unilever-rival-recusa&quot;&gt;Notícia do jornal Valor Econômico&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 17 Feb 2017 00:00:00 -0200</pubDate>
-        <link>http://mono.voltdata.info/maiores-fusoes-aquisicoes</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/maiores-fusoes-aquisicoes</guid>
-        
-        <category>M&amp;A, </category>
-        
-        <category>fusões e aquisições, </category>
-        
-        <category>Kraft Heinz, </category>
-        
-        <category>Unilever, </category>
-        
-        <category>Corporativo</category>
-        
-        
-        <category>empresas</category>
         
       </item>
     

@@ -5,9 +5,70 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Mar 2017 12:45:09 -0300</pubDate>
-    <lastBuildDate>Fri, 03 Mar 2017 12:45:09 -0300</lastBuildDate>
+    <pubDate>Mon, 06 Mar 2017 16:40:02 -0300</pubDate>
+    <lastBuildDate>Mon, 06 Mar 2017 16:40:02 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Mais da metade dos postos ativos da campanha do desarmamento são da Polícia Civil</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/desarmamento-postos.png&quot; alt=&quot;Grafico postos da campanha do desarmamento&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;A Campanha do Desarmamento foi iniciada em 2004, após a aprovação do estatuto do desarmamento no ano anterior. Estima-se que tenha ajudado a poupar mais de 130 mil vidas até 2014, segundo dados baseados no número de assassinatos esperados e nos efetivamente registrados, de acordo com o &lt;a href=&quot;http://www.mapadaviolencia.org.br/pdf2016/Mapa2016_armas_web.pdf&quot;&gt;Mapa da Violência de 2016&lt;/a&gt; (pág. 67).&lt;/p&gt;
+
+&lt;p&gt;Ainda é pouco divulgado por aí, mas há mais de 2000 postos ativos da campanha, segundo informações no Portal de Dados Abertos do governo federal, a maioria deles delegacias da Polícia Civil.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;tipo&lt;/th&gt;
+      &lt;th&gt;total de postos&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Polícia Civil&lt;/td&gt;
+      &lt;td&gt;1106&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Polícia Militar&lt;/td&gt;
+      &lt;td&gt;744&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Outros&lt;/td&gt;
+      &lt;td&gt;136&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Polícia Federal&lt;/td&gt;
+      &lt;td&gt;127&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dados.gov.br/dataset/postos-campanha-do-desarmamento1/resource/c80eaafe-0e51-47c8-bbd0-4e40fd778e1d&quot;&gt;Porta Brasileiro de Dados Abertos&lt;/a&gt;, com dados até 5 de dezembro de 2016&lt;/li&gt;
+  &lt;li&gt;Para saber mais sobre a campanha, &lt;a href=&quot;http://www.pf.gov.br/servicos-pf/armas/campanha-do-desarmamento/sinarm-sistema-nacional-de-armas&quot;&gt;acesse o site&lt;/a&gt; da Polícia Federal&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 06 Mar 2017 00:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/postos-campanha-desarmamento</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/postos-campanha-desarmamento</guid>
+        
+        <category>Segurança Pública, </category>
+        
+        <category>Campanha do Desarmamento, </category>
+        
+        <category>Polícia Civil, </category>
+        
+        <category>Violência</category>
+        
+        
+        <category>governos</category>
+        
+      </item>
     
       <item>
         <title>Fundo Soberano do Brasil - crescimento consistente, mas turbulento de 2011 a 2013</title>
@@ -553,129 +614,6 @@ Eu desconsiderei aqui comentários e reações (&lt;em&gt;likes&lt;/em&gt; e out
         
         
         <category>coisas</category>
-        
-      </item>
-    
-      <item>
-        <title>Em termos ajustados, como o dólar se comportou nos últimos 22 anos?</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/dolar-saga-p2.png&quot; alt=&quot;Grafico saga do dolar ajustado taxa bc&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;O &lt;a href=&quot;/saga-dolar&quot;&gt;primeiro gráfico&lt;/a&gt; no &lt;strong&gt;Mono&lt;/strong&gt; sobre a saga do dólar deu alguma repercussão. Alguns apontaram para as políticas cambiais de 1994 ao começo e 1999, quando o governo interferia no câmbio. Outros apontaram para a necessidade de uma comparação ajustada pela inflação - não apenas com os valores nominais como foi feito. Minha intenção foi mostrar a volatilidade do dólar em valores nominais desde a entrada em vigor do Real, em julho de 1994, e não apontar para as políticas do Banco Central nem para o poder de compra da época.&lt;/p&gt;
-
-&lt;p&gt;Todavia, foram colocações muito pertinentes, que acho que deveriam ser respondidas. A primeira foi respondida com uma atualização do &lt;a href=&quot;/saga-dolar&quot;&gt;&lt;em&gt;post&lt;/em&gt;&lt;/a&gt; anterior. Neste gráfico, tento responder a segunda.&lt;/p&gt;
-
-&lt;p&gt;Nele constam os índices de Taxa de Câmbio Real (TCR) e Taxa de Câmbio Real Efetiva (TCRE). Como eles são &lt;strong&gt;índices&lt;/strong&gt;, há um valor base comparativo - neste caso 100 para junho de 1994, quando o dólar foi estabelecido em 1:1 com o real.&lt;/p&gt;
-
-&lt;p&gt;A primeira taxa é “definida como a taxa de câmbio nominal corrigida pelo diferencial de preços internos e externos entre dois países/moedas”, de acordo com a metodologia do BC. Já a segunda, a TCRE, “pode ser definida como uma média de taxas de câmbio reais, frente a cada um dos países pertencentes a uma determinada cesta, ponderada pela participação de cada país no total da referida cesta.”&lt;/p&gt;
-
-&lt;p&gt;Podemos ver que, se considerarmos apenas a taxa real, o real agora está praticamente pareado com dólar em 1994 (um pouquinho mais barato).&lt;/p&gt;
-
-&lt;p&gt;No entanto, se considerarmos a taxa real efetiva, que o BC considera como uma análise “aprimorada”, segundo sua metodologia, o dólar ainda continua mais caro nos últimos 22 anos - embora aparentemente em queda.&lt;/p&gt;
-
-&lt;p&gt;Os dados, no entanto, vão apenas até dezembro de 2016 - ainda não havia dados de 2017 à época da publicação desta página.&lt;/p&gt;
-
-&lt;p&gt;Para fazer sua própria análise entre datas e valores do índice, o Volt publicou um gráfico interativo &lt;a href=&quot;http://www.charted.co/c/63fcb0a&quot;&gt;neste link&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Série 1 (TCRE): &lt;a href=&quot;https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries&quot;&gt;Sistema Gerenciador de Séries Temporais&lt;/a&gt;, do Banco Central do Brasil. “Índice da taxa de câmbio efetiva real (IPCA) - Jun/1994=100”, Código 11752 do banco de dados&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Série 2 (TCR): &lt;a href=&quot;https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries&quot;&gt;Sistema Gerenciador de Séries Temporais&lt;/a&gt;, do Banco Central do Brasil. “Índice da taxa de câmbio real (IPCA) - Jun/1994=100 - Dólar americano”, Código 11753 do banco de dados&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;nota&quot;&gt;Nota&lt;/h3&gt;
-
-&lt;p&gt;A cesta de cálculo da TCRE é composta pelos 15 países elencados abaixo, os quais representaram 66% do total exportado pelo Brasil no período 2004 a 2006:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;país&lt;/th&gt;
-      &lt;th&gt;peso&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;EUA&lt;/td&gt;
-      &lt;td&gt;28,8%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Argentina&lt;/td&gt;
-      &lt;td&gt;12,5%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;China&lt;/td&gt;
-      &lt;td&gt;8,9%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Países Baixos&lt;/td&gt;
-      &lt;td&gt;7,3%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Alemanha&lt;/td&gt;
-      &lt;td&gt;6,3%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;México&lt;/td&gt;
-      &lt;td&gt;5,3%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Japão&lt;/td&gt;
-      &lt;td&gt;4,3%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Itália&lt;/td&gt;
-      &lt;td&gt;4,3%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Chile&lt;/td&gt;
-      &lt;td&gt;4,3%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Rússia&lt;/td&gt;
-      &lt;td&gt;3,4%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Reino Unido&lt;/td&gt;
-      &lt;td&gt;3,2%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;França&lt;/td&gt;
-      &lt;td&gt;3,2%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Bélgica&lt;/td&gt;
-      &lt;td&gt;3,1%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Espanha&lt;/td&gt;
-      &lt;td&gt;2,8%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Coréia do Sul&lt;/td&gt;
-      &lt;td&gt;2,3%&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Sat, 18 Feb 2017 00:00:00 -0200</pubDate>
-        <link>http://mono.voltdata.info/saga-dolar-parte2-vinganca</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/saga-dolar-parte2-vinganca</guid>
-        
-        <category>dólar, </category>
-        
-        <category>Banco Central, </category>
-        
-        <category>câmbio</category>
-        
-        
-        <category>economia</category>
         
       </item>
     

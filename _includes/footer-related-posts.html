@@ -6,7 +6,7 @@
         <a href="{{ post.url | prepend: site.baseurl }}"><div class="col-sm-6 col-md-2 no-gutter read-another-container">
             <div class="overlay"></div>
             <img src='{{ "/graf/" | append: post.feature_image | prepend: site.baseurl }}' class="recommend_img">
-            <h3 class="read-another">{{ post.title }}</h3>
+            <h3 class="read-another">{{ post.tags }}</h3>
         </div></a>
         {% endif %}
     {% endfor %}
@@ -14,7 +14,7 @@
 
 <style>
 .recommend_img {
-  max-height: 180px;
+  max-height: 160px;
   overflow: auto;
 }
 

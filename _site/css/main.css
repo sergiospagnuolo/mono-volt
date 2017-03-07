@@ -6943,8 +6943,7 @@ p {
 
 a {
   text-decoration: none;
-  color: #000;
-  border-bottom: solid 2px #a7000c; }
+  color: #000; }
   a:hover, a:active {
     color: #000;
     transition: all 400ms; }
@@ -7944,6 +7943,10 @@ footer.single-page {
   padding: 40px 0;
   text-align: center; }
 
+#ccommons {
+  width: 70px !important;
+  height: auto !important; }
+
 footer .read-another-container {
   position: relative;
   text-align: center; }
@@ -8252,14 +8255,22 @@ main {
 
 a {
   color: #222;
-  text-decoration: none; }
+  text-decoration: none;
+  border-bottom: solid 2px #a7000c; }
   a:hover, a:active, a:focus {
     text-decoration: none;
-    color: #cbcbcb;
-    border-bottom: none; }
+    color: #777;
+    border-bottom: solid 2px #222; }
 
 ::selection {
   background: rgba(167, 0, 12, 0.3); }
+
+/* table */
+table {
+  margin-bottom: 25px;
+  width: 100%;
+  table-layout: fixed;
+  text-align: center; }
 
 td {
   border: 1px solid #777;
@@ -8270,8 +8281,26 @@ td {
 
 th {
   color: #000;
+  text-align: center;
   border: 1px solid #777;
   background-color: #cbcbcb;
   font-size: 18px;
   padding: 5px;
   font-family: Inconsolata; }
+
+.download-graph, .download-graph a:visited {
+  font-size: 14px;
+  margin-bottom: 10px;
+  padding: 7px;
+  border-radius: 7px;
+  background-color: #cbcbcb;
+  border: 0px solid #222;
+  font-family: Inconsolata; }
+
+.download-graph a:hover {
+  background-color: #cbcbcb;
+  color: #222;
+  padding: 7px; }
+
+.download-graph a {
+  border: 0px solid #222; }

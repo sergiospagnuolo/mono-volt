@@ -36,5 +36,5 @@ Ainda é pouco divulgado por aí, mas há mais de 2000 postos ativos da campanha
 ### Referências
 
 
-- [Porta Brasileiro de Dados Abertos](http://dados.gov.br/dataset/postos-campanha-do-desarmamento1/resource/c80eaafe-0e51-47c8-bbd0-4e40fd778e1d), com dados até 5 de dezembro de 2016
+- [Portal Brasileiro de Dados Abertos](http://dados.gov.br/dataset/postos-campanha-do-desarmamento1/resource/c80eaafe-0e51-47c8-bbd0-4e40fd778e1d), com dados até 5 de dezembro de 2016
 - Para saber mais sobre a campanha, [acesse o site](http://www.pf.gov.br/servicos-pf/armas/campanha-do-desarmamento/sinarm-sistema-nacional-de-armas) da Polícia Federal

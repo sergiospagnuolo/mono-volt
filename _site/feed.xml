@@ -5,9 +5,89 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Mar 2017 16:57:11 -0300</pubDate>
-    <lastBuildDate>Mon, 06 Mar 2017 16:57:11 -0300</lastBuildDate>
+    <pubDate>Tue, 07 Mar 2017 11:57:57 -0300</pubDate>
+    <lastBuildDate>Tue, 07 Mar 2017 11:57:57 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>INTERATIVO-Investimentos federais em ações contra violência às mulheres despencam desde 2008</title>
+        <description>&lt;iframe src=&quot;http://graficos.voltdata.info/posts/geral/polmulheres.html&quot; width=&quot;100%&quot; frameborder=&quot;no&quot; scrolling=&quot;no&quot; height=&quot;740px&quot; seamless=&quot;&quot;&gt; &lt;/iframe&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;Repasses a ações como as de combate à violência contra a mulher e de atenção à saúde feminina sofreram redução de mais de 70% de 2015 para 2016.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;ano&lt;/th&gt;
+      &lt;th&gt;total de desembolsos&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2008&lt;/td&gt;
+      &lt;td&gt;R$ 35.251.332,86&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2009&lt;/td&gt;
+      &lt;td&gt;R$ 27.667.057,73&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2010&lt;/td&gt;
+      &lt;td&gt;R$ 68.301.737,70&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2011&lt;/td&gt;
+      &lt;td&gt;R$ 28.126.665,89&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2012&lt;/td&gt;
+      &lt;td&gt;R$ 43.890.060,70&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2013&lt;/td&gt;
+      &lt;td&gt;R$ 36.344.068,18&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2014&lt;/td&gt;
+      &lt;td&gt;R$ 55.437.341,59&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2015&lt;/td&gt;
+      &lt;td&gt;R$ 41.738.582,48&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2016&lt;/td&gt;
+      &lt;td&gt;R$ 11.117.395,21&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;As informações foram compiladas em reportagem do site de checagem &lt;a href=&quot;https://aosfatos.org/noticias/crise-derruba-investimento-do-governo-em-politicas-para-mulheres/&quot;&gt;Aos Fatos&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.portaltransparencia.gov.br/&quot;&gt;Portal da Transparência&lt;/a&gt;, segundo dados levantados pelo site &lt;a href=&quot;https://aosfatos.org/noticias/crise-derruba-investimento-do-governo-em-politicas-para-mulheres/&quot;&gt;Aos Fatos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 07 Mar 2017 00:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/desembolsos-federais-politica-mulheres</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/desembolsos-federais-politica-mulheres</guid>
+        
+        <category>Segurança Pública, </category>
+        
+        <category>Gênero, </category>
+        
+        <category>Direitos Humanos, </category>
+        
+        <category>Investimentos</category>
+        
+        
+        <category>governos</category>
+        
+      </item>
     
       <item>
         <title>Mais da metade dos postos ativos da campanha do desarmamento são da Polícia Civil</title>
@@ -49,7 +129,7 @@
 &lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://dados.gov.br/dataset/postos-campanha-do-desarmamento1/resource/c80eaafe-0e51-47c8-bbd0-4e40fd778e1d&quot;&gt;Porta Brasileiro de Dados Abertos&lt;/a&gt;, com dados até 5 de dezembro de 2016&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dados.gov.br/dataset/postos-campanha-do-desarmamento1/resource/c80eaafe-0e51-47c8-bbd0-4e40fd778e1d&quot;&gt;Portal Brasileiro de Dados Abertos&lt;/a&gt;, com dados até 5 de dezembro de 2016&lt;/li&gt;
   &lt;li&gt;Para saber mais sobre a campanha, &lt;a href=&quot;http://www.pf.gov.br/servicos-pf/armas/campanha-do-desarmamento/sinarm-sistema-nacional-de-armas&quot;&gt;acesse o site&lt;/a&gt; da Polícia Federal&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -575,45 +655,6 @@ Eu desconsiderei aqui comentários e reações (&lt;em&gt;likes&lt;/em&gt; e out
         
         
         <category>governos</category>
-        
-      </item>
-    
-      <item>
-        <title>Nas lavouras brasileiras, valores da produção de cebola e pimenta do reino têm alta volatilidade</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/cebola-pimenta.png&quot; alt=&quot;Grafico cebola pimenta&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;O Valor Bruto da Produção Agropecuária (VPB) mostra a evolução do desempenho das lavouras e da pecuária ao longo do ano e corresponde ao faturamento bruto dentro do estabelecimento. Em 2016, essa medida da produção no campo atingiu R$ 527,9 bilhões, que da quase 2% sobre o ano anterior - atribuída pelo Ministério da Agricultura à seca.&lt;/p&gt;
-
-&lt;p&gt;Embora lavouras menores e de pouco peso no resultado, é curioso notar que pimenta do reino e cebola têm um histórico de grande volatilidade no último quarto de século.&lt;/p&gt;
-
-&lt;p&gt;No gráfico, foi calculada a variação do VPB para os dois produtos ao longo dos anos, a fim de comparar com a soja e com a média total das lavouras. Utilizar valores absolutos distorceria a escala, em vista das centenas de bilhões de reais por ano gerados pela soja e pela soma de todas as lavouras.&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.agricultura.gov.br/noticias/valor-da-producao-de-2016-fecha-em-r-527-9-bilhoes&quot;&gt;Secretaria de Política Agrícola (SPA)&lt;/a&gt;, do Ministério da Agricultura, Pecuária e Abastecimento (Mapa)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 20 Feb 2017 00:00:00 -0300</pubDate>
-        <link>http://mono.voltdata.info/cebola-pimenta-volatilidade</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/cebola-pimenta-volatilidade</guid>
-        
-        <category>agricultura, </category>
-        
-        <category>VPB, </category>
-        
-        <category>produção, </category>
-        
-        <category>safra, </category>
-        
-        <category>pimenta, </category>
-        
-        <category>cebola</category>
-        
-        
-        <category>coisas</category>
         
       </item>
     

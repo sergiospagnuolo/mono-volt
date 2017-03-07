@@ -13,7 +13,9 @@ nav_list:
   Contact : ['Colabore', '/contato', 'fa-envelope-o']
   Author : ['Quem faz', '/quem', 'fa-users']
   Search: ['Explore', '/explore', 'fa-search']
+  Termos: ['Termos de Uso', /termos_de_uso/, 'fa fa-share-alt']
   Feed: ['RSS', '/feed.xml', 'fa-rss-square']
+
 single_footer: '<p>Mono, por <a href="http://voltdata.info" target="_blank"> Volt Data Lab</a> - 2017 - <a href="/explore">gráficos recentes</a> </p>'
 footer_links:
     About: ['Sobre o projeto', '/sobre']

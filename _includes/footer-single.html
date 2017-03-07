@@ -34,6 +34,8 @@
                         </li>
                       -->
                         {% endfor %}
+
+                        {% include download_graph.html %}
                     </ul>
                 </div>
             </div>
@@ -46,7 +48,9 @@
 
                     <a class="social-icon" href="#" data-platform="facebook" data-message="{{ page.title }}" data-url="{{ page.url | prepend: site.baseurl | prepend: site.url }}"><i class="fa fa-facebook-official"></i></a>
                     <a class="social-icon" data-platform="mail"  href="mailto:{{ site.email }}?body={{ page.url | prepend: site.baseurl | prepend: site.url }}"><i class="fa fa-envelope"></i></a>
+
                 </div>
+
             </div>
         </div>
     </div><!-- end row -->

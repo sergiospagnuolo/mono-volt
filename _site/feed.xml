@@ -1,13 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mono</title>
+    <title>Mono/Volt Data Lab</title>
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Mar 2017 11:57:57 -0300</pubDate>
-    <lastBuildDate>Tue, 07 Mar 2017 11:57:57 -0300</lastBuildDate>
+    <pubDate>Tue, 07 Mar 2017 18:30:48 -0300</pubDate>
+    <lastBuildDate>Tue, 07 Mar 2017 18:30:48 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>2016 foi um péssimo ano para agricultura no Brasil</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/pib-agro-2016.png&quot; alt=&quot;Grafico PIB agircultura&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;Sim, 2016 foi um péssimo ano para a economia brasileira. Pouca novidade aí.&lt;/p&gt;
+
+&lt;p&gt;Mas vale notar que a agricultura nacional foi fortemente afetada pela crise no ano passado. O setor havia fechado o quarto trimestre de 2015 no azul, ajudando a aliviar a fraqueza da indústria.&lt;/p&gt;
+
+&lt;p&gt;Agora, a agricultura brasileira tem quatro trimestres seguidos de queda crescente, claramente ultrapassando a indústria  como pior desempenho do ano.&lt;/p&gt;
+
+&lt;p&gt;O &lt;a href=&quot;http://www1.folha.uol.com.br/mercado/2017/03/1864296-populacao-brasileira-empobrece-91-com-recessao.shtml&quot;&gt;Produto Interno Bruto (PIB)&lt;/a&gt; do país encolheu 3,6% em 2016, pouco menos do que em 2015.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ibge.gov.br/home/estatistica/indicadores/pib/pib-vol-val_201604_4.shtm&quot;&gt;Instituto Brasileiro de Geografia e Estatística - IBGE&lt;/a&gt;, com dados preliminares atualizados em 07/03/2016&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 07 Mar 2017 15:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/pib-setores-economia-agricultura</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/pib-setores-economia-agricultura</guid>
+        
+        <category>PIB, </category>
+        
+        <category>macroeconomia, </category>
+        
+        <category>agricultura, </category>
+        
+        <category>IBGE</category>
+        
+        
+        <category>economia</category>
+        
+      </item>
     
       <item>
         <title>INTERATIVO-Investimentos federais em ações contra violência às mulheres despencam desde 2008</title>
@@ -527,134 +564,6 @@ Eu desconsiderei aqui comentários e reações (&lt;em&gt;likes&lt;/em&gt; e out
         
         
         <category>coisas</category>
-        
-      </item>
-    
-      <item>
-        <title>Plenário do STF trabalha mais, mas produz menos decisões finais do que em 2010</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/produtividade-stf.png&quot; alt=&quot;Grafico stf produtividade&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;O plenário do Supremo Tribunal Federal (STF) tem arregaçado as mangas nos últimos anos, após uma aparente desaceleração das atividades em 2012. No entanto, o número de decisões finais desde então mudou pouco, ao passo que disparou o total de decisões em recurso interno - quando um ministro, por exemplo, entra com &lt;a href=&quot;http://www.stf.jus.br/portal/glossario/verVerbete.asp?letra=A&amp;amp;id=133&quot;&gt;agravo regimental&lt;/a&gt; ou outro recurso previsto no regimento contra uma decisão.&lt;/p&gt;
-
-&lt;p&gt;Para saber mais sobre o processo de trabalho do tribunal, a assessoria de gestão estratégica tem um &lt;a href=&quot;http://www.stf.jus.br/portal/cms/verTexto.asp?servico=estatistica&amp;amp;pagina=explicafases&quot;&gt;manual um tanto arcano&lt;/a&gt; sobre o assunto.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Espécie de decisão&lt;/th&gt;
-      &lt;th&gt;2010&lt;/th&gt;
-      &lt;th&gt;2011&lt;/th&gt;
-      &lt;th&gt;2012&lt;/th&gt;
-      &lt;th&gt;2013&lt;/th&gt;
-      &lt;th&gt;2014&lt;/th&gt;
-      &lt;th&gt;2015&lt;/th&gt;
-      &lt;th&gt;2016&lt;/th&gt;
-      &lt;th&gt;2 017&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Decisão em recurso interno&lt;/td&gt;
-      &lt;td&gt;2097&lt;/td&gt;
-      &lt;td&gt;1586&lt;/td&gt;
-      &lt;td&gt;1034&lt;/td&gt;
-      &lt;td&gt;2184&lt;/td&gt;
-      &lt;td&gt;2346&lt;/td&gt;
-      &lt;td&gt;2527&lt;/td&gt;
-      &lt;td&gt;3147&lt;/td&gt;
-      &lt;td&gt;134&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Decisão Final&lt;/td&gt;
-      &lt;td&gt;277&lt;/td&gt;
-      &lt;td&gt;229&lt;/td&gt;
-      &lt;td&gt;76&lt;/td&gt;
-      &lt;td&gt;141&lt;/td&gt;
-      &lt;td&gt;201&lt;/td&gt;
-      &lt;td&gt;154&lt;/td&gt;
-      &lt;td&gt;177&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Decisão Interlocutória&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;6&lt;/td&gt;
-      &lt;td&gt;2&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Decisão Liminar&lt;/td&gt;
-      &lt;td&gt;32&lt;/td&gt;
-      &lt;td&gt;28&lt;/td&gt;
-      &lt;td&gt;5&lt;/td&gt;
-      &lt;td&gt;14&lt;/td&gt;
-      &lt;td&gt;15&lt;/td&gt;
-      &lt;td&gt;18&lt;/td&gt;
-      &lt;td&gt;20&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Decisão Rep. Geral&lt;/td&gt;
-      &lt;td&gt;24&lt;/td&gt;
-      &lt;td&gt;22&lt;/td&gt;
-      &lt;td&gt;7&lt;/td&gt;
-      &lt;td&gt;40&lt;/td&gt;
-      &lt;td&gt;47&lt;/td&gt;
-      &lt;td&gt;34&lt;/td&gt;
-      &lt;td&gt;29&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Decisão Sobrestamento&lt;/td&gt;
-      &lt;td&gt;2&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;6&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Soma:&lt;/td&gt;
-      &lt;td&gt;2432&lt;/td&gt;
-      &lt;td&gt;1865&lt;/td&gt;
-      &lt;td&gt;1129&lt;/td&gt;
-      &lt;td&gt;2379&lt;/td&gt;
-      &lt;td&gt;2615&lt;/td&gt;
-      &lt;td&gt;2735&lt;/td&gt;
-      &lt;td&gt;3374&lt;/td&gt;
-      &lt;td&gt;138&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.stf.jus.br/portal/cms/verTexto.asp?servico=estatistica&amp;amp;pagina=decisoesinicio&quot;&gt;Estatísticas do Supremo Tribunal Federal&lt;/a&gt; - Nota: STF inexplicavemente disponibiliza dados em formato MHTML, para abri-lo é necessário Internet Explorer (?!) ou Firefox com plugin especial.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 20 Feb 2017 00:00:00 -0300</pubDate>
-        <link>http://mono.voltdata.info/produtividade-stf-2010-2016</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/produtividade-stf-2010-2016</guid>
-        
-        <category>STF, </category>
-        
-        <category>Supremo, </category>
-        
-        <category>direito, </category>
-        
-        <category>Justiça, </category>
-        
-        
-        <category>governos</category>
         
       </item>
     

@@ -1,7 +1,7 @@
 ---
 categories: economia
 intro: Setor tem quatro trimestres seguidos de queda crescente, ultrapassando a indústria como pior desempenho
-title: 2016 foi um péssimo ano para agricultura no Brasil
+title: 2016 foi um péssimo ano para a agricultura no Brasil
 date: 2017-03-07T18:00:00
 layout: post-no-feature
 author_name: Sérgio Spagnuolo

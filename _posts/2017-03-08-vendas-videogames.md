@@ -10,6 +10,8 @@ author_avatar: felippe
 show_avatar: true
 feature_image: vendas-videogames.png
 show_related_posts: true
+atualiza_data: 08.03.2017
+atualiza_texto: 'esclarecer a escala utilizada na venda de jogos (em milhões), nos círculos do gráfico'
 tags:
   - 'videogames, '
   - 'consoles, '

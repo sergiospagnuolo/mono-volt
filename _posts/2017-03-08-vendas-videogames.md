@@ -14,7 +14,7 @@ tags:
   - 'videogames, '
   - 'consoles, '
   - 'games, '
-  - 'jogos eletrônicos, '
+  - 'jogos eletrônicos'
 ---
 ![Grafico videogames](/graf/vendas-videogames.png)
 
@@ -26,7 +26,7 @@ Neste gráfico juntamos os dados de vendas de console assim como os jogos vendid
 
 Percebe-se claramente no gráfico apresentado que o console PlayStation 2 da Sony é um monstro tanto em venda de hardware quanto de software. No mercado de portáteis o Nintendo DS também não deixa de ser um fenômeno, ficando muito à frente de fortes concorrentes e deixando para trás muitos consoles tradicionais.
 
-### Referências 
+### Referências
 
 - [VGChartz](http://www.vgchartz.com/)
 - [Metodologia (em inglês)](http://www.vgchartz.com/methodology.php)

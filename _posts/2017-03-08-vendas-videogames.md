@@ -1,8 +1,8 @@
 ---
 published: false
 categories: coisas
-intro: Os 20 consoles de videogame mais vendidos na história.
-title: Indústria dos Games
+intro: Os 20 consoles de videogame mais vendidos na história
+title: 'PlayStation 2, um monstro na indústria dos games'
 layout: post-no-feature
 author_name: Felippe Mercurio
 author_url: /author/felippe
@@ -14,7 +14,7 @@ tags:
   - 'videogames, '
   - 'consoles, '
   - 'games, '
-  - 'jogos eletronicos, '
+  - 'jogos eletrônicos, '
 ---
 ![Grafico videogames](/graf/vendas-videogames.png)
 
@@ -24,7 +24,7 @@ O [VGChartz](http://www.vgchartz.com/) compila dados de vendas de consoles e jog
 
 Neste gráfico juntamos os dados de vendas de console assim como os jogos vendidos para cada plataforma.
 
-Percebe-se claramente no gráfico apresentado que o console PlayStation 2 da Sony é um monstro tanto em venda de hardware quanto de software. No mercado de portáteis o Nintendo DS também não deixa de ser um fenômeno, pois está muito à frente dos concorrentes e deixando para trás muitos consoles tradicionais.
+Percebe-se claramente no gráfico apresentado que o console PlayStation 2 da Sony é um monstro tanto em venda de hardware quanto de software. No mercado de portáteis o Nintendo DS também não deixa de ser um fenômeno, ficando muito à frente de fortes concorrentes e deixando para trás muitos consoles tradicionais.
 
 ### Referências 
 

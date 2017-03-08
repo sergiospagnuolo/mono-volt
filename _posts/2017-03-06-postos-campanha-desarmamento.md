@@ -1,5 +1,5 @@
 ---
-categories: governos
+categories: brasil
 intro: Se você quiser entregar sua arma, é provável que seja para as polícias civil ou militar
 title: Mais da metade dos postos ativos da campanha do desarmamento são da Polícia Civil
 layout: post-no-feature

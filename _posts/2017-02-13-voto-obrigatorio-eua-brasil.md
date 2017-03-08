@@ -1,5 +1,5 @@
 ---
-categories: governos
+categories: mundo
 intro: Taxa de comparecimento às urnas em relação à população com idade de voto nos EUA comparada às maiores democracias com voto obrigatório
 title: O voto obrigatório nos EUA aumentaria comparecimento às urnas?
 layout: post-no-feature

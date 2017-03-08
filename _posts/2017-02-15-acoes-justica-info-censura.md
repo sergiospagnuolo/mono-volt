@@ -1,5 +1,5 @@
 ---
-categories: governos
+categories: brasil
 intro: Redes sociais e 'direito ao esquecimento' provavelmente contribuíram para aumento
 title: Pedidos judiciais de censura cresceram a partir das eleições de 2012
 layout: post-no-feature

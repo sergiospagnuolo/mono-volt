@@ -5,12 +5,182 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Mar 2017 18:30:48 -0300</pubDate>
-    <lastBuildDate>Tue, 07 Mar 2017 18:30:48 -0300</lastBuildDate>
+    <pubDate>Wed, 08 Mar 2017 12:52:56 -0300</pubDate>
+    <lastBuildDate>Wed, 08 Mar 2017 12:52:56 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>2016 foi um péssimo ano para agricultura no Brasil</title>
+        <title>Violência e acidentes matam mais meninas de 10 a 19 anos do que problemas de saúde</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/morte-adolescentes-meninas.png&quot; alt=&quot;Grafico mortes meninas&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;Há pelo menos uma década e meia, meninas de 10 a 19 anos no Brasil são mais vitimadas por violência e acidentes do que por problemas de saúde no Brasil.&lt;/p&gt;
+
+&lt;p&gt;Problemas de saúde são classificados de “Sistema Nervoso”, “Sintomas e sinais”, “Neoplasias” e “Aparelho Respiratório”, enquanto “Causas Externas” inclui violência, suicídios e qualquer tipo de acidente - mas, &lt;a href=&quot;http://www.epsjv.fiocruz.br/pdtsp/index.php?s_livro_id=6&amp;amp;area_id=4&amp;amp;autor_id=&amp;amp;capitulo_id=24&amp;amp;sub_capitulo_id=84&amp;amp;arquivo=ver_conteudo_2&quot;&gt;segundo a Fiocruz&lt;/a&gt;, esses acidentes são principalmente de trânsito.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Ano&lt;/th&gt;
+      &lt;th&gt;Causas Externas&lt;/th&gt;
+      &lt;th&gt;Aparelho Respiratório&lt;/th&gt;
+      &lt;th&gt;Neoplasias&lt;/th&gt;
+      &lt;th&gt;Sintomas e sinais&lt;/th&gt;
+      &lt;th&gt;Sistema Nervoso&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2000&lt;/td&gt;
+      &lt;td&gt;2745&lt;/td&gt;
+      &lt;td&gt;448&lt;/td&gt;
+      &lt;td&gt;653&lt;/td&gt;
+      &lt;td&gt;702&lt;/td&gt;
+      &lt;td&gt;330&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2001&lt;/td&gt;
+      &lt;td&gt;2540&lt;/td&gt;
+      &lt;td&gt;501&lt;/td&gt;
+      &lt;td&gt;657&lt;/td&gt;
+      &lt;td&gt;667&lt;/td&gt;
+      &lt;td&gt;349&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2002&lt;/td&gt;
+      &lt;td&gt;2680&lt;/td&gt;
+      &lt;td&gt;462&lt;/td&gt;
+      &lt;td&gt;644&lt;/td&gt;
+      &lt;td&gt;624&lt;/td&gt;
+      &lt;td&gt;319&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2003&lt;/td&gt;
+      &lt;td&gt;2604&lt;/td&gt;
+      &lt;td&gt;425&lt;/td&gt;
+      &lt;td&gt;629&lt;/td&gt;
+      &lt;td&gt;645&lt;/td&gt;
+      &lt;td&gt;377&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2004&lt;/td&gt;
+      &lt;td&gt;2530&lt;/td&gt;
+      &lt;td&gt;425&lt;/td&gt;
+      &lt;td&gt;710&lt;/td&gt;
+      &lt;td&gt;524&lt;/td&gt;
+      &lt;td&gt;352&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2005&lt;/td&gt;
+      &lt;td&gt;2498&lt;/td&gt;
+      &lt;td&gt;402&lt;/td&gt;
+      &lt;td&gt;706&lt;/td&gt;
+      &lt;td&gt;460&lt;/td&gt;
+      &lt;td&gt;346&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2006&lt;/td&gt;
+      &lt;td&gt;2423&lt;/td&gt;
+      &lt;td&gt;416&lt;/td&gt;
+      &lt;td&gt;733&lt;/td&gt;
+      &lt;td&gt;390&lt;/td&gt;
+      &lt;td&gt;404&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2007&lt;/td&gt;
+      &lt;td&gt;2395&lt;/td&gt;
+      &lt;td&gt;366&lt;/td&gt;
+      &lt;td&gt;722&lt;/td&gt;
+      &lt;td&gt;366&lt;/td&gt;
+      &lt;td&gt;398&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2008&lt;/td&gt;
+      &lt;td&gt;2412&lt;/td&gt;
+      &lt;td&gt;361&lt;/td&gt;
+      &lt;td&gt;674&lt;/td&gt;
+      &lt;td&gt;412&lt;/td&gt;
+      &lt;td&gt;397&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2009&lt;/td&gt;
+      &lt;td&gt;2352&lt;/td&gt;
+      &lt;td&gt;460&lt;/td&gt;
+      &lt;td&gt;721&lt;/td&gt;
+      &lt;td&gt;394&lt;/td&gt;
+      &lt;td&gt;396&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2010&lt;/td&gt;
+      &lt;td&gt;2471&lt;/td&gt;
+      &lt;td&gt;386&lt;/td&gt;
+      &lt;td&gt;679&lt;/td&gt;
+      &lt;td&gt;397&lt;/td&gt;
+      &lt;td&gt;443&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2011&lt;/td&gt;
+      &lt;td&gt;2512&lt;/td&gt;
+      &lt;td&gt;378&lt;/td&gt;
+      &lt;td&gt;713&lt;/td&gt;
+      &lt;td&gt;375&lt;/td&gt;
+      &lt;td&gt;452&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2012&lt;/td&gt;
+      &lt;td&gt;2529&lt;/td&gt;
+      &lt;td&gt;397&lt;/td&gt;
+      &lt;td&gt;714&lt;/td&gt;
+      &lt;td&gt;325&lt;/td&gt;
+      &lt;td&gt;455&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2013&lt;/td&gt;
+      &lt;td&gt;2425&lt;/td&gt;
+      &lt;td&gt;394&lt;/td&gt;
+      &lt;td&gt;650&lt;/td&gt;
+      &lt;td&gt;320&lt;/td&gt;
+      &lt;td&gt;513&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2014&lt;/td&gt;
+      &lt;td&gt;2369&lt;/td&gt;
+      &lt;td&gt;358&lt;/td&gt;
+      &lt;td&gt;624&lt;/td&gt;
+      &lt;td&gt;360&lt;/td&gt;
+      &lt;td&gt;448&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Se consideramos toda a série histórica desde o ano 2000, as “causas externas” representaram 56,1% dos óbitos de jovens nessa faixa etária, enquanto o restante (43.9%) corresponde a problemas de saúde.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dados.gov.br/dataset/mspainelsage_63/resource/b5449b5c-e3d8-4836-b98c-07f17f5ed2b7&quot;&gt;Portal de Dados Abertos do governo federal&lt;/a&gt;, com informações da &lt;a href=&quot;http://sage.saude.gov.br/&quot;&gt;Sala de Apoio à Gestão Estratégica&lt;/a&gt; (SAGE), do Ministério da Saúde. Última atualização dos dados foi julho de 2016.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 08 Mar 2017 00:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/mortes-meninas-adolescentes-causas</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/mortes-meninas-adolescentes-causas</guid>
+        
+        <category>igualdade de gênero, </category>
+        
+        <category>violência, </category>
+        
+        <category>trânsito, </category>
+        
+        <category>saúde</category>
+        
+        
+        <category>brasil</category>
+        
+      </item>
+    
+      <item>
+        <title>2016 foi um péssimo ano para a agricultura no Brasil</title>
         <description>&lt;p&gt;&lt;img src=&quot;/graf/pib-agro-2016.png&quot; alt=&quot;Grafico PIB agircultura&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
@@ -122,7 +292,7 @@
         <category>Investimentos</category>
         
         
-        <category>governos</category>
+        <category>brasil</category>
         
       </item>
     
@@ -183,7 +353,7 @@
         <category>Violência</category>
         
         
-        <category>governos</category>
+        <category>brasil</category>
         
       </item>
     
@@ -530,40 +700,7 @@ Eu desconsiderei aqui comentários e reações (&lt;em&gt;likes&lt;/em&gt; e out
         <category>incentivos fiscais</category>
         
         
-        <category>governos</category>
-        
-      </item>
-    
-      <item>
-        <title>Lançamentos cinematográficos do início do século 21 até 2016</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/filmes_ano_media.png&quot; alt=&quot;Grafico filmes&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;O site &lt;a href=&quot;http://www.the-numbers.com&quot;&gt;www.the-numbers.com&lt;/a&gt; reúne de forma independente dados sobre lançamentos de produções cinematográficas mundo afora, neste gráfico usamos os dados de “Produções de Filmes por País” divididas em quantidades totais por ano.&lt;/p&gt;
-
-&lt;p&gt;Percebe-se que durante este período a variação do budget médio não excede em 20% a comparação entre os anos mencionados. Porém, 2015, ano da série com menor budget médio (US$27,4mi), é seguido pelo ano com maior budget médio da série (US$49,2mi).&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;www.the-numbers.com&quot;&gt;The Numbers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 21 Feb 2017 00:00:00 -0300</pubDate>
-        <link>http://mono.voltdata.info/filmes-ano-media</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/filmes-ano-media</guid>
-        
-        <category>filmes, </category>
-        
-        <category>hollywood, </category>
-        
-        <category>cinema, </category>
-        
-        <category>movies, </category>
-        
-        
-        <category>coisas</category>
+        <category>brasil</category>
         
       </item>
     

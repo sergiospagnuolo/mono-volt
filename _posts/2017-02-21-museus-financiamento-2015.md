@@ -1,5 +1,5 @@
 ---
-categories: governos
+categories: brasil
 intro: Em 2015, os incentivos fiscais totalizaram 76,1% do financiamento dos museus, maior patamar da série histórica
 title: Incentivos fiscais são principais financiadores federais de museus desde início do governo Lula
 layout: post-no-feature

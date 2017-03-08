@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 categories: coisas
 intro: Os 20 consoles de videogame mais vendidos na história
 title: 'PlayStation 2, um monstro na indústria dos games'

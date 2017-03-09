@@ -1,8 +1,12 @@
 ---
 categories: brasil
-intro: De 1976 a 2014, percentual de extrema de pobreza por necessidade calórica e da população equivalente à renda dos mais ricos caiu drasticamente
-title: Governo do PT acelerou (muito) queda da fome extrema e da desigualdade de renda, mas não iniciou trajetória
-date: 2017-03-09T10:00:00
+intro: >-
+  De 1976 a 2014, percentual de extrema de pobreza por necessidade calórica e da
+  população equivalente à renda dos mais ricos caiu drasticamente
+title: >-
+  Governo do PT acelerou (muito) queda da fome extrema e da desigualdade de
+  renda, mas não iniciou trajetória
+date: 2017-03-09T10:00:00.000Z
 layout: post-no-feature
 author_name: Sérgio Spagnuolo
 author_url: /author/sergio
@@ -14,15 +18,15 @@ tags:
   - 'sociedade, '
   - 'pobreza, '
   - 'fome, '
-  - 'governo'
-
+  - governo
+published: true
 ---
 
 ![Grafico indicadores de pobres](/graf/desigualdade-indicadores-76-2014.png)
 
 ### Descrição
 
-O percentual de extrema de pobreza por necessidade calórica e da parcela da população equivalente à renda dos mais ricos caiu drasticamente no Brasil nas últimas quatro décadas.
+O percentual de extrema pobreza por necessidade calórica e da parcela da população equivalente à renda dos mais ricos caiu drasticamente no Brasil nas últimas quatro décadas.
 
 O primeiro indicador despencou de 18,4% da população de 1976 para 4,2% em 2014 (queda de 77,2%), enquanto o segundo foi de 36,2% para 15,4% da população (queda de 57,3%) no mesmo período.
 

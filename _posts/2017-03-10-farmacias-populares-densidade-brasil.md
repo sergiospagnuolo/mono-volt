@@ -14,7 +14,7 @@ feature_image: farmacias-populares-mapa.png
 credito_img: Agência Brasil/EBC
 show_related_posts: true
 atualiza_data: 10.03.2017
-atualiza_texto: 'corrigir um erro de formatação causado pelo computador no número de farmácias no Norte, que é de 871, e não de 871.000
+atualiza_texto: 'corrigir um erro de formatação causado pelo computador no número de farmácias no Norte, que é de 871, e não de 871.000'
 tags:
   - 'norte, '
   - 'saúde, '

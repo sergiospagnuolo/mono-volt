@@ -13,6 +13,8 @@ hero_image: farmacia-pop.jpg
 feature_image: farmacias-populares-mapa.png
 credito_img: Agência Brasil/EBC
 show_related_posts: true
+atualiza_data: 10.03.2017
+atualiza_texto: 'corrigir um erro de formatação causado pelo computador no número de farmácias no Norte, que é de 871, e não de 871.000
 tags:
   - 'norte, '
   - 'saúde, '
@@ -54,7 +56,7 @@ Os Estados mais carentes são o Amapá, que possui apenas sete farmácias popula
 |--------------|---------------------|------------|-------------------------|
 | Centro-Oeste | 3.071               | 15.660.988 | 5.100                   |
 | Nordeste     | 3.781               | 56.915.936 | 15.053                  |
-| Norte        | 871.000             | 17.707.783 | 20.330                  |
+| Norte        | 871                 | 17.707.783 | 20.330                  |
 | Sudeste      | 12.783              | 86.356.952 | 6.756                   |
 | Sul          | 7.793               | 29.439.773 | 3.778                   |
 

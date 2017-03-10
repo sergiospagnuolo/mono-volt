@@ -1179,8 +1179,8 @@ code, kbd, pre, samp {
 code {
   padding: 2px 4px;
   font-size: 90%;
-  color: #c7254e;
-  background-color: #f9f2f4;
+  color: #ededed;
+  background-color: #222;
   border-radius: 4px; }
 
 kbd {
@@ -7467,6 +7467,8 @@ ol {
 
 .meta {
   color: #777;
+  font-family: Inconsolata;
+  margin-top: 20px;
   font-size: 14px;
   font-size: 1.4rem; }
   @media (min-width: 992px) {
@@ -7481,6 +7483,26 @@ ol {
       border-bottom: 1px solid #777; }
   .meta i {
     font-style: normal; }
+
+.credito_img {
+  color: #777;
+  font-family: Inconsolata;
+  margin: 3px 10px 0;
+  float: right; }
+
+.hero-title {
+  font-size: 9em;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 5px;
+  text-align: center;
+  display: inline;
+  line-height: 1.3em; }
+
+.hero-div {
+  max-width: 700px;
+  margin: 0 auto;
+  padding-top: 10%; }
 
 .btn-default {
   padding: 10px 15px;

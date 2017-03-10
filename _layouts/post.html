@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<header class="hero-image" style="background-image: url({{ site.baseurl }}/graf/{{page.feature_image}});">
+<header class="hero-image" style="background-image: url({{ site.baseurl }}/heroes/{{page.hero_image}});">
     <span class="menu-trigger animated fadeInDown">
         <span class="bar"></span>
         <span class="bar"></span>
@@ -10,16 +10,21 @@ layout: default
     </span>
 
     {% include nav.html %}
-</header>
+    <h1 style="color:#a7000c;float:right;margin-right:30px;"><a href="/">M0N0</a></h1>
+    <div class="hero-div">
+      <h1 class="hero-title" media="screen and (max-width: 480px)">{{ page.hero-title }}</h1>
+    </div>
 
+</header>
+<h6 class="credito_img">Crédito: {{ page.credito_img }}</h6>
 <main class="container">
     <div class="row">
         <div class="col-xs-12 single-content">
             <p class="meta">
-                <a href="{{ page.author_url | prepend: site.baseurl }}">{{ page.author_name | capitalize}}</a> in <a href='{{ "/category/" | append: page.categories.first | prepend: site.baseurl }}'>{{ page.categories[0] | capitalize }}</a> <i class="link-spacer"></i> <i class="fa fa-bookmark"></i> {{ page.read_time }} minutes
-            </p>
+                Por <a href="{{ page.author_url | prepend: site.baseurl }}">{{ page.author_name }}</a> <i class="link-spacer"></i> <span>Arquivado em <a href='{{ "/category/" | append: page.categories.first | prepend: site.baseurl }}'>{{ page.categories[0] | capitalize }}</a></span> <i class="link-spacer"></i> Especial
 
-            <h1>{{ page.title }}</h1>
+            <h2>{{ page.title }}</h2>
+            <hr />
 
             {{ content }}
 
@@ -35,3 +40,11 @@ layout: default
         {% include footer-related-posts.html %}
     {% endif %}
 </footer>
+
+<style>
+@media screen and (max-width: 760px){
+    .hero-title{
+      display: none
+      }
+    }
+</style>

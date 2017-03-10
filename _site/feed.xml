@@ -5,9 +5,122 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Mar 2017 11:05:46 -0300</pubDate>
-    <lastBuildDate>Thu, 09 Mar 2017 11:05:46 -0300</lastBuildDate>
+    <pubDate>Fri, 10 Mar 2017 11:53:02 -0300</pubDate>
+    <lastBuildDate>Fri, 10 Mar 2017 11:53:02 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Região Norte tem apenas uma farmácia popular para cada 20 mil habitantes</title>
+        <description>&lt;p&gt;A região Norte é a mais desprovida de &lt;a href=&quot;http://portalsaude.saude.gov.br/index.php/o-ministerio/principal/leia-mais-o-ministerio/346-sctie-raiz/daf-raiz/farmacia-popular/l1-farmacia-popular/18008-programa-farmacia-popular-do-brasil&quot;&gt;farmácias populares&lt;/a&gt; no Brasil, de acordo com levantamento do Volt Data Lab com dados do Ministério da Saúde cruzados com dados populacionais do IBGE.&lt;/p&gt;
+
+&lt;p&gt;O mapa abaixo utiliza a &lt;a href=&quot;http://dados.gov.br/dataset/farmacia_popular_estabelecimento/resource/84b633a5-9a51-4767-9727-d5618564f3de&quot;&gt;tabela oficial&lt;/a&gt; da &lt;a href=&quot;http://sage.saude.gov.br/&quot;&gt;Sala de Apoio à Gestão Estratégica&lt;/a&gt; (SAGE) do Ministério da Saúde sobre a localização de 28.299 farmácias da rede conveniada do programa, conforme divulgado no &lt;a href=&quot;http://dados.gov.br/dataset/farmacia_popular_estabelecimento&quot;&gt;Portal de Dados Abertos do governo federal&lt;/a&gt; e atualizados em 6 de março de 2017. Esse número de estabelecimentos da rede é o menor desde 2012, segundo &lt;a href=&quot;https://aosfatos.org/noticias/sem-alarde-governo-reduz-em-20-rede-de-farmacias-populares-no-brasil/&quot;&gt;reportagem&lt;/a&gt; do Aos Fatos em parceria com o Volt Data Lab.&lt;/p&gt;
+
+&lt;p&gt;Quanto mais escuros os pontos, mais farmácias em determinada cidade.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/graf/farmacias-populares-mapa.png&quot; alt=&quot;Mapa farmacias populares no Brasil&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Os números mais atuais da SAGE mostram uma quantidade menor de estabelecimentos do que registrado no fim de 2016, 34.616 farmácias conveniadas.&lt;/p&gt;
+
+&lt;p&gt;O programa foi aprovado em 2004 e implementado a partir de 2006, tendo como papel complementar acesso aos medicamentos que são oferecidos no SUS.&lt;/p&gt;
+
+&lt;p&gt;Balanços divulgados pelo governo são dispersos, mas segundo nota oficial &lt;a href=&quot;http://bit.ly/2n4hDmc&quot;&gt;divulgada&lt;/a&gt; no ano passado, o programa beneficiou 38 milhões de pessoas até 2016, dispobilizando medicamentos gratuitos ou com grandes descontos, especialmente para hipertensão, diabetes e asma, como também para outros fármacos.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/graf/farmcias-em-falta.png&quot; alt=&quot;Grafico farmácias populares por região&quot; class=&quot;graficos&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/graf/farmcias-em-falta-grap2.png&quot; alt=&quot;Grafico farmácias populares por região&quot; class=&quot;graficos&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;No entanto, a chance de ser mais beneficiado depende de onde você está, e é visível a disparidade no Norte do país.&lt;/p&gt;
+
+&lt;p&gt;Nos sete Estados da região, que contam com uma população combinada de quase 18 milhões de pessoas, a densidade de farmácias populares é de apenas uma para cada 20.330 pessoas. Em seguida vem o Nordeste, com 15.053 pessoas por estabelecimento, com uma população de 57 milhões.&lt;/p&gt;
+
+&lt;p&gt;Os Estados mais carentes são o Amapá, que possui apenas sete farmácias populares na rede conveniada, enquanto Acre, somente 20.&lt;/p&gt;
+
+&lt;h3 id=&quot;tabela&quot;&gt;Tabela&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;região&lt;/th&gt;
+      &lt;th&gt;farmácias populares&lt;/th&gt;
+      &lt;th&gt;população&lt;/th&gt;
+      &lt;th&gt;habitantes por farmácia&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Centro-Oeste&lt;/td&gt;
+      &lt;td&gt;3.071&lt;/td&gt;
+      &lt;td&gt;15.660.988&lt;/td&gt;
+      &lt;td&gt;5.100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Nordeste&lt;/td&gt;
+      &lt;td&gt;3.781&lt;/td&gt;
+      &lt;td&gt;56.915.936&lt;/td&gt;
+      &lt;td&gt;15.053&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Norte&lt;/td&gt;
+      &lt;td&gt;871.000&lt;/td&gt;
+      &lt;td&gt;17.707.783&lt;/td&gt;
+      &lt;td&gt;20.330&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sudeste&lt;/td&gt;
+      &lt;td&gt;12.783&lt;/td&gt;
+      &lt;td&gt;86.356.952&lt;/td&gt;
+      &lt;td&gt;6.756&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sul&lt;/td&gt;
+      &lt;td&gt;7.793&lt;/td&gt;
+      &lt;td&gt;29.439.773&lt;/td&gt;
+      &lt;td&gt;3.778&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dados.gov.br/dataset/farmacia_popular_estabelecimento&quot;&gt;Portal de Dados Abertos do governo federal&lt;/a&gt;, com informações da Sala de Apoio à Gestão Estratégica (SAGE), do Ministério da Saúde. Última atualização dos dados foi março de 2017&lt;/li&gt;
+  &lt;li&gt;Para tabela no &lt;a href=&quot;http://sage.saude.gov.br/&quot;&gt;site da SAGE&lt;/a&gt;): &lt;code class=&quot;highlighter-rouge&quot;&gt;Redes e Programas -&amp;gt; Saúde não tem Preço - Assistência Farmacêutica -&amp;gt; Aqui tem Farmácia Popular - Rede Conveniada&lt;/code&gt; - O Volt baixou a tabela em CSV da “Lista de Estabelecimentos”&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;ftp://ftp.ibge.gov.br/Estimativas_de_Populacao/Estimativas_2016/estimativa_dou_2016_20160913.pdf&quot;&gt;Dados populacionais do Instituto Brasileiro de Geografia e Estatística - IBGE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;style&gt;
+.graficos {
+  width:500px;
+  float:left;
+  margin: 20px 20px 20px -120px
+}
+
+@media screen and (max-width: 960px) {
+    .graficos {
+        float: none;
+        margin: 20px 0
+    }
+}
+
+&lt;/style&gt;
+
+</description>
+        <pubDate>Thu, 09 Mar 2017 09:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/farmacias-populares-densidade-brasil</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/farmacias-populares-densidade-brasil</guid>
+        
+        <category>norte, </category>
+        
+        <category>saúde, </category>
+        
+        <category>farmácia popular, </category>
+        
+        <category>nordeste</category>
+        
+        
+        <category>brasil</category>
+        
+      </item>
     
       <item>
         <title>Governo do PT acelerou (muito) queda da fome extrema e da desigualdade de renda, mas não iniciou trajetória</title>
@@ -15,7 +128,7 @@
 
 &lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
 
-&lt;p&gt;O percentual de extrema de pobreza por necessidade calórica e da parcela da população equivalente à renda dos mais ricos caiu drasticamente no Brasil nas últimas quatro décadas.&lt;/p&gt;
+&lt;p&gt;O percentual de extrema pobreza por necessidade calórica e da parcela da população equivalente à renda dos mais ricos caiu drasticamente no Brasil nas últimas quatro décadas.&lt;/p&gt;
 
 &lt;p&gt;O primeiro indicador despencou de 18,4% da população de 1976 para 4,2% em 2014 (queda de 77,2%), enquanto o segundo foi de 36,2% para 15,4% da população (queda de 57,3%) no mesmo período.&lt;/p&gt;
 
@@ -633,41 +746,6 @@ Eu desconsiderei aqui comentários e reações (&lt;em&gt;likes&lt;/em&gt; e out
         
         
         <category>coisas</category>
-        
-      </item>
-    
-      <item>
-        <title>No sistema do Alto Tietê, situação de reservatório é delicada, mas está longe dos níveis críticos de 2014</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/sistema-tiete.png&quot; alt=&quot;Grafico sistema tiete&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;Após a &lt;a href=&quot;http://www.idec.org.br/em-acao/noticia-consumidor/depois-do-cantareira-seca-em-so-paulo-afeta-reservatorio-alto-tiete&quot;&gt;estiagem&lt;/a&gt; em 2014 que afetou grandes mananciais do Estado de São Paulo, especialmente o sistema Cantareira e o Alto Tietê, as coisas pareceram melhorar em 2016.&lt;/p&gt;
-
-&lt;p&gt;No sistema Alto Tietê, onde o volume de água ficou abaixo de 4% no fim de 2014, o volume armazenado estava próximo de 45% ao final de dezembro último - ajudado pela profusão de chuvas na região. Não é o ideal, mas não está tão crítico quanto antes. Os dados são da Sabesp, mas foram compilados pela jornalista Jamile Santana.&lt;/p&gt;
-
-&lt;p&gt;Para ter um panorama geral sobre os mananciais de São Paulo e sua situação de armazenamento e de chuvas, o Código Urbano tem o excelente projeto &lt;a href=&quot;http://mananciais.tk/&quot;&gt;Mananciais&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Os dados são da &lt;a href=&quot;http://www2.sabesp.com.br/mananciais/DivulgacaoSiteSabesp.aspx&quot;&gt;Sabesp&lt;/a&gt;, mas o trabalho de compilação dos relatórios mensais foi feito pela jornalista &lt;a href=&quot;https://www.linkedin.com/in/jamile-santana-11704119/&quot;&gt;Jamile Santana&lt;/a&gt;, que gentilmente cedeu a &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1fve7DzYxw0CFUDOLHDlzUmbuqgUNizA_wn_q1C1L_s0/edit?usp=sharing&quot;&gt;compilação&lt;/a&gt; ao &lt;strong&gt;Volt Data Lab&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 22 Feb 2017 07:00:00 -0300</pubDate>
-        <link>http://mono.voltdata.info/sistema-tiete-nivel</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/sistema-tiete-nivel</guid>
-        
-        <category>água, </category>
-        
-        <category>mananciais, </category>
-        
-        <category>sistema Tietê, </category>
-        
-        <category>chuva</category>
-        
-        
-        <category>ambiente</category>
         
       </item>
     

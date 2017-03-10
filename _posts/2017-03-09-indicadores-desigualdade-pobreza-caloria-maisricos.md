@@ -1,4 +1,5 @@
 ---
+published: true
 categories: brasil
 intro: >-
   De 1976 a 2014, percentual de extrema de pobreza por necessidade calórica e da
@@ -18,8 +19,7 @@ tags:
   - 'sociedade, '
   - 'pobreza, '
   - 'fome, '
-  - governo
-published: true
+  - 'governo'
 ---
 
 ![Grafico indicadores de pobres](/graf/desigualdade-indicadores-76-2014.png)

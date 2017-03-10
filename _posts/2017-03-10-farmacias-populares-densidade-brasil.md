@@ -3,7 +3,7 @@ categories: brasil
 intro: Amapá possui apenas sete farmácias populares, enquanto Acre, somente 20
 title: Região Norte tem apenas uma farmácia popular para cada 20 mil habitantes
 hero-title: 'Procura-se: farmácias populares no Norte'
-date: 2017-03-09T12:00:00
+date: 2017-03-10T11:00:00
 layout: post
 author_name: Sérgio Spagnuolo
 author_url: /author/sergio

@@ -5,9 +5,46 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Mar 2017 12:58:17 -0300</pubDate>
-    <lastBuildDate>Wed, 15 Mar 2017 12:58:17 -0300</lastBuildDate>
+    <pubDate>Mon, 27 Mar 2017 13:23:00 -0300</pubDate>
+    <lastBuildDate>Mon, 27 Mar 2017 13:23:00 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Qual o peso de docentes aposentados sobre folha de pagamento da USP?</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/professores-usp.png&quot; alt=&quot;Grafico USP&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;A Universidade de São Paulo tem uma previsão de déficit de R$570 milhões em 2017, principalmente por conta de uma despesa com pessoal de R$ 4,8 bilhões, segundo suas &lt;a href=&quot;https://www.usp.br/codage/files/orc2017/DO-USP-2017.pdf&quot;&gt;diretrizes orçamentárias&lt;/a&gt; para este ano.&lt;/p&gt;
+
+&lt;p&gt;A remuneração líquida mediana dos 5.614 servidores inativos da USP foi de R$13.234 em dezembro de 2016. Mas o peso está, principalmente, sobre os docentes aposentados.&lt;/p&gt;
+
+&lt;p&gt;Se considerarmos apenas os 3.027 docentes aposentados, essa mediana vai para R$ 17.885 no período - ao passo que a mediana para os 6.031 docentes na ativa foi quase 25% menor, de R$ 13.596.&lt;/p&gt;
+
+&lt;p&gt;Obviamente, os professores na ativa pesam bem mais na soma nominal dessa conta do que os aposentados, por serem em maior número, mas com aposentadorias que chegaram a quase R$ 90 mil, essa categoria pesa bastante.&lt;/p&gt;
+
+&lt;p&gt;Enquanto isso, na turma dos não docentes, a mediana para os aposentados foi de R$9.230, enquanto para os ativos não chegou a R$ 8 mil.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://uspdigital.usp.br/portaltransparencia/&quot;&gt;Portal de Transparência da Universidade de São Paulo - USP&lt;/a&gt;, para folha de pagamento de dezembro de 2016. As categorias por tempo de casa foram feitas pelo Volt Data Lab. Você pode acessar o código em R do gráfico &lt;a href=&quot;https://github.com/voltdatalab/dados/blob/master/geral/salarios_usp.R&quot;&gt;aqui&lt;/a&gt;, e os dados tabelados utilizados &lt;a href=&quot;https://github.com/voltdatalab/dados/blob/master/geral/usp_sal.csv&quot;&gt;aqui&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 27 Mar 2017 00:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/usp-salarios-docentes</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/usp-salarios-docentes</guid>
+        
+        <category>Previdência, </category>
+        
+        <category>USP, </category>
+        
+        <category>salário</category>
+        
+        
+        <category>ciência</category>
+        
+      </item>
     
       <item>
         <title>Fazendas no Brasil lideram lista de trabalho escravo</title>
@@ -639,35 +676,6 @@
         
         
         <category>brasil</category>
-        
-      </item>
-    
-      <item>
-        <title>Fundo Soberano do Brasil - crescimento consistente, mas turbulento de 2011 a 2013</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/fundo-soberano.png&quot; alt=&quot;Grafico fundo soberano do Brasil&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;Evolução do patromônio líquido do Fundo Soberano do Brasil desde sua criação até fevereiro de 2017.&lt;/p&gt;
-
-&lt;p&gt;O &lt;a href=&quot;http://economia.estadao.com.br/noticias/negocios,entenda-o-fundo-soberano-do-brasil,7156e&quot;&gt;Estadao.com&lt;/a&gt; traz uma boa explicação sobre o fundo, suas funções e sua finalidade.&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://dados.gov.br/dataset/fundo-soberano-do-brasil/resource/7f61f290-cfc5-40e4-97a7-0e45b8b750d4&quot;&gt;Porta Brasileiro de Dados Abertos&lt;/a&gt;, com dados até 2 de fevereiro de 2017&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 03 Mar 2017 00:00:00 -0300</pubDate>
-        <link>http://mono.voltdata.info/fundo-soberano-br-pl</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/fundo-soberano-br-pl</guid>
-        
-        <category>Fundo Soberano, </category>
-        
-        <category>investimentos</category>
-        
-        
-        <category>economia</category>
         
       </item>
     

@@ -5,9 +5,54 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Mar 2017 13:23:00 -0300</pubDate>
-    <lastBuildDate>Mon, 27 Mar 2017 13:23:00 -0300</lastBuildDate>
+    <pubDate>Sun, 09 Apr 2017 15:54:48 -0300</pubDate>
+    <lastBuildDate>Sun, 09 Apr 2017 15:54:48 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Brasil tem capacidade estatística menor do que México, Argentina, China e, por que não, América Latina</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/cap_estatistica.png&quot; alt=&quot;Grafico capacidade estatistica&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;O Brasil tem capacidade estatística menor do que a média da América Latina, do que seus colegas nos BRIC (Brasil, Rússia, Índia e China), e fica bem atrás dos rivais emergentes Argentina e México, de acordo com índice do Banco Mundial.&lt;/p&gt;
+
+&lt;p&gt;Em 2016, o país registrou 76,7 (em escala até 100) na medição da organização, bem longe do pico de 91,1 alcançado em 2007.&lt;/p&gt;
+
+&lt;p&gt;O &lt;em&gt;Nível Geral de Capacidade Estatística&lt;/em&gt; mede a “capacidade de uma nação de coletar, analisar e disseminar dados de alta qualidade sobre sua população e economia.” A metodologia do banco é direta:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;[O índice] é baseado em um plano diagnóstico que avalia as seguintes áreas: metodologia; fontes de dados; e periodicidade e conveniência. Países são avaliados em 25 critérios nestas áreas, utilizando informação disponível publicamente e/ou informações disponibilizadas pelos países. O resultado geral de Capacidade Estatística é, então, calculado como uma média simples de todas as três áreas em uma escala de 0 a 100.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Pessoalmente, eu imaginava que o Brasil estaria muito melhor colocado nesse quadro (e já esteve, no passado), visto que temos institutos de bastante qualidade e credibilidade por aqui. Vou tentar ir mais a fundo nisso e atualizar este &lt;em&gt;post&lt;/em&gt; ou criar um novo a respeito.&lt;/p&gt;
+
+&lt;p&gt;No gráfico acima, estão plotados os índices de mais de 170 países, o que é impossível na hora de fazer anotações, por isso foram selecionados alguns países e grupos de países os quais achei interessante a comparação - Índia e Rússia tem índices semelhantes, entre Brasil e China. A Somália consta ali apenas para mostrar quem está mais abaixo na escala.&lt;/p&gt;
+
+&lt;p&gt;O Banco Mundial disponibiliza &lt;a href=&quot;https://datahelpdesk.worldbank.org/knowledgebase/topics/125589&quot;&gt;diversas APIs&lt;/a&gt; com esses dados.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=IQ.SCI.OVRL&quot;&gt;DataBank, do Banco Mundial&lt;/a&gt;, com dados do &lt;a href=&quot;http://datatopics.worldbank.org/statisticalcapacity/&quot;&gt;Boletim de Capacidade Estatística&lt;/a&gt; do banco.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 09 Apr 2017 00:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/capacidade-estatistica</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/capacidade-estatistica</guid>
+        
+        <category>estatística, </category>
+        
+        <category>Banco Mundial, </category>
+        
+        <category>América Latina, </category>
+        
+        <category>LATAM</category>
+        
+        
+        <category>ciência</category>
+        
+      </item>
     
       <item>
         <title>Qual o peso de docentes aposentados sobre folha de pagamento da USP?</title>
@@ -612,67 +657,6 @@
         <category>Direitos Humanos, </category>
         
         <category>Investimentos</category>
-        
-        
-        <category>brasil</category>
-        
-      </item>
-    
-      <item>
-        <title>Mais da metade dos postos ativos da campanha do desarmamento são da Polícia Civil</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/desarmamento-postos.png&quot; alt=&quot;Grafico postos da campanha do desarmamento&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;A Campanha do Desarmamento foi iniciada em 2004, após a aprovação do estatuto do desarmamento no ano anterior. Estima-se que tenha ajudado a poupar mais de 130 mil vidas até 2014, segundo dados baseados no número de assassinatos esperados e nos efetivamente registrados, de acordo com o &lt;a href=&quot;http://www.mapadaviolencia.org.br/pdf2016/Mapa2016_armas_web.pdf&quot;&gt;Mapa da Violência de 2016&lt;/a&gt; (pág. 67).&lt;/p&gt;
-
-&lt;p&gt;Ainda é pouco divulgado por aí, mas há mais de 2000 postos ativos da campanha, segundo informações no Portal de Dados Abertos do governo federal, a maioria deles delegacias da Polícia Civil.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;tipo&lt;/th&gt;
-      &lt;th&gt;total de postos&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Polícia Civil&lt;/td&gt;
-      &lt;td&gt;1106&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Polícia Militar&lt;/td&gt;
-      &lt;td&gt;744&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Outros&lt;/td&gt;
-      &lt;td&gt;136&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Polícia Federal&lt;/td&gt;
-      &lt;td&gt;127&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://dados.gov.br/dataset/postos-campanha-do-desarmamento1/resource/c80eaafe-0e51-47c8-bbd0-4e40fd778e1d&quot;&gt;Portal Brasileiro de Dados Abertos&lt;/a&gt;, com dados até 5 de dezembro de 2016&lt;/li&gt;
-  &lt;li&gt;Para saber mais sobre a campanha, &lt;a href=&quot;http://www.pf.gov.br/servicos-pf/armas/campanha-do-desarmamento/sinarm-sistema-nacional-de-armas&quot;&gt;acesse o site&lt;/a&gt; da Polícia Federal&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 06 Mar 2017 00:00:00 -0300</pubDate>
-        <link>http://mono.voltdata.info/postos-campanha-desarmamento</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/postos-campanha-desarmamento</guid>
-        
-        <category>Segurança Pública, </category>
-        
-        <category>Campanha do Desarmamento, </category>
-        
-        <category>Polícia Civil, </category>
-        
-        <category>Violência</category>
         
         
         <category>brasil</category>

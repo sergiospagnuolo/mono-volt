@@ -5,9 +5,48 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Apr 2017 15:54:48 -0300</pubDate>
-    <lastBuildDate>Sun, 09 Apr 2017 15:54:48 -0300</lastBuildDate>
+    <pubDate>Wed, 19 Apr 2017 23:26:27 -0300</pubDate>
+    <lastBuildDate>Wed, 19 Apr 2017 23:26:27 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Síria, conflito brutal fora e dentro do campo de batalha</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/batalha-mortes.png&quot; alt=&quot;Grafico mortes em batalha&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;A questão dos refugiados sírios tentando escapar da brutal guerra civil do país talvez seja uma das grandes preocupações do mundo hoje, e com razão. É uma crise imigratória, política e até econômica, mas, acima de tudo, humanitária. Estima-se mais de 5 &lt;a href=&quot;http://data.unhcr.org/syrianrefugees/regional.php&quot;&gt;milhões&lt;/a&gt; de refugiados, com mais de &lt;a href=&quot;http://edition.cnn.com/2013/08/27/world/meast/syria-civil-war-fast-facts/&quot;&gt;400 mil&lt;/a&gt; mortos.&lt;/p&gt;
+
+&lt;p&gt;Para se ter uma ideia da escala do conflito com outros atuais, separei os 9 conflitos que mataram mais de 1.000 pessoas em batalha, segundo dados do &lt;a href=&quot;pcr.uu.se/research/UCDP&quot;&gt;Uppsala Conflict Data Program&lt;/a&gt; mais atuais no site do Banco Mundial, relativos a 2015.&lt;/p&gt;
+
+&lt;p&gt;Na Síria, foram mais de 45 mil mortos apenas naquele ano, tanto militares quanto civis, um número que, quando atualizado, não deve surpreender se for ainda maior, após a intervenção de diversas partes no ano passado.&lt;/p&gt;
+
+&lt;p&gt;A metodologia afirma que “mortes em batalha” são mortes ocorridas durante batalha entre partes em conflito, tipicamente sob táticas de guerra envolvendo forças armadas, como combate aberto, atividades de guerrilha e todos os tipos de bombardeamento de unidades militares, cidades etc., tendo geralmente posições militares como principal alvo, mesmo que haja dano colaterais e mortes de civis.&lt;/p&gt;
+
+&lt;p&gt;Iraque também deve ver um aumento nesses números, por conta da ofensiva do governo contra o Estado Islâmico.&lt;/p&gt;
+
+&lt;p&gt;As informações de “guerra civil” e “conflito interno” são baseados no excelente projeto &lt;a href=&quot;http://www.cfr.org/global/global-conflict-tracker/p32137#!/&quot;&gt;&lt;em&gt;Global Conflit Tracker&lt;/em&gt;&lt;/a&gt;, do excepcional Council on Foreign Relations.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://data.worldbank.org/indicator/VC.BTL.DETH?year_high_desc=true&quot;&gt;DataBank, do Banco Mundial&lt;/a&gt;, com dados do &lt;a href=&quot;pcr.uu.se/research/UCDP&quot;&gt;Uppsala Conflict Data Program&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 19 Apr 2017 00:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/mortes-em-batalha-2015</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/mortes-em-batalha-2015</guid>
+        
+        <category>guerra, </category>
+        
+        <category>mortes, </category>
+        
+        <category>violência</category>
+        
+        
+        <category>mundo</category>
+        
+      </item>
     
       <item>
         <title>Brasil tem capacidade estatística menor do que México, Argentina, China e, por que não, América Latina</title>
@@ -15,7 +54,7 @@
 
 &lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
 
-&lt;p&gt;O Brasil tem capacidade estatística menor do que a média da América Latina, do que seus colegas nos BRIC (Brasil, Rússia, Índia e China), e fica bem atrás dos rivais emergentes Argentina e México, de acordo com índice do Banco Mundial.&lt;/p&gt;
+&lt;p&gt;O Brasil tem capacidade estatística menor do que a América Latina em geral, do que seus parceiros emergentes nos BRIC (Brasil, Rússia, Índia e China), e fica bem atrás dos rivais regionais Argentina e México, de acordo com índice do Banco Mundial.&lt;/p&gt;
 
 &lt;p&gt;Em 2016, o país registrou 76,7 (em escala até 100) na medição da organização, bem longe do pico de 91,1 alcançado em 2007.&lt;/p&gt;
 
@@ -25,11 +64,11 @@
   &lt;p&gt;&lt;em&gt;[O índice] é baseado em um plano diagnóstico que avalia as seguintes áreas: metodologia; fontes de dados; e periodicidade e conveniência. Países são avaliados em 25 critérios nestas áreas, utilizando informação disponível publicamente e/ou informações disponibilizadas pelos países. O resultado geral de Capacidade Estatística é, então, calculado como uma média simples de todas as três áreas em uma escala de 0 a 100.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Pessoalmente, eu imaginava que o Brasil estaria muito melhor colocado nesse quadro (e já esteve, no passado), visto que temos institutos de bastante qualidade e credibilidade por aqui. Vou tentar ir mais a fundo nisso e atualizar este &lt;em&gt;post&lt;/em&gt; ou criar um novo a respeito.&lt;/p&gt;
+&lt;p&gt;Pessoalmente, eu imaginava que o Brasil estaria muito melhor colocado nesse quadro (e já esteve, no passado), visto que temos institutos de bastante qualificados e de credibilidade por aqui. Vou tentar ir mais a fundo nisso e atualizar este &lt;em&gt;post&lt;/em&gt; ou criar um novo a respeito quando souber mais.&lt;/p&gt;
 
-&lt;p&gt;No gráfico acima, estão plotados os índices de mais de 170 países, o que é impossível na hora de fazer anotações, por isso foram selecionados alguns países e grupos de países os quais achei interessante a comparação - Índia e Rússia tem índices semelhantes, entre Brasil e China. A Somália consta ali apenas para mostrar quem está mais abaixo na escala.&lt;/p&gt;
+&lt;p&gt;No gráfico acima, estão plotados os índices de mais de 170 países, o que torna impossível na hora de fazer anotações, por isso foram selecionados alguns países e grupos de países os quais achei interessante a comparação - Índia e Rússia tem índices semelhantes, localizados entre Brasil e China. A Somália consta ali apenas para mostrar quem está mais abaixo na escala.&lt;/p&gt;
 
-&lt;p&gt;O Banco Mundial disponibiliza &lt;a href=&quot;https://datahelpdesk.worldbank.org/knowledgebase/topics/125589&quot;&gt;diversas APIs&lt;/a&gt; com esses dados.&lt;/p&gt;
+&lt;p&gt;O Banco Mundial disponibiliza &lt;a href=&quot;https://datahelpdesk.worldbank.org/knowledgebase/topics/125589&quot;&gt;API&lt;/a&gt; com esses e outros dados.&lt;/p&gt;
 
 &lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
 
@@ -580,86 +619,6 @@
         
         
         <category>economia</category>
-        
-      </item>
-    
-      <item>
-        <title>INTERATIVO-Investimentos federais em ações contra violência às mulheres despencam desde 2008</title>
-        <description>&lt;iframe src=&quot;http://graficos.voltdata.info/posts/geral/polmulheres.html&quot; width=&quot;100%&quot; frameborder=&quot;no&quot; scrolling=&quot;no&quot; height=&quot;740px&quot; seamless=&quot;&quot;&gt; &lt;/iframe&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;Repasses a ações como as de combate à violência contra a mulher e de atenção à saúde feminina sofreram redução de mais de 70% de 2015 para 2016.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;ano&lt;/th&gt;
-      &lt;th&gt;total de desembolsos&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2008&lt;/td&gt;
-      &lt;td&gt;R$ 35.251.332,86&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2009&lt;/td&gt;
-      &lt;td&gt;R$ 27.667.057,73&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2010&lt;/td&gt;
-      &lt;td&gt;R$ 68.301.737,70&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2011&lt;/td&gt;
-      &lt;td&gt;R$ 28.126.665,89&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2012&lt;/td&gt;
-      &lt;td&gt;R$ 43.890.060,70&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2013&lt;/td&gt;
-      &lt;td&gt;R$ 36.344.068,18&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2014&lt;/td&gt;
-      &lt;td&gt;R$ 55.437.341,59&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2015&lt;/td&gt;
-      &lt;td&gt;R$ 41.738.582,48&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2016&lt;/td&gt;
-      &lt;td&gt;R$ 11.117.395,21&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;As informações foram compiladas em reportagem do site de checagem &lt;a href=&quot;https://aosfatos.org/noticias/crise-derruba-investimento-do-governo-em-politicas-para-mulheres/&quot;&gt;Aos Fatos&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.portaltransparencia.gov.br/&quot;&gt;Portal da Transparência&lt;/a&gt;, segundo dados levantados pelo site &lt;a href=&quot;https://aosfatos.org/noticias/crise-derruba-investimento-do-governo-em-politicas-para-mulheres/&quot;&gt;Aos Fatos&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 07 Mar 2017 00:00:00 -0300</pubDate>
-        <link>http://mono.voltdata.info/desembolsos-federais-politica-mulheres</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/desembolsos-federais-politica-mulheres</guid>
-        
-        <category>Segurança Pública, </category>
-        
-        <category>Gênero, </category>
-        
-        <category>Direitos Humanos, </category>
-        
-        <category>Investimentos</category>
-        
-        
-        <category>brasil</category>
         
       </item>
     

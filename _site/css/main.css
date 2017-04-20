@@ -1137,7 +1137,7 @@ abbr[title], abbr[data-original-title] {
 blockquote {
   padding: 10px 20px;
   margin: 0 0 20px;
-  border-left: 5px solid #a7000c;
+  border-left: 5px solid #386cb0;
   margin: 10px 0 20px 5%;
   line-height: 1.2em; }
 
@@ -6917,7 +6917,7 @@ input {
   max-width: 100%;
   width: 800px;
   font-size: 14px;
-  border: 1px #a7000c solid;
+  border: 1px #386cb0 solid;
   border-radius: 5px;
   background-color: #f5f5f5;
   color: #777; }
@@ -7376,14 +7376,14 @@ ol {
 .btn-primary,
 .label-primary,
 .progress-bar-primary {
-  background: #a7000c; }
+  background: #386cb0; }
   .btn-primary:hover,
   .label-primary:hover,
   .progress-bar-primary:hover {
     background: #5e5e5e; }
 
 .btn-primary {
-  background: #a7000c;
+  background: #386cb0;
   color: #fff;
   font-family: "Inconsolata", Helvetica, Arial, sans-serif;
   float: right;
@@ -7550,12 +7550,12 @@ ol {
     list-style: none; }
     #jPanelMenu-menu li i {
       padding: 0 20px;
-      color: #a7000c;
+      color: #386cb0;
       font-style: normal;
       font-size: 16px;
       font-size: 1.6rem; }
     #jPanelMenu-menu li a {
-      color: #a7000c;
+      color: #386cb0;
       text-align: left;
       font-family: "Inconsolata", Helvetica, Arial, sans-serif;
       font-weight: 700;
@@ -7577,7 +7577,7 @@ ol {
   display: block;
   height: 40px;
   width: 40px;
-  background: #a7000c;
+  background: #386cb0;
   padding-top: 8px;
   cursor: pointer; }
   .menu-trigger span {
@@ -7920,7 +7920,7 @@ footer.single {
       font-style: normal; }
     footer.single .social-icon:hover, footer.single .social-icon:active {
       border: none;
-      color: #a7000c; }
+      color: #386cb0; }
   footer.single .category-list {
     padding: 30px 0; }
     @media (min-width: 768px) {
@@ -8279,7 +8279,7 @@ main {
 a {
   color: #222;
   text-decoration: none;
-  border-bottom: solid 2px #a7000c; }
+  border-bottom: solid 2px #386cb0; }
   a:hover, a:active, a:focus {
     text-decoration: none;
     color: #777;

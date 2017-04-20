@@ -1,0 +1,110 @@
+  body {
+      font-family: 'Inconsolata', sans-serif;
+      background-color: #eee;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      font-size: 20px;
+  }
+  
+  h1 {
+      font-size: 2em;
+      font-weight: 700;
+      font-family: 'Merriweather Sans', sans-serif;
+  }
+  
+  h2 {
+      font-size: 1em;
+      font-weight: 400;
+      font-family: 'Merriweather Sans', sans-serif;
+  }
+  
+  h3 {
+      font-size: 14px;
+      font-weight: 300;
+  }
+  
+  h4 {
+      font-size: 12px;
+      font-weight: 300;
+  }
+  
+  #principal {
+      margin: 0 auto;
+      max-width: 1100px;
+  }
+  
+  .conteudo {
+      max-width: 800px;
+  }
+  
+  #chart {
+      margin: 0 auto;
+  }
+  
+  .linha {
+      border-bottom: 3px #cbcbcb solid;
+      margin: 10px 0;
+  }
+  
+  a {
+      color: #a7002c;
+  }
+  
+  a:hover {
+      color: #cbcbcb;
+  }
+  
+  a:visited {
+      color: #a7002c;
+  }
+  
+  ul {
+      list-style-type: none;
+      margin-left: -40px;
+  }
+  
+  
+  .axis path,
+  .axis line {
+      fill: none;
+      stroke: #000;
+      shape-rendering: crispEdges;
+  }
+  
+  .bar {
+      width: 10px;
+  }
+  
+  .x.axis path {
+      display: none;
+  }
+  
+  .tooltip {
+      text-anchor: middle;
+      font-family: 'Inconsolata', sans-serif;
+      font-size: 16px;
+      font-weight: bold;
+      fill: #fff;
+      background-color: white
+  }
+  
+  .node.active {
+      fill: blue;
+  }
+  
+  .svg-container {
+      display: inline-block;
+      position: relative;
+      width: 100%;
+      padding-bottom: 20px;
+      /* aspect ratio */
+      vertical-align: top;
+      overflow: hidden;
+  }
+  
+  .svg-content-responsive {
+      display: inline-block;
+      position: absolute;
+      top: 10px;
+      left: 0;
+  }

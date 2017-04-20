@@ -46,7 +46,7 @@ layout: default
                             <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
 
                             <p class="meta">
-                                Arquivado em <span style="font-family:Inconsolata;text-transform:uppercase;font-weight:700"><a href='{{ "/category/" | append: post.categories.first | prepend: site.baseurl }}'>{{ post.categories.first | capitalize}}</span></a>
+                                Arquivado em <span style="text-transform:uppercase;font-weight:700"><a href='{{ "/category/" | append: post.categories.first | prepend: site.baseurl }}'>{{ post.categories.first | capitalize}}</a></span>
                             </p>
                         </div>
                     </article>
@@ -57,7 +57,26 @@ layout: default
 
         </section><!-- end sidebar -->
 
-        <section class="col-md-6 col-sm-12 col-md-offset-6 alt-main" style="margin-top:5%">
+        <section class="col-md-6 col-sm-12 col-md-offset-6 alt-main">
+
+          {% for post in site.posts %}
+              {% if forloop.index <= 1 %}
+              <article class="grafico_dia">
+                <div class="sub-nav">
+                    <a href="{{ post.url | prepend: site.baseurl }}">Gráfico do dia</a>
+                </div>
+                <br /><br />
+                  <a href="{{ post.url | prepend: site.baseurl }}"><img src="/graf/{{ post.feature_image }}" alt="grafico" /></a>
+                  <br /><br />
+                  <h5 style="float:right">{{ post.date | date: '%d/%m/%Y'}} | Arquivado em <a href="/category/{{ post.categories}}"> <span style="text-transform:uppercase">{{ post.categories }} </a></span></h5>
+              </article>
+              <!-- wrap first two posts into their own row and start a new row for post 3 & 4 -->
+              {% if forloop.index == 2 %}
+              {% endif %}
+              {% endif %}
+          {% endfor %}
+
+          <hr />
 
             <p>
               O Mono é um banco de gráficos mantido pela agência <a href="http://voltdata.info" target="_blank">Volt Data Lab</a>.

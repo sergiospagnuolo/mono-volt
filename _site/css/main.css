@@ -7476,7 +7476,7 @@ ol {
 
 .meta {
   color: #777;
-  font-family: Inconsolata;
+  font-family: Inconsolata !important;
   margin-top: 20px;
   font-size: 14px;
   font-size: 1.4rem; }
@@ -8138,7 +8138,8 @@ form {
     .alt-home .sub-nav {
       margin: 70px 0 0 0; } }
 .alt-home .alt-main {
-  padding: 15px; }
+  padding: 20px;
+  margin-top: -50px; }
 .alt-home .post {
   padding: 10px 0; }
   .alt-home .post .post-preview h2 {
@@ -8335,3 +8336,16 @@ th {
 
 .download-graph a {
   border: 0px solid #222; }
+
+.grafico_dia {
+  width: 100%;
+  margin-bottom: 40px;
+  font-family: Inconsolata; }
+
+.grafico_dia h2 {
+  border-bottom: 2px solid #386cb0;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  float: left;
+  letter-spacing: 3px;
+  font-size: 3.5em; }

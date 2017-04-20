@@ -5,9 +5,83 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Apr 2017 23:26:27 -0300</pubDate>
-    <lastBuildDate>Wed, 19 Apr 2017 23:26:27 -0300</lastBuildDate>
+    <pubDate>Thu, 20 Apr 2017 14:26:55 -0300</pubDate>
+    <lastBuildDate>Thu, 20 Apr 2017 14:26:55 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Grandes empresas perderam participação nos financiamentos do BNDES desde 2001, dando espaço para pequenos</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/graf/bndes_empresas.png&quot; alt=&quot;Grafico BNDES desembolsos por tamanho de empresa&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;As grandes empresas tradicionalmente consomem mais de dois terços dos financiamentos concedidos pelo BNDES, mas caíram em representação em relação ao total anual dos desembolsos do banco desde 2001, abrindo espaço para companhias de menor porte captarem recursos.&lt;/p&gt;
+
+&lt;p&gt;As pequenas empresas foram as que apresentaram crescimento proporcional mais significativo no período, saltando de 4,3% dos desembolsos em 2001 para 8% em 2016.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;porte&lt;/th&gt;
+      &lt;th&gt;média*&lt;/th&gt;
+      &lt;th&gt;2001&lt;/th&gt;
+      &lt;th&gt;2016&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;grande&lt;/td&gt;
+      &lt;td&gt;72,64%&lt;/td&gt;
+      &lt;td&gt;77,10%&lt;/td&gt;
+      &lt;td&gt;69,10%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;micro&lt;/td&gt;
+      &lt;td&gt;13,45%&lt;/td&gt;
+      &lt;td&gt;12,40%&lt;/td&gt;
+      &lt;td&gt;15,30%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;média&lt;/td&gt;
+      &lt;td&gt;7,82%&lt;/td&gt;
+      &lt;td&gt;6,20%&lt;/td&gt;
+      &lt;td&gt;7,50%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;pequena&lt;/td&gt;
+      &lt;td&gt;6,09%&lt;/td&gt;
+      &lt;td&gt;4,30%&lt;/td&gt;
+      &lt;td&gt;8%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h5 id=&quot;mdia-de-todos-os-anos-de-2001-a-2016---fonte-bndes&quot;&gt;* média de todos os anos de 2001 a 2016 - Fonte: BNDES&lt;/h5&gt;
+
+&lt;p&gt;Naturalmente, companhias de grande porte desenvolvem projetos maiores, que exigem maior volume financiado, e por isso o montante de recursos destinados a elas é substancialmente superior.&lt;/p&gt;
+
+&lt;p&gt;O desembolso médio do BNDES de 2001 a 2016 foi de cerca de R$ 100 bilhões por ano, com o pico em 2013 (R$ 190 bilhões), e fecharam 2016 com R$ 88,2 bilhões.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bit.ly/2o8ksUl&quot;&gt;Banco Nacional de Desenvolvimento Econômico e Social - BNDES&lt;/a&gt;, no &lt;a href=&quot;http://bit.ly/2o8qC6Q&quot;&gt;conjunto de dados&lt;/a&gt; “Desembolsos do Sistema BNDES por Portes de Empresas”.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 20 Apr 2017 00:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/bndes-desembolsos-empresas</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/bndes-desembolsos-empresas</guid>
+        
+        <category>BNDES, </category>
+        
+        <category>crédito, </category>
+        
+        <category>investimentos</category>
+        
+        
+        <category>empresas</category>
+        
+      </item>
     
       <item>
         <title>Síria, conflito brutal fora e dentro do campo de batalha</title>
@@ -582,43 +656,6 @@
         
         
         <category>brasil</category>
-        
-      </item>
-    
-      <item>
-        <title>2016 foi um péssimo ano para a agricultura no Brasil</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/pib-agro-2016.png&quot; alt=&quot;Grafico PIB agircultura&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;Sim, 2016 foi um péssimo ano para a economia brasileira. Pouca novidade aí.&lt;/p&gt;
-
-&lt;p&gt;Mas vale notar que a agricultura nacional foi fortemente afetada pela crise no ano passado. O setor havia fechado o quarto trimestre de 2015 no azul, ajudando a aliviar a fraqueza da indústria.&lt;/p&gt;
-
-&lt;p&gt;Agora, a agricultura brasileira tem quatro trimestres seguidos de queda crescente, claramente ultrapassando a indústria  como pior desempenho do ano.&lt;/p&gt;
-
-&lt;p&gt;O &lt;a href=&quot;http://www1.folha.uol.com.br/mercado/2017/03/1864296-populacao-brasileira-empobrece-91-com-recessao.shtml&quot;&gt;Produto Interno Bruto (PIB)&lt;/a&gt; do país encolheu 3,6% em 2016, pouco menos do que em 2015.&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.ibge.gov.br/home/estatistica/indicadores/pib/pib-vol-val_201604_4.shtm&quot;&gt;Instituto Brasileiro de Geografia e Estatística - IBGE&lt;/a&gt;, com dados preliminares atualizados em 07/03/2016&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 07 Mar 2017 15:00:00 -0300</pubDate>
-        <link>http://mono.voltdata.info/pib-setores-economia-agricultura</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/pib-setores-economia-agricultura</guid>
-        
-        <category>PIB, </category>
-        
-        <category>macroeconomia, </category>
-        
-        <category>agricultura, </category>
-        
-        <category>IBGE</category>
-        
-        
-        <category>economia</category>
         
       </item>
     

@@ -18,7 +18,7 @@ tags:
   - 'cinema, '
   - 'movies, '
 ---
-![Grafico filmes](/graf/filmes_ano_media.png)
+
 
 ### Descrição
 
@@ -26,6 +26,6 @@ O site [www.the-numbers.com](http://www.the-numbers.com) reúne de forma indepen
 
 Percebe-se que durante este período a variação do budget médio não excede em 20% a comparação entre os anos mencionados. Porém, 2015, ano da série com menor budget médio (US$27,4mi), é seguido pelo ano com maior budget médio da série (US$49,2mi).
 
-### Referências 
+### Referências
 
 - [The Numbers](www.the-numbers.com)

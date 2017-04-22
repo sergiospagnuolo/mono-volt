@@ -17,8 +17,6 @@ tags:
 
 ---
 
-<iframe src="http://graficos.voltdata.info/posts/geral/polmulheres.html" width="100%" frameborder="no" scrolling="no" height="740px" seamless> </iframe>
-
 ### Descrição
 
 Repasses a ações como as de combate à violência contra a mulher e de atenção à saúde feminina sofreram redução de mais de 70% de 2015 para 2016.
@@ -34,6 +32,8 @@ Repasses a ações como as de combate à violência contra a mulher e de atenç�
 | 2014 | R$ 55.437.341,59 |
 | 2015 | R$ 41.738.582,48 |
 | 2016 | R$ 11.117.395,21 |
+
+<iframe src="http://graficos.voltdata.info/posts/geral/polmulheres.html" width="100%" frameborder="no" scrolling="no" height="740px" seamless> </iframe>
 
 As informações foram compiladas em reportagem do site de checagem [Aos Fatos](https://aosfatos.org/noticias/crise-derruba-investimento-do-governo-em-politicas-para-mulheres/).
 

@@ -17,8 +17,6 @@ tags:
 
 ---
 
-![Grafico Karnal vs Janot](/graf/janot-vs-karnal.png)
-
 ### Descrição
 
 Enquanto o *establishment* político [tremia](http://www.poder360.com.br/lava-jato/brasilia-vive-expectativa-da-divulgacao-da-lista-de-janot-2-0/) no fim de semana sob a expectativa [quanto à lista](http://www1.folha.uol.com.br/poder/2017/03/1865986-o-que-pode-acontecer-com-a-divulgacao-da-lista-de-janot.shtml) que o procurador-geral da República, Rodrigo Janot, deve apresentar nesta semana ao Supremo Tribunal Federal para abertura de inquéritos no âmbito da Lava Jato, contendo nomes de senadores, deputados e ministros, parte da Internet se preocupava com algo diferente: a [polêmica](http://www.redebrasilatual.com.br/politica/2017/03/apos-enxurrada-de-criticas-karnal-apaga-foto-ao-lado-de-moro) da foto do historiador Leandro Karnal jantando com o juiz Sérgio Moro.

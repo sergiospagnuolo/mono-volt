@@ -16,8 +16,6 @@ tags:
   - 'combate ao terrorismo'
 ---
 
-![Grafico coaf multas](/graf/coaf-multas.png)
-
 ### Descrição
 
 O Conselho de Controle de Atividades Financeiras (COAF), órgão ligado ao Ministério da Fazenda [para](http://www.coaf.fazenda.gov.br/acesso-a-informacao/Institucional/competencias) combate à lavagem de dinheiro e ao financiamento de terrorismo, coletou menos de um terço das multas aplicadas em processos administrativos punitivos desde 2004, segundo dados da próprio entidade.

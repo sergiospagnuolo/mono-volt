@@ -17,7 +17,6 @@ tags:
   - 'Polícia Militar'
 ---
 
-![Grafico PMS indiciados no ES](/graf/linha-de-frente.png)
 
 ### Descrição
 

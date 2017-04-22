@@ -15,8 +15,6 @@ tags:
 - turismo
 ---
 
-![Gráfico mercado turismo](/graf/mercado-turstico-no-brasil.png)
-
 ### Descrição
 Dados dos prestadores de serviço turístico (Agencias de Turismo) com situação regular no 2º trimestre de 2016. Gráfico mostra número de empresas por porte/tamanho.
 

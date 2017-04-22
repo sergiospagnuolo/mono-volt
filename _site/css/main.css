@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*!
  * Bootstrap v3.2.0 (http://getbootstrap.com)
  * Copyright 2011-2014 Twitter, Inc.
@@ -6977,6 +6978,18 @@ h3 {
   font-size: 22px;
   font-size: 2.2rem; }
 
+/* para título de tabelas e afins */
+h4 {
+  margin-top: 0;
+  margin-bottom: 0 !important;
+  background-color: #f0f0f0;
+  padding: 15px;
+  color: #222;
+  font-weight: 700;
+  border-top: 1px solid #cbcbcb;
+  text-align: center; }
+
+/* para pé de tabelas e afins */
 h5 {
   margin-bottom: 2em;
   margin-top: 0 !important;

@@ -17,7 +17,7 @@ tags:
   - 'incentivos fiscais'
 ---
 
-![Grafico Ibram financiamento de museus](/graf/museus-financiadores.png)
+
 
 ### Descrição
 

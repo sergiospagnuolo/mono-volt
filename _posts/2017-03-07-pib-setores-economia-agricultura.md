@@ -18,7 +18,6 @@ tags:
 
 ---
 
-![Grafico PIB agircultura](/graf/pib-agro-2016.png)
 
 ### Descrição
 

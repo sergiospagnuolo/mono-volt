@@ -16,7 +16,7 @@ tags:
   - 'escolas de samba'
 ---
 
-![Grafico escolas de samba mulheres vs homens](/graf/carnaval-das-antigas.png)
+
 
 ### Descrição
 

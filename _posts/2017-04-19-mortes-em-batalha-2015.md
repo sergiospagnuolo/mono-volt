@@ -16,8 +16,6 @@ tags:
 
 ---
 
-![Grafico mortes em batalha](/graf/batalha-mortes.png)
-
 ### Descrição
 
 A questão dos refugiados sírios tentando escapar da brutal guerra civil do país talvez seja uma das grandes preocupações do mundo hoje, e com razão. É uma crise imigratória, política e até econômica, mas, acima de tudo, humanitária. Estima-se mais de 5 [milhões](http://data.unhcr.org/syrianrefugees/regional.php) de refugiados, com mais de [400 mil](http://edition.cnn.com/2013/08/27/world/meast/syria-civil-war-fast-facts/) mortos.

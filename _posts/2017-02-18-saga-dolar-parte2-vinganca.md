@@ -15,7 +15,6 @@ tags:
   - 'câmbio'
 ---
 
-![Grafico saga do dolar ajustado taxa bc](/graf/dolar-saga-p2.png)
 
 ### Descrição
 

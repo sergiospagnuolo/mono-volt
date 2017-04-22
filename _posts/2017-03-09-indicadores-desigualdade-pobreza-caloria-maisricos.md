@@ -22,7 +22,6 @@ tags:
   - 'governo'
 ---
 
-![Grafico indicadores de pobres](/graf/desigualdade-indicadores-76-2014.png)
 
 ### Descrição
 

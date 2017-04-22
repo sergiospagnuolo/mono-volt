@@ -15,8 +15,6 @@ tags:
   - 'telecom, '
 ---
 
-![Grafico celulares](/graf/venda-cel.png)
-
 ### Descrição
 
 Não é de hoje que o mercado de smartphones no Brasil tem mostrado sinais de estagnação e [até retração](http://br.reuters.com/article/internetNews/idBRKCN0WG2CA), após forte alta desde o começo da década. No entanto, a consultoria IDC prevê crescimento em 2017 por conta do ciclo de troca de aparelhos, segundo [relatório](http://br.idclatin.com/releases/news.aspx?id=2129) de janeiro.

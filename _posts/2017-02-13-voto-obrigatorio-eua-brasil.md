@@ -15,15 +15,15 @@ tags:
   - EUA
 ---
 
-<div id="scatter"> </div>
-
-<script src="http://d3js.org/d3.v3.min.js"></script>
-
 ##### Gráfico interativo
 
 ### Descrição
 
 Taxa de comparecimento às urnas em relação à população com idade de voto nos EUA comparada às maiores democracias com voto obrigatório, em eleições gerais. Não inclui eleição presidencial americana de 2016.
+
+<div id="scatter"> </div>
+
+<script src="http://d3js.org/d3.v3.min.js"></script>
 
 ### Referências
 

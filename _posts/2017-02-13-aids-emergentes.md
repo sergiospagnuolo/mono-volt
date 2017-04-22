@@ -16,8 +16,6 @@ tags:
   - BRICS
 ---
 
-![Gráfico AIDS brics](/graf/dados-aids-bris.png)
-
 ### Descrição
 
 Prevalência estimada, em percentual, de pessoas entre 15 e 49 anos vivendo com HIV. Fiz um recorte aqui apenas com dados a partir de 1990, considerando que antes disso se tratava de algumas estimativas feitas pelo Gapminder, não de dados da ONU.

@@ -18,9 +18,6 @@ tags:
 - meio-ambiente,
 ---
 
-
-![Grafico registros gov.br](/graf/queimadas-1998-2016.png)
-
 ### Descrição
 Comparação do total de focos ativos detectados pelo satélite de referência em cada mês, no período de 1998 até 09/02/2017.
 

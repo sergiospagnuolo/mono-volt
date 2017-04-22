@@ -19,6 +19,10 @@ layout: default
             <p class="meta">
                 Arquivado em  <a href='{{ "/category/" | append: page.categories.first | prepend: site.baseurl }}'>{{ page.categories[0] | capitalize }}</a>
             </p>
+            <br />
+
+            <img src="/graf/{{ page.feature_image }}" alt="Gráfico principal" />
+
             <hr />
             {{ content }}
 

@@ -17,8 +17,6 @@ tags:
 - animais,
 ---
 
-![grafico morsas](/graf/morsas-no-pacfico-norte.png)
-
 ### Descrição
 Registros sobre aglomerações de morsas em dois dos principais mares do Oceano Ártico.
 

@@ -15,8 +15,6 @@ tags:
 - cartão de crédito
 ---
 
-![Gráfico empresas industriais IBGE](/graf/tarifa-cartoes-credito.png)
-
 ### Descrição
 Tarifas anuais médias das principais bandeiras de cartão de crédito de 2008 a 2015, com valores já deflacionados pelo IPCA, segundo informações do Banco Central coletadas junto aos emissores dos cartões. As informações são trimestrais.
 

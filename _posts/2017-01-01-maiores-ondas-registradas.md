@@ -16,8 +16,6 @@ tags:
 - surf
 ---
 
-![Gráfico maiores ondas](/graf/maiores-ondas.png)
-
 ### Descrição
 Dados de 2014 sobre as maiores ondas já registradas no mundo, compilados pela Smithsonian Magazine. A revista não cita fontes, mas com uma busca na Internet dá pra verificar. Eu converti os valores de pés para metros, utilizando um aplicativo.
 

@@ -17,7 +17,7 @@ tags:
 
 ---
 
-![Grafico postos da campanha do desarmamento](/graf/desarmamento-postos.png)
+
 
 ### Descrição
 

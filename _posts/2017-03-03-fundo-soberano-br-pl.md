@@ -14,7 +14,7 @@ tags:
   - 'investimentos'
 ---
 
-![Grafico fundo soberano do Brasil](/graf/fundo-soberano.png)
+
 
 ### Descrição
 

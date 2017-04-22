@@ -5,15 +5,170 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Apr 2017 15:29:25 -0300</pubDate>
-    <lastBuildDate>Thu, 20 Apr 2017 15:29:25 -0300</lastBuildDate>
+    <pubDate>Sat, 22 Apr 2017 13:47:23 -0300</pubDate>
+    <lastBuildDate>Sat, 22 Apr 2017 13:47:23 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Grandes empresas perderam participação nos financiamentos do BNDES desde 2001, dando espaço para pequenos</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/bndes_empresas.png&quot; alt=&quot;Grafico BNDES desembolsos por tamanho de empresa&quot; /&gt;&lt;/p&gt;
+        <title>Ex-empresas Parmalat devem tanto dinheiro à União que ofuscam comparação com outros devedores</title>
+        <description>&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
 
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+&lt;p&gt;Em vista do debate da reforma previdenciária, muito tem se debatido da cobrança de grandes devedores para cobrir as contas da Previdência, algo que o governo rejeita como solução, inclusive com dados &lt;a href=&quot;http://bit.ly/2ofls9e&quot;&gt;não confirmados&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Assim, eu queria comparar o quanto esses devedores, principalmente empresas, deviam em contribuições previdenciária em relação aos seus débitos totais inscritos na dívida ativa da União. Selecionei todos os 225 devedores com dívidas previdenciárias acima de R$ 100 milhões.&lt;/p&gt;
+
+&lt;p&gt;Na hora de fazer o gráfico, um dado impedia uma comparação melhor: a dívida total da Padma Indústria de Alimentos, &lt;a href=&quot;http://bit.ly/2ofIxIP&quot;&gt;antiga&lt;/a&gt; Parmalat Brasil. O número era tão alto que fez todos os outros grandes devedores parecerem pequenos.&lt;/p&gt;
+
+&lt;p&gt;Fazendo nova busca, agora pelos maiores devedores totais, encontrei a Carital Brasil em primeiro lugar na lista, logo acima da Padma. A Carital era a antiga filial da Parmalat italiana, antes da Padma. Acrescentei-a a meu gráfico.&lt;/p&gt;
+
+&lt;p&gt;O resultado disso foi uma bigorna (ou duas, depende de como enxergar a situação) em um palheiro, como pode ser visto no gráfico acima.&lt;/p&gt;
+
+&lt;h4 id=&quot;maiores-devedores-em-valores-totais-cadastrados-na-dvida-ativa-da-unio&quot;&gt;20 maiores devedores, em valores totais, cadastrados na dívida ativa da União&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;CPF/CNPJ&lt;/th&gt;
+      &lt;th&gt;Nome/Razão Social&lt;/th&gt;
+      &lt;th&gt;Valor Total Devido (R$)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;44.764.595/0001-27&lt;/td&gt;
+      &lt;td&gt;CARITAL BRASIL LTDA&lt;/td&gt;
+      &lt;td&gt;27.000.277.945,32&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;89.940.878/0001-10&lt;/td&gt;
+      &lt;td&gt;PADMA INDUSTRIA DE ALIMENTOS S/A&lt;/td&gt;
+      &lt;td&gt;25.886.575.377,63&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;010.335.908-78&lt;/td&gt;
+      &lt;td&gt;LAODSE DENIS DE ABREU DUARTE&lt;/td&gt;
+      &lt;td&gt;7.109.756.452,53&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;50.469.303/0001-26&lt;/td&gt;
+      &lt;td&gt;DUAGRO SA ADMINISTRACAO E PARTICIPACOES&lt;/td&gt;
+      &lt;td&gt;7.095.999.117,75&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;010.171.878-00&lt;/td&gt;
+      &lt;td&gt;LUIZ LIAN DE ABREU DUARTE&lt;/td&gt;
+      &lt;td&gt;6.872.129.654,17&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;021.311.371-68&lt;/td&gt;
+      &lt;td&gt;ERNESTO ANGEL LAZZARO&lt;/td&gt;
+      &lt;td&gt;6.868.698.906,55&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;565.989.398-87&lt;/td&gt;
+      &lt;td&gt;LUCE CLEO DE ABREU DUARTE&lt;/td&gt;
+      &lt;td&gt;6.868.698.906,55&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;03.300.070/0001-53&lt;/td&gt;
+      &lt;td&gt;PPL PARTICIPACOES LTDA.&lt;/td&gt;
+      &lt;td&gt;6.846.924.715,12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;92.772.821/0001-64&lt;/td&gt;
+      &lt;td&gt;S.A. (VIACAO AEREA RIO-GRANDENSE) - FALIDA&lt;/td&gt;
+      &lt;td&gt;5.606.996.197,12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;60.703.923/0001-31&lt;/td&gt;
+      &lt;td&gt;VIACAO AEREA SAO PAULO S A&lt;/td&gt;
+      &lt;td&gt;6.611.272.908,74&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;02.161.598/0001-26&lt;/td&gt;
+      &lt;td&gt;CONDOR - FACTORING - FOMENTO COMERCIAL LTDA&lt;/td&gt;
+      &lt;td&gt;4.384.090.075,42&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;012.194.277-56&lt;/td&gt;
+      &lt;td&gt;FABIO CUNHA SIMOES DE CARVALHO&lt;/td&gt;
+      &lt;td&gt;4.384.090.075,42&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;464.732.548-20&lt;/td&gt;
+      &lt;td&gt;BERNARDINO JUSTINO VARGAS&lt;/td&gt;
+      &lt;td&gt;4.384.090.075,42&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;037.034.797-87&lt;/td&gt;
+      &lt;td&gt;ALBERTO ISRAEL LIFSITCH&lt;/td&gt;
+      &lt;td&gt;4.384.090.075,42&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;27.893.064/0001-15&lt;/td&gt;
+      &lt;td&gt;BETAFAC ASSESSORIA E FOMENTO MERCANTIL LTDA - ME&lt;/td&gt;
+      &lt;td&gt;3.912.569.971,33&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;86.826.179/0001-56&lt;/td&gt;
+      &lt;td&gt;ENGEFIN ASSESSORIA E FOMENTO MERCANTIL LTDA - ME&lt;/td&gt;
+      &lt;td&gt;3.899.681.260,46&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;33.000.167/0001-01&lt;/td&gt;
+      &lt;td&gt;PETROLEO BRASILEIRO S A PETROBRAS&lt;/td&gt;
+      &lt;td&gt;3.768.712.879,67&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;168.161.104-04&lt;/td&gt;
+      &lt;td&gt;FLAVIO AUGUSTO VIEIRA DE LACERDA&lt;/td&gt;
+      &lt;td&gt;3.766.830.574,58&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;043.063.187-10&lt;/td&gt;
+      &lt;td&gt;MARCEL LEVY&lt;/td&gt;
+      &lt;td&gt;3.765.321.275,77&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;28.937.704/0001-04&lt;/td&gt;
+      &lt;td&gt;COOPERATIVA FLUMINENSE DO PRODS DE ACUC ALCOOL LTDA&lt;/td&gt;
+      &lt;td&gt;3.602.571.073,91&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h5 id=&quot;fonte-pgfn&quot;&gt;* Fonte: PGFN&lt;/h5&gt;
+
+&lt;p&gt;Quis, então, fazer um segundo gráfico que fosse possível comparar mais empresas de uma maneira visível.&lt;/p&gt;
+
+&lt;p&gt;Como as falidas aéreas Varig e Vasp são devedoras previdenciárias bilionárias, muito acima de outras companhias, decidi por um recorte entre companhias com dívidas previdenciárias entre R$ 100 milhões e R$ 1 bilhão, como se poder ver no gráfico abaixo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/graf/divida-previdenciaria.png&quot; alt=&quot;Grafico divida previdenciaria entre R$ 100 mi e RR 1 bi&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www2.pgfn.fazenda.gov.br/ecac/contribuinte/devedores/listaDevedores.jsf&quot;&gt;Procuradoria-Geral da Fazenda Nacional - PGFN&lt;/a&gt;, na lista de devedores que possuem débitos com a Fazenda Nacional e o FGTS inscritos em dívida ativa.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 22 Apr 2017 00:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/divida-ativa-empresas-bilhoes</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/divida-ativa-empresas-bilhoes</guid>
+        
+        <category>dívida ativa, </category>
+        
+        <category>FGTS, </category>
+        
+        <category>previdência</category>
+        
+        
+        <category>brasil</category>
+        
+      </item>
+    
+      <item>
+        <title>Grandes empresas perderam participação nos financiamentos do BNDES desde 2001, dando espaço para pequenos</title>
+        <description>&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
 
 &lt;p&gt;As grandes empresas tradicionalmente consomem mais de dois terços dos financiamentos concedidos pelo BNDES, mas caíram em representação em relação ao total anual dos desembolsos do banco desde 2001, abrindo espaço para companhias de menor porte captarem recursos.&lt;/p&gt;
 
@@ -85,9 +240,7 @@
     
       <item>
         <title>Síria, conflito brutal fora e dentro do campo de batalha</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/batalha-mortes.png&quot; alt=&quot;Grafico mortes em batalha&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+        <description>&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
 
 &lt;p&gt;A questão dos refugiados sírios tentando escapar da brutal guerra civil do país talvez seja uma das grandes preocupações do mundo hoje, e com razão. É uma crise imigratória, política e até econômica, mas, acima de tudo, humanitária. Estima-se mais de 5 &lt;a href=&quot;http://data.unhcr.org/syrianrefugees/regional.php&quot;&gt;milhões&lt;/a&gt; de refugiados, com mais de &lt;a href=&quot;http://edition.cnn.com/2013/08/27/world/meast/syria-civil-war-fast-facts/&quot;&gt;400 mil&lt;/a&gt; mortos.&lt;/p&gt;
 
@@ -124,9 +277,7 @@
     
       <item>
         <title>Brasil tem capacidade estatística menor do que México, Argentina, China e, por que não, América Latina</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/cap_estatistica.png&quot; alt=&quot;Grafico capacidade estatistica&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+        <description>&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
 
 &lt;p&gt;O Brasil tem capacidade estatística menor do que a América Latina em geral, do que seus parceiros emergentes nos BRIC (Brasil, Rússia, Índia e China), e fica bem atrás dos rivais regionais Argentina e México, de acordo com índice do Banco Mundial.&lt;/p&gt;
 
@@ -169,9 +320,7 @@
     
       <item>
         <title>Qual o peso de docentes aposentados sobre folha de pagamento da USP?</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/professores-usp.png&quot; alt=&quot;Grafico USP&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+        <description>&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
 
 &lt;p&gt;A Universidade de São Paulo tem uma previsão de déficit de R$570 milhões em 2017, principalmente por conta de uma despesa com pessoal de R$ 4,8 bilhões, segundo suas &lt;a href=&quot;https://www.usp.br/codage/files/orc2017/DO-USP-2017.pdf&quot;&gt;diretrizes orçamentárias&lt;/a&gt; para este ano.&lt;/p&gt;
 
@@ -266,9 +415,7 @@
     
       <item>
         <title>Foto de Karnal com Moro foi mais popular do que expectativa sobre lista de Janot na Lava Jato</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/janot-vs-karnal.png&quot; alt=&quot;Grafico Karnal vs Janot&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+        <description>&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
 
 &lt;p&gt;Enquanto o &lt;em&gt;establishment&lt;/em&gt; político &lt;a href=&quot;http://www.poder360.com.br/lava-jato/brasilia-vive-expectativa-da-divulgacao-da-lista-de-janot-2-0/&quot;&gt;tremia&lt;/a&gt; no fim de semana sob a expectativa &lt;a href=&quot;http://www1.folha.uol.com.br/poder/2017/03/1865986-o-que-pode-acontecer-com-a-divulgacao-da-lista-de-janot.shtml&quot;&gt;quanto à lista&lt;/a&gt; que o procurador-geral da República, Rodrigo Janot, deve apresentar nesta semana ao Supremo Tribunal Federal para abertura de inquéritos no âmbito da Lava Jato, contendo nomes de senadores, deputados e ministros, parte da Internet se preocupava com algo diferente: a &lt;a href=&quot;http://www.redebrasilatual.com.br/politica/2017/03/apos-enxurrada-de-criticas-karnal-apaga-foto-ao-lado-de-moro&quot;&gt;polêmica&lt;/a&gt; da foto do historiador Leandro Karnal jantando com o juiz Sérgio Moro.&lt;/p&gt;
 
@@ -414,9 +561,7 @@
     
       <item>
         <title>Governo do PT acelerou (muito) queda da fome extrema e da desigualdade de renda, mas não iniciou trajetória</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/desigualdade-indicadores-76-2014.png&quot; alt=&quot;Grafico indicadores de pobres&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+        <description>&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
 
 &lt;p&gt;O percentual de extrema pobreza por necessidade calórica e da parcela da população equivalente à renda dos mais ricos caiu drasticamente no Brasil nas últimas quatro décadas.&lt;/p&gt;
 
@@ -455,9 +600,7 @@
     
       <item>
         <title>PlayStation 2, um monstro na indústria dos games</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/vendas-videogames.png&quot; alt=&quot;Grafico videogames&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+        <description>&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
 
 &lt;p&gt;O &lt;a href=&quot;http://www.vgchartz.com/&quot;&gt;VGChartz&lt;/a&gt; compila dados de vendas de consoles e jogos de videogames semanalmente. Eles utilizam dados oficiais das fabricantes e produtoras, assim como dados dos revendedores.&lt;/p&gt;
 
@@ -486,176 +629,6 @@
         
         
         <category>coisas</category>
-        
-      </item>
-    
-      <item>
-        <title>Violência e acidentes matam mais meninas de 10 a 19 anos do que problemas de saúde</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/graf/morte-adolescentes-meninas.png&quot; alt=&quot;Grafico mortes meninas&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;Há pelo menos uma década e meia, meninas de 10 a 19 anos no Brasil são mais vitimadas por violência e acidentes do que por problemas de saúde no Brasil.&lt;/p&gt;
-
-&lt;p&gt;Problemas de saúde são classificados de “Sistema Nervoso”, “Sintomas e sinais”, “Neoplasias” e “Aparelho Respiratório”, enquanto “Causas Externas” inclui violência, suicídios e qualquer tipo de acidente - mas, &lt;a href=&quot;http://www.epsjv.fiocruz.br/pdtsp/index.php?s_livro_id=6&amp;amp;area_id=4&amp;amp;autor_id=&amp;amp;capitulo_id=24&amp;amp;sub_capitulo_id=84&amp;amp;arquivo=ver_conteudo_2&quot;&gt;segundo a Fiocruz&lt;/a&gt;, esses acidentes são principalmente de trânsito.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Ano&lt;/th&gt;
-      &lt;th&gt;Causas Externas&lt;/th&gt;
-      &lt;th&gt;Aparelho Respiratório&lt;/th&gt;
-      &lt;th&gt;Neoplasias&lt;/th&gt;
-      &lt;th&gt;Sintomas e sinais&lt;/th&gt;
-      &lt;th&gt;Sistema Nervoso&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2000&lt;/td&gt;
-      &lt;td&gt;2745&lt;/td&gt;
-      &lt;td&gt;448&lt;/td&gt;
-      &lt;td&gt;653&lt;/td&gt;
-      &lt;td&gt;702&lt;/td&gt;
-      &lt;td&gt;330&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2001&lt;/td&gt;
-      &lt;td&gt;2540&lt;/td&gt;
-      &lt;td&gt;501&lt;/td&gt;
-      &lt;td&gt;657&lt;/td&gt;
-      &lt;td&gt;667&lt;/td&gt;
-      &lt;td&gt;349&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2002&lt;/td&gt;
-      &lt;td&gt;2680&lt;/td&gt;
-      &lt;td&gt;462&lt;/td&gt;
-      &lt;td&gt;644&lt;/td&gt;
-      &lt;td&gt;624&lt;/td&gt;
-      &lt;td&gt;319&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2003&lt;/td&gt;
-      &lt;td&gt;2604&lt;/td&gt;
-      &lt;td&gt;425&lt;/td&gt;
-      &lt;td&gt;629&lt;/td&gt;
-      &lt;td&gt;645&lt;/td&gt;
-      &lt;td&gt;377&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2004&lt;/td&gt;
-      &lt;td&gt;2530&lt;/td&gt;
-      &lt;td&gt;425&lt;/td&gt;
-      &lt;td&gt;710&lt;/td&gt;
-      &lt;td&gt;524&lt;/td&gt;
-      &lt;td&gt;352&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2005&lt;/td&gt;
-      &lt;td&gt;2498&lt;/td&gt;
-      &lt;td&gt;402&lt;/td&gt;
-      &lt;td&gt;706&lt;/td&gt;
-      &lt;td&gt;460&lt;/td&gt;
-      &lt;td&gt;346&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2006&lt;/td&gt;
-      &lt;td&gt;2423&lt;/td&gt;
-      &lt;td&gt;416&lt;/td&gt;
-      &lt;td&gt;733&lt;/td&gt;
-      &lt;td&gt;390&lt;/td&gt;
-      &lt;td&gt;404&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2007&lt;/td&gt;
-      &lt;td&gt;2395&lt;/td&gt;
-      &lt;td&gt;366&lt;/td&gt;
-      &lt;td&gt;722&lt;/td&gt;
-      &lt;td&gt;366&lt;/td&gt;
-      &lt;td&gt;398&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2008&lt;/td&gt;
-      &lt;td&gt;2412&lt;/td&gt;
-      &lt;td&gt;361&lt;/td&gt;
-      &lt;td&gt;674&lt;/td&gt;
-      &lt;td&gt;412&lt;/td&gt;
-      &lt;td&gt;397&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2009&lt;/td&gt;
-      &lt;td&gt;2352&lt;/td&gt;
-      &lt;td&gt;460&lt;/td&gt;
-      &lt;td&gt;721&lt;/td&gt;
-      &lt;td&gt;394&lt;/td&gt;
-      &lt;td&gt;396&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2010&lt;/td&gt;
-      &lt;td&gt;2471&lt;/td&gt;
-      &lt;td&gt;386&lt;/td&gt;
-      &lt;td&gt;679&lt;/td&gt;
-      &lt;td&gt;397&lt;/td&gt;
-      &lt;td&gt;443&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2011&lt;/td&gt;
-      &lt;td&gt;2512&lt;/td&gt;
-      &lt;td&gt;378&lt;/td&gt;
-      &lt;td&gt;713&lt;/td&gt;
-      &lt;td&gt;375&lt;/td&gt;
-      &lt;td&gt;452&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2012&lt;/td&gt;
-      &lt;td&gt;2529&lt;/td&gt;
-      &lt;td&gt;397&lt;/td&gt;
-      &lt;td&gt;714&lt;/td&gt;
-      &lt;td&gt;325&lt;/td&gt;
-      &lt;td&gt;455&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2013&lt;/td&gt;
-      &lt;td&gt;2425&lt;/td&gt;
-      &lt;td&gt;394&lt;/td&gt;
-      &lt;td&gt;650&lt;/td&gt;
-      &lt;td&gt;320&lt;/td&gt;
-      &lt;td&gt;513&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2014&lt;/td&gt;
-      &lt;td&gt;2369&lt;/td&gt;
-      &lt;td&gt;358&lt;/td&gt;
-      &lt;td&gt;624&lt;/td&gt;
-      &lt;td&gt;360&lt;/td&gt;
-      &lt;td&gt;448&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Se consideramos toda a série histórica desde o ano 2000, as “causas externas” representaram 56,1% dos óbitos de jovens nessa faixa etária, enquanto o restante (43.9%) corresponde a problemas de saúde.&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://dados.gov.br/dataset/mspainelsage_63/resource/b5449b5c-e3d8-4836-b98c-07f17f5ed2b7&quot;&gt;Portal de Dados Abertos do governo federal&lt;/a&gt;, com informações da &lt;a href=&quot;http://sage.saude.gov.br/&quot;&gt;Sala de Apoio à Gestão Estratégica&lt;/a&gt; (SAGE), do Ministério da Saúde. Última atualização dos dados foi julho de 2016.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 08 Mar 2017 00:00:00 -0300</pubDate>
-        <link>http://mono.voltdata.info/mortes-meninas-adolescentes-causas</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/mortes-meninas-adolescentes-causas</guid>
-        
-        <category>igualdade de gênero, </category>
-        
-        <category>violência, </category>
-        
-        <category>trânsito, </category>
-        
-        <category>saúde</category>
-        
-        
-        <category>brasil</category>
         
       </item>
     

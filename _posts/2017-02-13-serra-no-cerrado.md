@@ -16,7 +16,7 @@ tags:
   - 'cerrado,'
   - estados
 ---
-![Grafico desmatamento no cerrado](/graf/desmatamento-cerrado.png)
+
 
 ### Descrição
 

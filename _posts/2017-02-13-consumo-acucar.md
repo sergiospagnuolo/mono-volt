@@ -16,8 +16,6 @@ tags:
   - 'consumo'
 ---
 
-![Grafico consumo de açúcar](/graf/doce-desenvolvimento.png)
-
 ### Descrição
 
 Consumo de açúcar diário por pessoas, em gramas. A ideia aqui foi pegar uma grande economia de cada continente e comparar com a recomendação de consumo da Organização Mundial da Saúde, de apenas 50 gramas por dia.

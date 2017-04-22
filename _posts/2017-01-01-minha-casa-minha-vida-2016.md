@@ -18,9 +18,6 @@ tags:
 ---
 
 
-![Grafico registros gov.br](/graf/balanco_minha_casa_minha_vida.png)
-
-
 ### Descrição
 Contratações e entregas do programa [Minha Casa Minha Vida](http://www.minhacasaminhavida.gov.br/), do governo federal. Balanço fechado de 2016.
 

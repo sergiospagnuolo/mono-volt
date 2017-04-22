@@ -17,7 +17,7 @@ tags:
   - 'chuva'
 ---
 
-![Grafico sistema tiete](/graf/sistema-tiete.png)
+
 
 ### Descrição
 

@@ -18,8 +18,6 @@ tags:
   - 'cebola'
 ---
 
-![Grafico cebola pimenta](/graf/cebola-pimenta.png)
-
 ### Descrição
 
 O Valor Bruto da Produção Agropecuária (VPB) mostra a evolução do desempenho das lavouras e da pecuária ao longo do ano e corresponde ao faturamento bruto dentro do estabelecimento. Em 2016, essa medida da produção no campo atingiu R$ 527,9 bilhões, que da quase 2% sobre o ano anterior - atribuída pelo Ministério da Agricultura à seca.

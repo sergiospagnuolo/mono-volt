@@ -18,9 +18,6 @@ tags:
 - selic
 ---
 
-
-![Grafico registros gov.br](/graf/juros-no-mundo.png)
-
 ### Descrição
 Taxa básica de juros nas maiores economias do mundo, com base nos valores apurados até 09/02/2017.
 

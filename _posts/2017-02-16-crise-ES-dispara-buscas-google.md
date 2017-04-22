@@ -18,8 +18,6 @@ tags:
   - 'Buscas na Internet'
 ---
 
-![Grafico buscas por ES no Google](/graf/popularidade-infeliz.png)
-
 ### Descrição
 
 Imerso em uma grave crise de segurança pública, o Espírito Santo foi bastante popular entre internautas: as buscas pelo Estado no Google nunca foram tão altas, de acordo com dados do mecanismo de buscas. Uma fama infeliz, no entanto, considerando que durante a crise o [número de homicídios](http://www1.folha.uol.com.br/cotidiano/2017/02/1859279-com-motim-da-policia-militar-mortes-no-es-sobem-quase-quatro-vezes.shtml) disparou.

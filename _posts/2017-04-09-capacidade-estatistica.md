@@ -17,8 +17,6 @@ tags:
 
 ---
 
-![Grafico capacidade estatistica](/graf/cap_estatistica.png)
-
 ### Descrição
 
 O Brasil tem capacidade estatística menor do que a América Latina em geral, do que seus parceiros emergentes nos BRIC (Brasil, Rússia, Índia e China), e fica bem atrás dos rivais regionais Argentina e México, de acordo com índice do Banco Mundial.

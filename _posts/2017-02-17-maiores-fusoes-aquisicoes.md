@@ -17,8 +17,6 @@ tags:
   - 'Corporativo'
 ---
 
-![Grafico PMS indiciados no ES](/graf/m&a-alltime.png)
-
 ### Descrição
 
 A rejeição, pela Unilever, de um [acordo avaliado](http://www.valor.com.br/empresas/4873224/kraft-heinz-faz-proposta-de-fusao-com-unilever-rival-recusa) em US$ 143 bilhões deixará inalterado, ao menos por enquanto, o ranking das maiores fusões e aquisições de todos os tempos.

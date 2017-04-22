@@ -18,9 +18,6 @@ tags:
 ---
 
 
-![Grafico registros gov.br](/graf/registros_govbr.png)
-
-
 ### Descrição
 Informações sobre os Domínios gov.br registrados pelo governo federal. Data da última atualização quando consultado:	2/Fevereiro/2017
 

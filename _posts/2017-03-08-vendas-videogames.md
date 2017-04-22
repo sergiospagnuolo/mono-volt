@@ -18,7 +18,7 @@ tags:
   - 'games, '
   - 'jogos eletrônicos'
 ---
-![Grafico videogames](/graf/vendas-videogames.png)
+
 
 ### Descrição
 

@@ -19,8 +19,6 @@ tags:
 ---
 
 
-![Grafico registros gov.br](/graf/evolucao-juros-mundo.png)
-
 ### Descrição
 Diferença entre os valores mínimos e máximos da básica de juros registrados nas maiores economias do mundo, independentemente de quando foram registrados, com base nos valores apurados até 09/02/2017.
 

@@ -17,8 +17,6 @@ tags:
   - 'câmbio'
 ---
 
-![Grafico saga do dolar 1997-2017](/graf/saga-dolar.png)
-
 ### Descrição
 
 Nos começo de 2017, o dólar começou a perder ímpeto frente ao real, chegando ao [menor patamar](http://www.valor.com.br/financas/4870856/dolar-se-aproxima-de-r-3-com-expectativa-de-fluxo-de-recursos) desde meados de 2015.

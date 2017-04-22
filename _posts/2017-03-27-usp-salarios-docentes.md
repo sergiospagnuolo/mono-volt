@@ -16,8 +16,6 @@ tags:
 
 ---
 
-![Grafico USP](/graf/professores-usp.png)
-
 ### Descrição
 
 A Universidade de São Paulo tem uma previsão de déficit de R$570 milhões em 2017, principalmente por conta de uma despesa com pessoal de R$ 4,8 bilhões, segundo suas [diretrizes orçamentárias](https://www.usp.br/codage/files/orc2017/DO-USP-2017.pdf) para este ano.

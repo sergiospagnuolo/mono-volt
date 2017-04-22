@@ -16,7 +16,7 @@ tags:
   - 'internet'
 ---
 
-![Grafico bugos watch redes sociais](/graf/burgos-watch-midias.png)
+
 
 ### Descrição
 

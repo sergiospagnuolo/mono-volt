@@ -17,8 +17,6 @@ tags:
 - resultados
 ---
 
-![Gráfico empresas industriais IBGE](/graf/industria-2014-ibge.png)
-
 ### Descrição
 Resultados das empresas industriais no Brasil, de acordo com estudo realizado pelo IBGE com dados de 2014, o mais recente até a publicação desse gráfico. Segundo o site do IBGE, um novo estudo industrial está previsto para meados do ano, com dados de 2015.
 

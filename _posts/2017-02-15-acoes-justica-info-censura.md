@@ -16,8 +16,6 @@ tags:
   - 'eleições'
 ---
 
-![Grafico censura justiça eleições](/graf/justica-acoes-censura.png)
-
 ### Descrição
 
 Pedidos judiciais para evitar a divulgação de informações sobre candidatos e campanhas eleitorais dispararam a partir da eleição de 2012, segundo dados do CTRL-X, um projeto da Associação Brasileira de Jornalismo Investigativo (Abraji).

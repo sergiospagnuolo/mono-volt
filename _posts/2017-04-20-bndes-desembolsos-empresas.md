@@ -16,7 +16,6 @@ tags:
 
 ---
 
-![Grafico BNDES desembolsos por tamanho de empresa](/graf/bndes_empresas.png)
 
 ### Descrição
 

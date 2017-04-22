@@ -17,8 +17,6 @@ tags:
 
 ---
 
-![Grafico mortes meninas](/graf/morte-adolescentes-meninas.png)
-
 ### Descrição
 
 Há pelo menos uma década e meia, meninas de 10 a 19 anos no Brasil são mais vitimadas por violência e acidentes do que por problemas de saúde no Brasil.

@@ -16,7 +16,7 @@ tags:
   - '100 metros rasos'
 ---
 
-![Grafico Usain Bolt e outros corredores](/graf/usain-bolt.png)
+
 
 ### Descrição
 

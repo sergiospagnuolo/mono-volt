@@ -17,7 +17,6 @@ tags:
   - 'direito'
 ---
 
-![Grafico lf pedidos de prisão](/graf/lj-coercitiva.png)
 
 ### Descrição
 

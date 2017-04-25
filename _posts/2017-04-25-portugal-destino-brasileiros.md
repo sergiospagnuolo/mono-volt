@@ -9,6 +9,8 @@ author_avatar: sergio
 show_avatar: true
 feature_image: residentes-portugal.png
 show_related_posts: true
+atualiza_data: 25.04.2017
+atualiza_texto: para acrescentar nota do INE no fim do texto
 tags:
   - 'imigração, '
   - 'Portugal'
@@ -40,9 +42,10 @@ No entanto, esse "redescobrimento" precisa ser provado. Por enquanto, está mais
 
 ![Grafico vistos portugal](graf/vistos-portugal.png)
 
+> Nota do INE, referente aos dados no gráfico 1: *"Em comparação com 2005 verificou-se em 2006 e anos seguintes um incremento no número de solicitações de títulos de residência, incorrendo para um acréscimo no número de estrangeiros com estatuto de residente. Este aumento resultou da possibilidade de conversão das autorizações de permanência e dos vistos de longa duração em autorizações de residência ao abrigo dos decretos-Lei 244/98 de 8 de agosto e 34/2003 de 25 de fevereiro e da Lei 23/2007 de 4 de julho, relativa à entrada e permanência de estrangeiros em território nacional."*
 
 ### Referências
 
 - [Ministério dos Negócios Estrangeiros/Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas](arquivos/Concessões de AR_Brasil_2008_2015.xls), com dados fornecidos via pedido do **Volt** ao [Instituto Nacional de Estatística - INE](https://www.ine.pt/xportal/xmain?xpgid=ine_main&xpid=INE) de Portugal.
 - [Serviço de Estrangeiros e Fronteiras - SEF](arquivos/Pedido_291227226_ Brasil.xlsx), , com dados fornecidos via pedido do **Volt** ao [Instituto Nacional de Estatística - INE](https://www.ine.pt/xportal/xmain?xpgid=ine_main&xpid=INE) de Portugal.
-- [Ministério de Relações Exteriores do Brasil - MRE/Itamaraty](http://www.brasileirosnomundo.itamaraty.gov.br/a-comunidade/estimativas-populacionais-das-comunidades/), com dados do site ["Brasileiros no Mundo"](http://www.brasileirosnomundo.itamaraty.gov.br). 
+- [Ministério de Relações Exteriores do Brasil - MRE/Itamaraty](http://www.brasileirosnomundo.itamaraty.gov.br/a-comunidade/estimativas-populacionais-das-comunidades/), com dados do site ["Brasileiros no Mundo"](http://www.brasileirosnomundo.itamaraty.gov.br).

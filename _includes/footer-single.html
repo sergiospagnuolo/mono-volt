@@ -15,7 +15,7 @@
                   </div>
                 <p>Por <a href="{{ page.author_url  | prepend: site.baseurl }}">{{ page.author_name | capitalize }}</a></p>
                 <div class="other-catergories">
-                    <h3>Arquivado em </h3>
+                    <h3>Arquivado em
 
                     <ul>
                         {% for category in page.categories %}
@@ -24,9 +24,9 @@
                           <a href='{{ "/category/" | append: page.categories.first | prepend: site.baseurl }}'>{{ page.categories.first | capitalize }}</a></p>
 
                         </li>
-                        <li style="text-transform:lowercase">
-                          Tags: {{ page.tags }}
-                        </li>
+                        <li>
+                          Sob as tags: <span style="color:#222;border-bottom:none">{{ page.tags }}</span>
+                        </li> </h3>
                         <!--
                         <li>
                             <a href='{{ "/category/" | append: page.categories.first | prepend: site.baseurl }}'>{{ category | capitalize }}</a>

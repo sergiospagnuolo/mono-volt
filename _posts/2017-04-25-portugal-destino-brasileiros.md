@@ -10,7 +10,7 @@ show_avatar: true
 feature_image: residentes-portugal.png
 show_related_posts: true
 atualiza_data: 25.04.2017
-atualiza_texto: para acrescentar nota do INE no fim do texto
+atualiza_texto: acrescentar nota do INE no fim do texto
 tags:
   - 'imigração, '
   - 'Portugal'

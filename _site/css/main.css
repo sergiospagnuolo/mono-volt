@@ -1138,7 +1138,7 @@ abbr[title], abbr[data-original-title] {
 blockquote {
   padding: 10px 20px;
   margin: 0 0 20px;
-  border-left: 5px solid #386cb0;
+  border-left: 3px solid #f0027f;
   margin: 10px 0 20px 5%;
   line-height: 1.2em; }
 

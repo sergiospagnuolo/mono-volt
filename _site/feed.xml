@@ -5,9 +5,46 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Apr 2017 12:15:11 -0300</pubDate>
-    <lastBuildDate>Tue, 25 Apr 2017 12:15:11 -0300</lastBuildDate>
+    <pubDate>Fri, 28 Apr 2017 11:20:36 -0300</pubDate>
+    <lastBuildDate>Fri, 28 Apr 2017 11:20:36 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Quantas mudanças houve na CLT desde sua criação?</title>
+        <description>&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;As leis mudam com o tempo, se adaptam para melhor ou para pior, dependendo de quem as avalia.&lt;/p&gt;
+
+&lt;p&gt;Nos mais de 70 anos da &lt;a href=&quot;www.planalto.gov.br/ccivil_03/decreto-lei/Del5452.htm&quot;&gt;CLT&lt;/a&gt;, houve 2.840 alterações no texto original, segundo interessante levantamento do jornalista &lt;a href=&quot;https://twitter.com/msoares&quot;&gt;Marcelo Soares&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Um trecho da análise dele:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Ao total, localizei referências a 2.840 alterações à CLT. De fato, a maior parte delas está lá no passado — as maiores concentrações estão em 1967, no governo militar de Castello Branco (521), e em 1946, no governo Dutra (450). Geisel assinou leis que causaram 226 mudanças em 1977. Só neste ano, aliás, já houve nove mudanças legais que afetaram a CLT.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;O texto completo, que eu recomendo ler, está todo no site &lt;a href=&quot;https://medium.com/numeralha/os-n%C3%BAmeros-das-mudan%C3%A7as-da-clt-at%C3%A9-hoje-14aa3b4c1c6f&quot;&gt;Numeralha&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/numeralha/os-n%C3%BAmeros-das-mudan%C3%A7as-da-clt-at%C3%A9-hoje-14aa3b4c1c6f&quot;&gt;Numeralha&lt;/a&gt;, do jornalista Marcelo Soares, que gentilmente cedeu a planilha com as informações de seu levantamento para o Volt.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 28 Apr 2017 00:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/mudancas-CLT-levantamento</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/mudancas-CLT-levantamento</guid>
+        
+        <category>CLT, </category>
+        
+        <category>trabalho, </category>
+        
+        <category>legislação</category>
+        
+        
+        <category>brasil</category>
+        
+      </item>
     
       <item>
         <title>Seria Portugal o novo destino dos imigrantes brasileiros? Os dados dizem que não</title>
@@ -525,119 +562,6 @@
         
         
         <category>internet</category>
-        
-      </item>
-    
-      <item>
-        <title>Região Norte tem apenas uma farmácia popular para cada 20 mil habitantes</title>
-        <description>&lt;p&gt;A região Norte é a mais desprovida de &lt;a href=&quot;http://portalsaude.saude.gov.br/index.php/o-ministerio/principal/leia-mais-o-ministerio/346-sctie-raiz/daf-raiz/farmacia-popular/l1-farmacia-popular/18008-programa-farmacia-popular-do-brasil&quot;&gt;farmácias populares&lt;/a&gt; no Brasil, de acordo com levantamento do Volt Data Lab com dados do Ministério da Saúde cruzados com dados populacionais do IBGE.&lt;/p&gt;
-
-&lt;p&gt;O mapa abaixo utiliza a &lt;a href=&quot;http://dados.gov.br/dataset/farmacia_popular_estabelecimento/resource/84b633a5-9a51-4767-9727-d5618564f3de&quot;&gt;tabela oficial&lt;/a&gt; da &lt;a href=&quot;http://sage.saude.gov.br/&quot;&gt;Sala de Apoio à Gestão Estratégica&lt;/a&gt; (SAGE) do Ministério da Saúde sobre a localização de 28.299 farmácias da rede conveniada do programa, conforme divulgado no &lt;a href=&quot;http://dados.gov.br/dataset/farmacia_popular_estabelecimento&quot;&gt;Portal de Dados Abertos do governo federal&lt;/a&gt; e atualizados em 6 de março de 2017. Esse número de estabelecimentos da rede é o menor desde 2012, segundo &lt;a href=&quot;https://aosfatos.org/noticias/sem-alarde-governo-reduz-em-20-rede-de-farmacias-populares-no-brasil/&quot;&gt;reportagem&lt;/a&gt; do Aos Fatos em parceria com o Volt Data Lab.&lt;/p&gt;
-
-&lt;p&gt;Quanto mais escuros os pontos, mais farmácias em determinada cidade.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/graf/farmacias-populares-mapa.png&quot; alt=&quot;Mapa farmacias populares no Brasil&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Os números mais atuais da SAGE mostram uma quantidade menor de estabelecimentos do que registrado no fim de 2016, 34.616 farmácias conveniadas.&lt;/p&gt;
-
-&lt;p&gt;O programa foi aprovado em 2004 e implementado a partir de 2006, tendo como papel complementar acesso aos medicamentos que são oferecidos no SUS.&lt;/p&gt;
-
-&lt;p&gt;Balanços divulgados pelo governo são dispersos, mas segundo nota oficial &lt;a href=&quot;http://bit.ly/2n4hDmc&quot;&gt;divulgada&lt;/a&gt; no ano passado, o programa beneficiou 38 milhões de pessoas até 2016, dispobilizando medicamentos gratuitos ou com grandes descontos, especialmente para hipertensão, diabetes e asma, como também para outros fármacos.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/graf/farmcias-em-falta.png&quot; alt=&quot;Grafico farmácias populares por região&quot; class=&quot;graficos&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/graf/farmcias-em-falta-grap2.png&quot; alt=&quot;Grafico farmácias populares por região&quot; class=&quot;graficos&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;No entanto, a chance de ser mais beneficiado depende de onde você está, e é visível a disparidade no Norte do país.&lt;/p&gt;
-
-&lt;p&gt;Nos sete Estados da região, que contam com uma população combinada de quase 18 milhões de pessoas, a densidade de farmácias populares é de apenas uma para cada 20.330 pessoas. Em seguida vem o Nordeste, com 15.053 pessoas por estabelecimento, com uma população de 57 milhões.&lt;/p&gt;
-
-&lt;p&gt;Os Estados mais carentes são o Amapá, que possui apenas sete farmácias populares na rede conveniada, enquanto Acre, somente 20.&lt;/p&gt;
-
-&lt;h3 id=&quot;tabela&quot;&gt;Tabela&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;região&lt;/th&gt;
-      &lt;th&gt;farmácias populares&lt;/th&gt;
-      &lt;th&gt;população&lt;/th&gt;
-      &lt;th&gt;habitantes por farmácia&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Centro-Oeste&lt;/td&gt;
-      &lt;td&gt;3.071&lt;/td&gt;
-      &lt;td&gt;15.660.988&lt;/td&gt;
-      &lt;td&gt;5.100&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Nordeste&lt;/td&gt;
-      &lt;td&gt;3.781&lt;/td&gt;
-      &lt;td&gt;56.915.936&lt;/td&gt;
-      &lt;td&gt;15.053&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Norte&lt;/td&gt;
-      &lt;td&gt;871&lt;/td&gt;
-      &lt;td&gt;17.707.783&lt;/td&gt;
-      &lt;td&gt;20.330&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Sudeste&lt;/td&gt;
-      &lt;td&gt;12.783&lt;/td&gt;
-      &lt;td&gt;86.356.952&lt;/td&gt;
-      &lt;td&gt;6.756&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Sul&lt;/td&gt;
-      &lt;td&gt;7.793&lt;/td&gt;
-      &lt;td&gt;29.439.773&lt;/td&gt;
-      &lt;td&gt;3.778&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://dados.gov.br/dataset/farmacia_popular_estabelecimento&quot;&gt;Portal de Dados Abertos do governo federal&lt;/a&gt;, com informações da Sala de Apoio à Gestão Estratégica (SAGE), do Ministério da Saúde. Última atualização dos dados foi março de 2017&lt;/li&gt;
-  &lt;li&gt;Para tabela no &lt;a href=&quot;http://sage.saude.gov.br/&quot;&gt;site da SAGE&lt;/a&gt;): &lt;code class=&quot;highlighter-rouge&quot;&gt;Redes e Programas -&amp;gt; Saúde não tem Preço - Assistência Farmacêutica -&amp;gt; Aqui tem Farmácia Popular - Rede Conveniada&lt;/code&gt; - O Volt baixou a tabela em CSV da “Lista de Estabelecimentos”&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;ftp://ftp.ibge.gov.br/Estimativas_de_Populacao/Estimativas_2016/estimativa_dou_2016_20160913.pdf&quot;&gt;Dados populacionais do Instituto Brasileiro de Geografia e Estatística - IBGE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;style&gt;
-.graficos {
-  width:500px;
-  float:left;
-  margin: 20px 20px 20px -120px
-}
-
-@media screen and (max-width: 960px) {
-    .graficos {
-        float: none;
-        margin: 20px 0
-    }
-}
-
-&lt;/style&gt;
-
-</description>
-        <pubDate>Fri, 10 Mar 2017 08:00:00 -0300</pubDate>
-        <link>http://mono.voltdata.info/farmacias-populares-densidade-brasil</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/farmacias-populares-densidade-brasil</guid>
-        
-        <category>norte, </category>
-        
-        <category>saúde, </category>
-        
-        <category>farmácia popular, </category>
-        
-        <category>nordeste</category>
-        
-        
-        <category>brasil</category>
         
       </item>
     

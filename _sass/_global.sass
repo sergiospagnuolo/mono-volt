@@ -71,8 +71,9 @@ a
     &:active,
     &:focus
         text-decoration: none
-        color: #777
-        border-bottom: solid 2px #222
+        background-color: #f0027f
+        color: #fff !important
+        border-bottom: solid 2px #f0027f
 
 ::selection
     background: rgba(167, 0, 12, .3)
@@ -131,3 +132,23 @@ th
     float: left
     letter-spacing: 3px
     font-size: 3.5em
+
+.social-icon
+    margin: 5px
+    display: inline-block
+    color: #386cb0 !important
+    +font-size(18)
+    border: 0 !important
+
+    i
+        font-style: normal
+
+    &:hover,
+    &:active
+        border: none
+        color: #f0027f !important
+        background-color: rgba(167, 0, 44, 0) !important
+
+.destaque-head
+    color: #777 !important
+    font-weight: 700

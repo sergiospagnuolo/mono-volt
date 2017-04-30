@@ -6902,8 +6902,7 @@ button.close {
   content: "\f23a"; }
 
 body {
-  line-height: 1.5;
-  background-color: #fff; }
+  line-height: 1.5; }
 
 body,
 button,
@@ -7015,7 +7014,10 @@ ol {
     margin: 5px 0; }
 
 #logo a {
-  border: none; }
+  border: 0 !important; }
+  #logo a:hover {
+    background-color: white !important;
+    color: #f0027f !important; }
 
 .animated {
   -webkit-animation-fill-mode: both;
@@ -7491,6 +7493,9 @@ ol {
   color: #777;
   font-family: Inconsolata !important;
   margin-top: 20px;
+  border-top: 1px solid #cbcbcb;
+  border-bottom: 1px solid #cbcbcb;
+  padding: 10px 0;
   font-size: 14px;
   font-size: 1.4rem; }
   @media (min-width: 992px) {
@@ -7831,7 +7836,10 @@ hr {
 blockquote {
   font-size: 24px;
   font-size: 2.4rem;
-  padding: 0 20px; }
+  padding: 0 20px !important;
+  border-left: 3px solid #386cb0 !important; }
+  blockquote:hover {
+    border-left: 3px solid #f0027f !important; }
 
 .pullquote {
   text-align: center;
@@ -7933,15 +7941,16 @@ footer.single {
   footer.single .social-icon {
     margin: 20px 10px;
     display: inline-block;
-    color: #ccc;
+    color: #386cb0 !important;
     font-size: 24px;
     font-size: 2.4rem;
-    border: none; }
+    border: 0 !important; }
     footer.single .social-icon i {
       font-style: normal; }
     footer.single .social-icon:hover, footer.single .social-icon:active {
       border: none;
-      color: #386cb0; }
+      color: #f0027f !important;
+      background-color: rgba(167, 0, 44, 0) !important; }
   footer.single .category-list {
     padding: 30px 0; }
     @media (min-width: 768px) {
@@ -8304,8 +8313,9 @@ a {
   border-bottom: solid 2px #386cb0; }
   a:hover, a:active, a:focus {
     text-decoration: none;
-    color: #777;
-    border-bottom: solid 2px #222; }
+    background-color: #f0027f;
+    color: #fff !important;
+    border-bottom: solid 2px #f0027f; }
 
 ::selection {
   background: rgba(167, 0, 12, 0.3); }
@@ -8362,3 +8372,21 @@ th {
   float: left;
   letter-spacing: 3px;
   font-size: 3.5em; }
+
+.social-icon {
+  margin: 5px;
+  display: inline-block;
+  color: #386cb0 !important;
+  font-size: 18px;
+  font-size: 1.8rem;
+  border: 0 !important; }
+  .social-icon i {
+    font-style: normal; }
+  .social-icon:hover, .social-icon:active {
+    border: none;
+    color: #f0027f !important;
+    background-color: rgba(167, 0, 44, 0) !important; }
+
+.destaque-head {
+  color: #777 !important;
+  font-weight: 700; }

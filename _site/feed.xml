@@ -5,9 +5,489 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 30 Apr 2017 14:13:58 -0300</pubDate>
-    <lastBuildDate>Sun, 30 Apr 2017 14:13:58 -0300</lastBuildDate>
+    <pubDate>Tue, 02 May 2017 13:24:05 -0300</pubDate>
+    <lastBuildDate>Tue, 02 May 2017 13:24:05 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Em 2016, montadoras tiveram primeiro excesso de produção em quase uma década, mas não foi nem de longe o maior</title>
+        <description>&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;Em meia à crise econômica brasileira, as montadoras no Brasil têm sofrido com menores vendas e, consequentemente, com redução de ritmo em suas linhas de produção. No começo do ano, a capacidade ociosa estava &lt;a href=&quot;http://www.valor.com.br/empresas/4827140/producao-de-veiculos-cai-mais-de-11-em-2016-aponta-anfavea&quot;&gt;acima de 50%&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;No entanto, à medida que busca elevar o montante de exportações, para se esquivar da morosidade doméstica, e se adequar melhor ao cenário econômico, a indústria tem conseguido se refrear em produzir automóveis demais, pelo menos por enquanto.&lt;/p&gt;
+
+&lt;p&gt;Em 2005, o excesso de automóveis produzidos sobre os vendidos (&lt;em&gt;produção - licenciamentos&lt;/em&gt;) atingiu o recorde da série histórica desde 1957, em 642.000 unidades. Em 2016, o excesso de produção foi de 106.000 unidades.&lt;/p&gt;
+
+&lt;p&gt;Em contrapartida, desde 2008 o país não registrava excesso de produção.&lt;/p&gt;
+
+&lt;h4 id=&quot;resultados-do-setor-automotivo&quot;&gt;Resultados do setor automotivo&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;ano&lt;/th&gt;
+      &lt;th&gt;licenciamentos&lt;/th&gt;
+      &lt;th&gt;produção&lt;/th&gt;
+      &lt;th&gt;saldo&lt;/th&gt;
+      &lt;th&gt;tipo&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1957&lt;/td&gt;
+      &lt;td&gt;30977&lt;/td&gt;
+      &lt;td&gt;30542&lt;/td&gt;
+      &lt;td&gt;435&lt;/td&gt;
+      &lt;td&gt;vendas &amp;gt; produção&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1958&lt;/td&gt;
+      &lt;td&gt;60926&lt;/td&gt;
+      &lt;td&gt;60983&lt;/td&gt;
+      &lt;td&gt;-57&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1959&lt;/td&gt;
+      &lt;td&gt;96729&lt;/td&gt;
+      &lt;td&gt;96114&lt;/td&gt;
+      &lt;td&gt;615&lt;/td&gt;
+      &lt;td&gt;vendas &amp;gt; produção&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1960&lt;/td&gt;
+      &lt;td&gt;131499&lt;/td&gt;
+      &lt;td&gt;133041&lt;/td&gt;
+      &lt;td&gt;-1542&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1961&lt;/td&gt;
+      &lt;td&gt;144797&lt;/td&gt;
+      &lt;td&gt;145584&lt;/td&gt;
+      &lt;td&gt;-787&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1962&lt;/td&gt;
+      &lt;td&gt;190152&lt;/td&gt;
+      &lt;td&gt;191194&lt;/td&gt;
+      &lt;td&gt;-1042&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1963&lt;/td&gt;
+      &lt;td&gt;173759&lt;/td&gt;
+      &lt;td&gt;174191&lt;/td&gt;
+      &lt;td&gt;-432&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1964&lt;/td&gt;
+      &lt;td&gt;180905&lt;/td&gt;
+      &lt;td&gt;183707&lt;/td&gt;
+      &lt;td&gt;-2802&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1965&lt;/td&gt;
+      &lt;td&gt;188054&lt;/td&gt;
+      &lt;td&gt;185187&lt;/td&gt;
+      &lt;td&gt;2867&lt;/td&gt;
+      &lt;td&gt;vendas &amp;gt; produção&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1966&lt;/td&gt;
+      &lt;td&gt;221576&lt;/td&gt;
+      &lt;td&gt;224609&lt;/td&gt;
+      &lt;td&gt;-3033&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1967&lt;/td&gt;
+      &lt;td&gt;226912&lt;/td&gt;
+      &lt;td&gt;225487&lt;/td&gt;
+      &lt;td&gt;1425&lt;/td&gt;
+      &lt;td&gt;vendas &amp;gt; produção&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1968&lt;/td&gt;
+      &lt;td&gt;278615&lt;/td&gt;
+      &lt;td&gt;279715&lt;/td&gt;
+      &lt;td&gt;-1100&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1969&lt;/td&gt;
+      &lt;td&gt;349493&lt;/td&gt;
+      &lt;td&gt;353700&lt;/td&gt;
+      &lt;td&gt;-4207&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1970&lt;/td&gt;
+      &lt;td&gt;416704&lt;/td&gt;
+      &lt;td&gt;416089&lt;/td&gt;
+      &lt;td&gt;615&lt;/td&gt;
+      &lt;td&gt;vendas &amp;gt; produção&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1971&lt;/td&gt;
+      &lt;td&gt;509623&lt;/td&gt;
+      &lt;td&gt;516088&lt;/td&gt;
+      &lt;td&gt;-6465&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1972&lt;/td&gt;
+      &lt;td&gt;601420&lt;/td&gt;
+      &lt;td&gt;609611&lt;/td&gt;
+      &lt;td&gt;-8191&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1973&lt;/td&gt;
+      &lt;td&gt;735228&lt;/td&gt;
+      &lt;td&gt;729782&lt;/td&gt;
+      &lt;td&gt;5446&lt;/td&gt;
+      &lt;td&gt;vendas &amp;gt; produção&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1974&lt;/td&gt;
+      &lt;td&gt;835093&lt;/td&gt;
+      &lt;td&gt;859237&lt;/td&gt;
+      &lt;td&gt;-24144&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1975&lt;/td&gt;
+      &lt;td&gt;858478&lt;/td&gt;
+      &lt;td&gt;882947&lt;/td&gt;
+      &lt;td&gt;-24469&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1976&lt;/td&gt;
+      &lt;td&gt;896135&lt;/td&gt;
+      &lt;td&gt;924672&lt;/td&gt;
+      &lt;td&gt;-28537&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1977&lt;/td&gt;
+      &lt;td&gt;852970&lt;/td&gt;
+      &lt;td&gt;882966&lt;/td&gt;
+      &lt;td&gt;-29996&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1978&lt;/td&gt;
+      &lt;td&gt;972362&lt;/td&gt;
+      &lt;td&gt;1011716&lt;/td&gt;
+      &lt;td&gt;-39354&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1979&lt;/td&gt;
+      &lt;td&gt;1014925&lt;/td&gt;
+      &lt;td&gt;1071100&lt;/td&gt;
+      &lt;td&gt;-56175&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1980&lt;/td&gt;
+      &lt;td&gt;980261&lt;/td&gt;
+      &lt;td&gt;1091205&lt;/td&gt;
+      &lt;td&gt;-110944&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1981&lt;/td&gt;
+      &lt;td&gt;580725&lt;/td&gt;
+      &lt;td&gt;693416&lt;/td&gt;
+      &lt;td&gt;-112691&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1982&lt;/td&gt;
+      &lt;td&gt;691294&lt;/td&gt;
+      &lt;td&gt;796459&lt;/td&gt;
+      &lt;td&gt;-105165&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1983&lt;/td&gt;
+      &lt;td&gt;727732&lt;/td&gt;
+      &lt;td&gt;830069&lt;/td&gt;
+      &lt;td&gt;-102337&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1984&lt;/td&gt;
+      &lt;td&gt;677082&lt;/td&gt;
+      &lt;td&gt;774708&lt;/td&gt;
+      &lt;td&gt;-97626&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1985&lt;/td&gt;
+      &lt;td&gt;763180&lt;/td&gt;
+      &lt;td&gt;879436&lt;/td&gt;
+      &lt;td&gt;-116256&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1986&lt;/td&gt;
+      &lt;td&gt;866728&lt;/td&gt;
+      &lt;td&gt;965283&lt;/td&gt;
+      &lt;td&gt;-98555&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1987&lt;/td&gt;
+      &lt;td&gt;580085&lt;/td&gt;
+      &lt;td&gt;823534&lt;/td&gt;
+      &lt;td&gt;-243449&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1988&lt;/td&gt;
+      &lt;td&gt;747716&lt;/td&gt;
+      &lt;td&gt;966882&lt;/td&gt;
+      &lt;td&gt;-219166&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1989&lt;/td&gt;
+      &lt;td&gt;761625&lt;/td&gt;
+      &lt;td&gt;955533&lt;/td&gt;
+      &lt;td&gt;-193908&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1990&lt;/td&gt;
+      &lt;td&gt;712741&lt;/td&gt;
+      &lt;td&gt;843429&lt;/td&gt;
+      &lt;td&gt;-130688&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1991&lt;/td&gt;
+      &lt;td&gt;790773&lt;/td&gt;
+      &lt;td&gt;861169&lt;/td&gt;
+      &lt;td&gt;-70396&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1992&lt;/td&gt;
+      &lt;td&gt;764016&lt;/td&gt;
+      &lt;td&gt;905038&lt;/td&gt;
+      &lt;td&gt;-141022&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1993&lt;/td&gt;
+      &lt;td&gt;1131165&lt;/td&gt;
+      &lt;td&gt;1173300&lt;/td&gt;
+      &lt;td&gt;-42135&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1994&lt;/td&gt;
+      &lt;td&gt;1395403&lt;/td&gt;
+      &lt;td&gt;1321691&lt;/td&gt;
+      &lt;td&gt;73712&lt;/td&gt;
+      &lt;td&gt;vendas &amp;gt; produção&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1995&lt;/td&gt;
+      &lt;td&gt;1728380&lt;/td&gt;
+      &lt;td&gt;1459676&lt;/td&gt;
+      &lt;td&gt;268704&lt;/td&gt;
+      &lt;td&gt;vendas &amp;gt; produção&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1996&lt;/td&gt;
+      &lt;td&gt;1730788&lt;/td&gt;
+      &lt;td&gt;1623135&lt;/td&gt;
+      &lt;td&gt;107653&lt;/td&gt;
+      &lt;td&gt;vendas &amp;gt; produção&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1997&lt;/td&gt;
+      &lt;td&gt;1943458&lt;/td&gt;
+      &lt;td&gt;1861201&lt;/td&gt;
+      &lt;td&gt;82257&lt;/td&gt;
+      &lt;td&gt;vendas &amp;gt; produção&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1998&lt;/td&gt;
+      &lt;td&gt;1534952&lt;/td&gt;
+      &lt;td&gt;1429860&lt;/td&gt;
+      &lt;td&gt;105092&lt;/td&gt;
+      &lt;td&gt;vendas &amp;gt; produção&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1999&lt;/td&gt;
+      &lt;td&gt;1256953&lt;/td&gt;
+      &lt;td&gt;1289977&lt;/td&gt;
+      &lt;td&gt;-33024&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2000&lt;/td&gt;
+      &lt;td&gt;1489481&lt;/td&gt;
+      &lt;td&gt;1605848&lt;/td&gt;
+      &lt;td&gt;-116367&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2001&lt;/td&gt;
+      &lt;td&gt;1601282&lt;/td&gt;
+      &lt;td&gt;1674522&lt;/td&gt;
+      &lt;td&gt;-73240&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2002&lt;/td&gt;
+      &lt;td&gt;1478627&lt;/td&gt;
+      &lt;td&gt;1633790&lt;/td&gt;
+      &lt;td&gt;-155163&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2003&lt;/td&gt;
+      &lt;td&gt;1428610&lt;/td&gt;
+      &lt;td&gt;1684715&lt;/td&gt;
+      &lt;td&gt;-256105&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2004&lt;/td&gt;
+      &lt;td&gt;1578775&lt;/td&gt;
+      &lt;td&gt;2124177&lt;/td&gt;
+      &lt;td&gt;-545402&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2005&lt;/td&gt;
+      &lt;td&gt;1714644&lt;/td&gt;
+      &lt;td&gt;2357172&lt;/td&gt;
+      &lt;td&gt;-642528&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2006&lt;/td&gt;
+      &lt;td&gt;1927738&lt;/td&gt;
+      &lt;td&gt;2403680&lt;/td&gt;
+      &lt;td&gt;-475942&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2007&lt;/td&gt;
+      &lt;td&gt;2462728&lt;/td&gt;
+      &lt;td&gt;2825276&lt;/td&gt;
+      &lt;td&gt;-362548&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2008&lt;/td&gt;
+      &lt;td&gt;2820350&lt;/td&gt;
+      &lt;td&gt;3050631&lt;/td&gt;
+      &lt;td&gt;-230281&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2009&lt;/td&gt;
+      &lt;td&gt;3141240&lt;/td&gt;
+      &lt;td&gt;3076000&lt;/td&gt;
+      &lt;td&gt;65240&lt;/td&gt;
+      &lt;td&gt;vendas &amp;gt; produção&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2010&lt;/td&gt;
+      &lt;td&gt;3515064&lt;/td&gt;
+      &lt;td&gt;3382143&lt;/td&gt;
+      &lt;td&gt;132921&lt;/td&gt;
+      &lt;td&gt;vendas &amp;gt; produção&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2011&lt;/td&gt;
+      &lt;td&gt;3633248&lt;/td&gt;
+      &lt;td&gt;3417782&lt;/td&gt;
+      &lt;td&gt;215466&lt;/td&gt;
+      &lt;td&gt;vendas &amp;gt; produção&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2012&lt;/td&gt;
+      &lt;td&gt;3802071&lt;/td&gt;
+      &lt;td&gt;3402963&lt;/td&gt;
+      &lt;td&gt;399108&lt;/td&gt;
+      &lt;td&gt;vendas &amp;gt; produção&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2013&lt;/td&gt;
+      &lt;td&gt;3767370&lt;/td&gt;
+      &lt;td&gt;3712736&lt;/td&gt;
+      &lt;td&gt;54634&lt;/td&gt;
+      &lt;td&gt;vendas &amp;gt; produção&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2014&lt;/td&gt;
+      &lt;td&gt;3498012&lt;/td&gt;
+      &lt;td&gt;3146386&lt;/td&gt;
+      &lt;td&gt;351626&lt;/td&gt;
+      &lt;td&gt;vendas &amp;gt; produção&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2015&lt;/td&gt;
+      &lt;td&gt;2568976&lt;/td&gt;
+      &lt;td&gt;2429421&lt;/td&gt;
+      &lt;td&gt;139555&lt;/td&gt;
+      &lt;td&gt;vendas &amp;gt; produção&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2016&lt;/td&gt;
+      &lt;td&gt;2050321&lt;/td&gt;
+      &lt;td&gt;2156356&lt;/td&gt;
+      &lt;td&gt;-106035&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2017&lt;/td&gt;
+      &lt;td&gt;472035&lt;/td&gt;
+      &lt;td&gt;609844&lt;/td&gt;
+      &lt;td&gt;-137809&lt;/td&gt;
+      &lt;td&gt;produção &amp;gt; vendas&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h5 id=&quot;fonte-anfavea&quot;&gt;Fonte: Anfavea&lt;/h5&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.anfavea.com.br/estatisticas.html&quot;&gt;Associação Nacional dos Fabricantes de Veículos Automotores – ANFAVEA&lt;/a&gt;, sob o item “Séries Temporais”. A equação do saldo é simples: licenciamentos - produção.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 02 May 2017 00:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/montadores-excesso-producao</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/montadores-excesso-producao</guid>
+        
+        <category>carros, </category>
+        
+        <category>automóveis, </category>
+        
+        <category>montadoras, </category>
+        
+        <category>indústria</category>
+        
+        
+        <category>brasil</category>
+        
+      </item>
     
       <item>
         <title>Quantas mudanças houve na CLT desde sua criação?</title>
@@ -529,39 +1009,6 @@
         
         
         <category>brasil</category>
-        
-      </item>
-    
-      <item>
-        <title>Foto de Karnal com Moro foi mais popular do que expectativa sobre lista de Janot na Lava Jato</title>
-        <description>&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;Enquanto o &lt;em&gt;establishment&lt;/em&gt; político &lt;a href=&quot;http://www.poder360.com.br/lava-jato/brasilia-vive-expectativa-da-divulgacao-da-lista-de-janot-2-0/&quot;&gt;tremia&lt;/a&gt; no fim de semana sob a expectativa &lt;a href=&quot;http://www1.folha.uol.com.br/poder/2017/03/1865986-o-que-pode-acontecer-com-a-divulgacao-da-lista-de-janot.shtml&quot;&gt;quanto à lista&lt;/a&gt; que o procurador-geral da República, Rodrigo Janot, deve apresentar nesta semana ao Supremo Tribunal Federal para abertura de inquéritos no âmbito da Lava Jato, contendo nomes de senadores, deputados e ministros, parte da Internet se preocupava com algo diferente: a &lt;a href=&quot;http://www.redebrasilatual.com.br/politica/2017/03/apos-enxurrada-de-criticas-karnal-apaga-foto-ao-lado-de-moro&quot;&gt;polêmica&lt;/a&gt; da foto do historiador Leandro Karnal jantando com o juiz Sérgio Moro.&lt;/p&gt;
-
-&lt;p&gt;Segundo dados do &lt;a href=&quot;https://trends.google.com&quot;&gt;Google Trends&lt;/a&gt; de 1º a 11 de março, o termo “Leandro Karnal” atraiu mais interesse do que “Rodrigo Janot” no maior mecanismo de buscas do mundo.&lt;/p&gt;
-
-&lt;p&gt;A popularidade de Janot, que pouco antes ainda liderava ao menos nas buscas de notícias, não conseguiu suportar o interesse brasileiro por polêmicas.&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://trends.google.com&quot;&gt;Google Trends&lt;/a&gt;, comparativo entre buscas pelos termos “Leandro Karnal” e “Rodrigo Janot” tanto em &lt;em&gt;notícias&lt;/em&gt; quanto em &lt;em&gt;buscas na web&lt;/em&gt;. O índice 100 de popularidade significa o auge da interesse nas buscas em certo período.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 13 Mar 2017 00:00:00 -0300</pubDate>
-        <link>http://mono.voltdata.info/janot-vs-karnal-google</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/janot-vs-karnal-google</guid>
-        
-        <category>Google Trends, </category>
-        
-        <category>Leandro Karnal, </category>
-        
-        <category>Rodrigo Janot, </category>
-        
-        <category>Lava Jato</category>
-        
-        
-        <category>internet</category>
         
       </item>
     

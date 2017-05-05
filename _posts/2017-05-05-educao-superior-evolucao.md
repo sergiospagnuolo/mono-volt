@@ -9,6 +9,8 @@ author_avatar: sergio
 show_avatar: true
 feature_image: educacao-superior.png
 show_related_posts: true
+atualiza_data: 05.05.2017
+atualiza_texto: acrescentar link de notícia do governo brasileiro, no último parágrafo
 tags:
   - 'educação, '
   - 'ensino superior, '
@@ -28,6 +30,8 @@ A Unesco não especifica precisamente qual é essa faixa de idade, talvez por co
 De toda forma, por melhor que tenha sido a evolução dos números do maior país da América Latina, não se iguala aos feitos do Chile, que disparou quase 50 pontos percentuais no mesmo período de comparação, frente a 33 do Brasil.
 
 Os dados mais recentes são de 2014.
+
+O porta oficial de notícias do governo brasileiro, [publicou, em 2016](http://www.brasil.gov.br/educacao/2015/12/numero-de-estudantes-universitarios-cresce-25-em-10-anos), nota com dados semelhantes (embora um pouco menores), para alunos de 18 a 24 anos.
 
 #### Matrículas em ensino superior por recém saídos do ensino médio
 

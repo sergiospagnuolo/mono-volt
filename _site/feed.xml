@@ -5,9 +5,91 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 May 2017 13:24:05 -0300</pubDate>
-    <lastBuildDate>Tue, 02 May 2017 13:24:05 -0300</lastBuildDate>
+    <pubDate>Fri, 05 May 2017 15:40:27 -0300</pubDate>
+    <lastBuildDate>Fri, 05 May 2017 15:40:27 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Em 15 anos, 'lanterninha' Brasil evolui em acesso ao ensino superior</title>
+        <description>&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;As matrículas em universidades e cursos de formação superior por brasileiros cresceram de forma vigorosa entre 1999 e 2014, provavelmente motivadas por avanços econômicos e programas públicos de incentivo ao ensino terciário.&lt;/p&gt;
+
+&lt;p&gt;Assim, na virada do século, o Brasil, que apresentava números abaixo de médias do mundo e da América Latina, conseguiu ficar acima delas, sendo capaz de efetuar matrículas de praticamente 50% dos estudantes na faixa de idade de saída do ensino médio, segundo dados da &lt;a href=&quot;http://data.uis.unesco.org/?queryid=142&quot;&gt;UIS Stat&lt;/a&gt;, serviço de estatísticas da Unesco.&lt;/p&gt;
+
+&lt;p&gt;A Unesco não especifica precisamente qual é essa faixa de idade, talvez por conta de diferenças de cultura no mundo - dependendo do país, jovens se formam mais tarde ou mais cedo do colegial. Minha estimativa é que seja uma faixa de 17 a 21 anos (a Unesco especifica que é uma faixa de 5 anos de latitude).&lt;/p&gt;
+
+&lt;p&gt;De toda forma, por melhor que tenha sido a evolução dos números do maior país da América Latina, não se iguala aos feitos do Chile, que disparou quase 50 pontos percentuais no mesmo período de comparação, frente a 33 do Brasil.&lt;/p&gt;
+
+&lt;p&gt;Os dados mais recentes são de 2014.&lt;/p&gt;
+
+&lt;h4 id=&quot;matrculas-em-ensino-superior-por-recm-sados-do-ensino-mdio&quot;&gt;Matrículas em ensino superior por recém saídos do ensino médio&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;País&lt;/th&gt;
+      &lt;th&gt;1999&lt;/th&gt;
+      &lt;th&gt;2014&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Argentina&lt;/td&gt;
+      &lt;td&gt;48%&lt;/td&gt;
+      &lt;td&gt;82,92%&lt;/td&gt;
+      &lt;td&gt;+34,9 p.p.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Brasil&lt;/td&gt;
+      &lt;td&gt;16,08%&lt;/td&gt;
+      &lt;td&gt;49,28%&lt;/td&gt;
+      &lt;td&gt;+33,2 p.p.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Chile&lt;/td&gt;
+      &lt;td&gt;37,31%&lt;/td&gt;
+      &lt;td&gt;86,63%&lt;/td&gt;
+      &lt;td&gt;+49,3 p.p.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Latam e Caribe&lt;/td&gt;
+      &lt;td&gt;22,36%&lt;/td&gt;
+      &lt;td&gt;44,66%&lt;/td&gt;
+      &lt;td&gt;+22,3 p.p.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mundo&lt;/td&gt;
+      &lt;td&gt;18,36%&lt;/td&gt;
+      &lt;td&gt;34,45%&lt;/td&gt;
+      &lt;td&gt;+16,1 p.p.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h5 id=&quot;fonte-unesco&quot;&gt;Fonte: Unesco&lt;/h5&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.unesco.org/&quot;&gt;Organização das Nações Unidas para a Educação, a Ciência e a Cultura - Unesco&lt;/a&gt;, com informações do &lt;a href=&quot;http://data.worldbank.org/indicator/SE.TER.ENRR?locations=BR-RU-CN-IN-AR-US-JP-DE-FR-CL-PY-UY&quot;&gt;World Bank Data&lt;/a&gt; e do &lt;a href=&quot;http://data.uis.unesco.org/?queryid=142&quot;&gt;UIS Stat&lt;/a&gt;, serviço de estatísticas da Unesco. A série, nos dois bancos de dados, é &lt;code class=&quot;highlighter-rouge&quot;&gt;Gross enrolment ratio, tertiary, both sexes (%)&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 05 May 2017 00:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/educao-superior-evolucao</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/educao-superior-evolucao</guid>
+        
+        <category>educação, </category>
+        
+        <category>ensino superior, </category>
+        
+        <category>América Latina</category>
+        
+        
+        <category>ciência</category>
+        
+      </item>
     
       <item>
         <title>Em 2016, montadoras tiveram primeiro excesso de produção em quase uma década, mas não foi nem de longe o maior</title>
@@ -949,66 +1031,6 @@
         
         
         <category>ciência</category>
-        
-      </item>
-    
-      <item>
-        <title>Fazendas no Brasil lideram lista de trabalho escravo</title>
-        <description>&lt;p&gt;As fazendas no Brasil representam os principais estabelecimentos onde são encontrados trabalhadores em situação análoga à de escravidão, de acordo com os &lt;a href=&quot;https://conteudo.imguol.com.br/blogs/61/files/2017/03/Lista-de-Transpar%C3%AAncia_-dez2014-2016.pdf&quot;&gt;dados mais recentes&lt;/a&gt; do Ministério do Trabalho, obtidos e divulgados pela ONG Repórter Brasil e pelo jornalista &lt;a href=&quot;http://blogdosakamoto.blogosfera.uol.com.br/2017/03/13/lista-de-transparencia-traz-250-nomes-flagrados-por-trabalho-escravo/?cmpid=copiaecola&quot;&gt;Leonardo Sakamoto&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/graf/trabalho-escravo-categ.png&quot; alt=&quot;Grafico escravos modernos categorias&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Pela descrição na lista, que mostra 250 empregadores autuados, não está claro qual a atividade que esses trabalhadores exerciam nas fazendas (seja cultivo, extração, minério etc), mas é possível sugerir que o cultivo figura entre uma das principais funções.&lt;/p&gt;
-
-&lt;p&gt;É possível também saber que pessoas físicas compartilham uma grande parte das transgressões.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/graf/trabalho-escravo.png&quot; alt=&quot;Grafico escravos modernos gênero&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;De acordo com análise do &lt;strong&gt;Volt Data Lab&lt;/strong&gt; feita a partir dos nomes e CPFs dos autuados, homens foram responsáveis por colocar 1.595 trabalhadores em situação de escravidão moderna, 48% do total, praticamente empatados com as pessoas jurídicas. Mulheres representaram quase 4% dos empregadores autuados.&lt;/p&gt;
-
-&lt;p&gt;Quanto aos Estados onde esses trabalhadores forem encontrados, como se poder ver no mapa abaixo não se trata de uma questão onde isso ocorreu, mas onde &lt;strong&gt;não&lt;/strong&gt; ocorreu.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/graf/mapa-escravidao.png&quot; alt=&quot;Grafico escravos modernos gênero&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://trabalho.gov.br/&quot;&gt;Secretaria de Inspeção do Ministério do Trabalho&lt;/a&gt;, com &lt;a href=&quot;https://conteudo.imguol.com.br/blogs/61/files/2017/03/Lista-de-Transpar%C3%AAncia_-dez2014-2016.pdf&quot;&gt;lista obtida&lt;/a&gt; via Lei de Acesso à Informação (LAI) pela ONG de jornalismo &lt;a href=&quot;http://reporterbrasil.org.br/&quot;&gt;Repórter Brasil&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;style&gt;
-.graficos {
-  width:500px;
-  float: left;
-  margin: 20px 20px 20px -120px;
-}
-
-@media screen and (max-width: 960px) {
-    .graficos {
-        float: none;
-        margin: 20px 0
-    }
-}
-
-&lt;/style&gt;
-
-</description>
-        <pubDate>Wed, 15 Mar 2017 00:00:00 -0300</pubDate>
-        <link>http://mono.voltdata.info/lista-trabalho-escravo</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/lista-trabalho-escravo</guid>
-        
-        <category>escravidão moderna, </category>
-        
-        <category>escravos, </category>
-        
-        <category>Ministério do Trabalho, </category>
-        
-        <category>Mapa, </category>
-        
-        <category>lista suja</category>
-        
-        
-        <category>brasil</category>
         
       </item>
     

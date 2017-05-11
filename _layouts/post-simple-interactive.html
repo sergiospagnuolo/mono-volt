@@ -1,0 +1,67 @@
+---
+layout: default
+---
+
+<header>
+    <span class="menu-trigger animated fadeInDown">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+    </span>
+    {% include nav.html %}
+    <h1 id="logo" style="float:right;margin-right:30px;"><a href="/">M0N0</a></h1>
+</header>
+
+<main class="container">
+    <div class="row">
+        <div class="col-xs-12 single-content">
+            <h1>{{ page.title }}</h1>
+            <p class="meta" style="text-transform:uppercase">
+                <span class="destaque-head">Arquivado em<span>  <a href='{{ "/category/" | append: page.categories.first | prepend: site.baseurl }}'>{{ page.categories[0] | capitalize }}</a>
+                | <span class="destaque-head">tags:</span> {{ page.tags }}
+                    | <span class="destaque-head">Compartilhe</span>
+                        <a class="social-icon" href="#" data-platform="twitter" data-message="{{ page.title }} @voltdatalab" data-url="{{ page.url | prepend: site.baseurl | prepend: site.url }}"><i class="fa fa-twitter fa-lg"></i></a>
+                        <a class="social-icon" href="#" data-platform="facebook" data-message="{{ page.title }}" data-url="{{ page.url | prepend: site.baseurl | prepend: site.url }}"><i class="fa fa-facebook-official fa-lg"></i></a>
+                        <a class="social-icon" data-platform="mail"  href="mailto:{{ site.email }}?body={{ page.url | prepend: site.baseurl | prepend: site.url }}"><i class="fa fa-envelope fa-lg"></i></a>
+            </p>
+            <br />
+            {{ content }}
+
+            {% if page.atualiza_data %}
+            <br />
+            <hr />
+            <div class="secondary-info">
+                <p>
+                  <em><span style="font-size:.8em">Publicação alterada em {{ page.atualiza_data }}
+                    para {{ page.atualiza_texto }}
+                  </span></em>
+                </p>
+            </div>
+            {% else %}
+            {% endif %}
+
+            {% if page.correcao_data %}
+            <br />
+            <hr />
+            <div class="secondary-info">
+                <p>
+                  <span style="color:#a7000c">Publicação alterada em {{ page.correcao_data }}
+                    para refletir a seguinte correção: {{ page.correcao_texto }}
+                  </span>
+                </p>
+            </div>
+            {% else %}
+            {% endif %}
+
+        </div><!-- main-content/col -->
+    </div> <!--/row -->
+
+</main> <!-- /container -->
+
+<footer class="single">
+    {% include footer-single.html %}
+
+    {% if page.show_related_posts == true %}
+        {% include footer-related-posts.html %}
+    {% endif %}
+</footer>

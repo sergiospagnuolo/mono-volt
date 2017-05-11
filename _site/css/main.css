@@ -7016,8 +7016,12 @@ ol {
 #logo a {
   border: 0 !important; }
   #logo a:hover {
-    background-color: white !important;
+    background-color: transparent !important;
     color: #f0027f !important; }
+
+.social-links a:hover {
+  background-color: transparent !important;
+  color: #f0027f !important; }
 
 .animated {
   -webkit-animation-fill-mode: both;

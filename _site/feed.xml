@@ -5,9 +5,46 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 May 2017 17:14:27 -0300</pubDate>
-    <lastBuildDate>Tue, 09 May 2017 17:14:27 -0300</lastBuildDate>
+    <pubDate>Thu, 11 May 2017 13:18:23 -0300</pubDate>
+    <lastBuildDate>Thu, 11 May 2017 13:18:23 -0300</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>INTERATIVO-Onde os custos com habitação têm caído mais no Brasil em 2017?</title>
+        <description>&lt;iframe src=&quot;http://graficos.voltdata.info/posts/interactives/habitacao-ibge/&quot; width=&quot;100%&quot; frameborder=&quot;no&quot; scrolling=&quot;no&quot; height=&quot;800px&quot; seamless=&quot;&quot; id=&quot;interact-ibge&quot;&gt; &lt;/iframe&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ibge.gov.br/home/estatistica/indicadores/precos/inpc_ipca/defaultinpc.shtm&quot;&gt;Instituto Brasileiro de Geografia e Estatística - IBGE&lt;/a&gt;, a partir do &lt;a href=&quot;https://sidra.ibge.gov.br/tabela/1419&quot;&gt;Sistema IBGE de Recuperação Automática - SIDRA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Encontrado em: &lt;code class=&quot;highlighter-rouge&quot;&gt;Tabela 1419 - IPCA &lt;/code&gt; - &lt;em&gt;Variação mensal, acumulada no ano, acumulada em 12 meses e peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (a partir de janeiro/2012)&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;style&gt;
+@media screen and (max-width: 620px) {
+    #interact-ibge {
+        height: 600px;
+    }
+}
+&lt;/style&gt;
+
+</description>
+        <pubDate>Thu, 11 May 2017 00:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/habitacao-inflacao</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/habitacao-inflacao</guid>
+        
+        <category>interativo, </category>
+        
+        <category>inflação, </category>
+        
+        <category>habitação, </category>
+        
+        <category>IPCA</category>
+        
+        
+        <category>brasil</category>
+        
+      </item>
     
       <item>
         <title>Qual a participação das mulheres na força de trabalho?</title>
@@ -992,49 +1029,6 @@
         
         
         <category>mundo</category>
-        
-      </item>
-    
-      <item>
-        <title>Brasil tem capacidade estatística menor do que México, Argentina, China e, por que não, América Latina</title>
-        <description>&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;O Brasil tem capacidade estatística menor do que a América Latina em geral, do que seus parceiros emergentes nos BRIC (Brasil, Rússia, Índia e China), e fica bem atrás dos rivais regionais Argentina e México, de acordo com índice do Banco Mundial.&lt;/p&gt;
-
-&lt;p&gt;Em 2016, o país registrou 76,7 (em escala até 100) na medição da organização, bem longe do pico de 91,1 alcançado em 2007.&lt;/p&gt;
-
-&lt;p&gt;O &lt;em&gt;Nível Geral de Capacidade Estatística&lt;/em&gt; mede a “capacidade de uma nação de coletar, analisar e disseminar dados de alta qualidade sobre sua população e economia.” A metodologia do banco é direta:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;[O índice] é baseado em um plano diagnóstico que avalia as seguintes áreas: metodologia; fontes de dados; e periodicidade e conveniência. Países são avaliados em 25 critérios nestas áreas, utilizando informação disponível publicamente e/ou informações disponibilizadas pelos países. O resultado geral de Capacidade Estatística é, então, calculado como uma média simples de todas as três áreas em uma escala de 0 a 100.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Pessoalmente, eu imaginava que o Brasil estaria muito melhor colocado nesse quadro (e já esteve, no passado), visto que temos institutos de bastante qualificados e de credibilidade por aqui. Vou tentar ir mais a fundo nisso e atualizar este &lt;em&gt;post&lt;/em&gt; ou criar um novo a respeito quando souber mais.&lt;/p&gt;
-
-&lt;p&gt;No gráfico acima, estão plotados os índices de mais de 170 países, o que torna impossível na hora de fazer anotações, por isso foram selecionados alguns países e grupos de países os quais achei interessante a comparação - Índia e Rússia tem índices semelhantes, localizados entre Brasil e China. A Somália consta ali apenas para mostrar quem está mais abaixo na escala.&lt;/p&gt;
-
-&lt;p&gt;O Banco Mundial disponibiliza &lt;a href=&quot;https://datahelpdesk.worldbank.org/knowledgebase/topics/125589&quot;&gt;API&lt;/a&gt; com esses e outros dados.&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://databank.worldbank.org/data/reports.aspx?source=2&amp;amp;type=metadata&amp;amp;series=IQ.SCI.OVRL&quot;&gt;DataBank, do Banco Mundial&lt;/a&gt;, com dados do &lt;a href=&quot;http://datatopics.worldbank.org/statisticalcapacity/&quot;&gt;Boletim de Capacidade Estatística&lt;/a&gt; do banco.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 09 Apr 2017 00:00:00 -0300</pubDate>
-        <link>http://mono.voltdata.info/capacidade-estatistica</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/capacidade-estatistica</guid>
-        
-        <category>estatística, </category>
-        
-        <category>Banco Mundial, </category>
-        
-        <category>América Latina, </category>
-        
-        <category>LATAM</category>
-        
-        
-        <category>ciência</category>
         
       </item>
     

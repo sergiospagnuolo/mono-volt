@@ -7,7 +7,7 @@ author_name: Sérgio Spagnuolo
 author_url: /author/sergio
 author_avatar: sergio
 show_avatar: true
-feature_image: habitacao-ibge.png
+feature_image: habit-ibge.png
 show_related_posts: true
 tags:
   - 'interativo, '

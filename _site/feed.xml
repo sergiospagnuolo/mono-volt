@@ -5,9 +5,53 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 May 2017 13:26:27 -0300</pubDate>
-    <lastBuildDate>Thu, 11 May 2017 13:26:27 -0300</lastBuildDate>
-    <generator>Jekyll v3.1.1</generator>
+    <pubDate>Mon, 22 May 2017 12:17:39 -0300</pubDate>
+    <lastBuildDate>Mon, 22 May 2017 12:17:39 -0300</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>INTERATIVO-A evolução financeira da JBS nos últimos 6 anos, em um gráfico</title>
+        <description>&lt;iframe src=&quot;http://graficos.voltdata.info/posts/geral/jbs&quot; width=&quot;100%&quot; frameborder=&quot;no&quot; scrolling=&quot;no&quot; height=&quot;800px&quot; seamless=&quot;&quot; id=&quot;interact-jbs&quot;&gt; &lt;/iframe&gt;
+
+&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;De &lt;a href=&quot;http://g1.globo.com/economia/negocios/noticia/com-ajuda-do-bndes-donos-da-jbs-criaram-maior-empresa-de-carnes-do-mundo.ghtml&quot;&gt;açougue&lt;/a&gt; em Anápolis (GO) a gigante da exportação de proteína animal, a JBS é uma das maiores empresas de alimentos do mundo, com receita líquida de mais de R$ 170 bilhões em 2016.&lt;/p&gt;
+
+&lt;p&gt;Nos últimos seis anos, o crescimento foi significativo, em grande parte por conta de financiamentos obtidos pelo BNDES, como mostra essa &lt;a href=&quot;http://piaui.folha.uol.com.br/materia/o-estouro-da-boiada/&quot;&gt;excelente reportagem&lt;/a&gt; da revista &lt;em&gt;piauí&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;A empresa e seus executivos estão no meio de um escândalo político nacional, após a acusação trazida pela &lt;a href=&quot;https://oglobo.globo.com/brasil/dono-da-jbs-grava-temer-dando-aval-para-compra-de-silencio-de-cunha-21353935?utm_source=Facebook&amp;amp;utm_medium=Social&amp;amp;utm_campaign=O%Globo&quot;&gt;reportagem do jornal &lt;em&gt;O Globo&lt;/em&gt;&lt;/a&gt; sobre uma conversa comprometedora entre o presidente e um dos diretores da empresa.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.econoinfo.com.br/financas-e-mercados/demonstracoes?codigoCVM=20575#&quot;&gt;Econoinfo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;style&gt;
+@media screen and (max-width: 620px) {
+    #interact-jbs {
+        height: 600px;
+    }
+}
+&lt;/style&gt;
+
+</description>
+        <pubDate>Sat, 20 May 2017 00:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/jbs-evolucao-financeira</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/jbs-evolucao-financeira</guid>
+        
+        <category>interativo, </category>
+        
+        <category>jbs, </category>
+        
+        <category>carnes, </category>
+        
+        <category>BNDES</category>
+        
+        
+        <category>empresas</category>
+        
+      </item>
     
       <item>
         <title>INTERATIVO-Onde os custos com habitação têm caído mais no Brasil em 2017?</title>
@@ -32,6 +76,43 @@
         <pubDate>Thu, 11 May 2017 00:00:00 -0300</pubDate>
         <link>http://mono.voltdata.info/habitacao-inflacao</link>
         <guid isPermaLink="true">http://mono.voltdata.info/habitacao-inflacao</guid>
+        
+        <category>interativo, </category>
+        
+        <category>inflação, </category>
+        
+        <category>habitação, </category>
+        
+        <category>IPCA</category>
+        
+        
+        <category>brasil</category>
+        
+      </item>
+    
+      <item>
+        <title>INTERATIVO-Onde os custos com habitação têm caído mais no Brasil em 2017?</title>
+        <description>&lt;iframe src=&quot;http://graficos.voltdata.info/posts/interactives/habitacao-ibge/&quot; width=&quot;100%&quot; frameborder=&quot;no&quot; scrolling=&quot;no&quot; height=&quot;800px&quot; seamless=&quot;&quot; id=&quot;interact-ibge&quot;&gt; &lt;/iframe&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ibge.gov.br/home/estatistica/indicadores/precos/inpc_ipca/defaultinpc.shtm&quot;&gt;Instituto Brasileiro de Geografia e Estatística - IBGE&lt;/a&gt;, a partir do &lt;a href=&quot;https://sidra.ibge.gov.br/tabela/1419&quot;&gt;Sistema IBGE de Recuperação Automática - SIDRA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Encontrado em: &lt;code class=&quot;highlighter-rouge&quot;&gt;Tabela 1419 - IPCA &lt;/code&gt; - &lt;em&gt;Variação mensal, acumulada no ano, acumulada em 12 meses e peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (a partir de janeiro/2012)&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;style&gt;
+@media screen and (max-width: 620px) {
+    #interact-ibge {
+        height: 600px;
+    }
+}
+&lt;/style&gt;
+
+</description>
+        <pubDate>Thu, 11 May 2017 00:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/brasil-linhas-fixas</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/brasil-linhas-fixas</guid>
         
         <category>interativo, </category>
         
@@ -84,7 +165,7 @@
       </item>
     
       <item>
-        <title>Em 15 anos, &#39;lanterninha&#39; Brasil evolui em acesso ao ensino superior</title>
+        <title>Em 15 anos, 'lanterninha' Brasil evolui em acesso ao ensino superior</title>
         <description>&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
 
 &lt;p&gt;As matrículas em universidades e cursos de formação superior por brasileiros cresceram de forma vigorosa entre 1999 e 2014, provavelmente motivadas por avanços econômicos e programas públicos de incentivo ao ensino terciário.&lt;/p&gt;
@@ -920,115 +1001,6 @@
         
         
         <category>brasil</category>
-        
-      </item>
-    
-      <item>
-        <title>Grandes empresas perderam participação nos financiamentos do BNDES desde 2001, dando espaço para pequenos</title>
-        <description>&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;As grandes empresas tradicionalmente consomem mais de dois terços dos financiamentos concedidos pelo BNDES, mas caíram em representação em relação ao total anual dos desembolsos do banco desde 2001, abrindo espaço para companhias de menor porte captarem recursos.&lt;/p&gt;
-
-&lt;p&gt;As pequenas empresas foram as que apresentaram crescimento proporcional mais significativo no período, saltando de 4,3% dos desembolsos em 2001 para 8% em 2016.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;porte&lt;/th&gt;
-      &lt;th&gt;média*&lt;/th&gt;
-      &lt;th&gt;2001&lt;/th&gt;
-      &lt;th&gt;2016&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;grande&lt;/td&gt;
-      &lt;td&gt;72,64%&lt;/td&gt;
-      &lt;td&gt;77,10%&lt;/td&gt;
-      &lt;td&gt;69,10%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;micro&lt;/td&gt;
-      &lt;td&gt;13,45%&lt;/td&gt;
-      &lt;td&gt;12,40%&lt;/td&gt;
-      &lt;td&gt;15,30%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;média&lt;/td&gt;
-      &lt;td&gt;7,82%&lt;/td&gt;
-      &lt;td&gt;6,20%&lt;/td&gt;
-      &lt;td&gt;7,50%&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;pequena&lt;/td&gt;
-      &lt;td&gt;6,09%&lt;/td&gt;
-      &lt;td&gt;4,30%&lt;/td&gt;
-      &lt;td&gt;8%&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h5 id=&quot;mdia-de-todos-os-anos-de-2001-a-2016---fonte-bndes&quot;&gt;* média de todos os anos de 2001 a 2016 - Fonte: BNDES&lt;/h5&gt;
-
-&lt;p&gt;Naturalmente, companhias de grande porte desenvolvem projetos maiores, que exigem maior volume financiado, e por isso o montante de recursos destinados a elas é substancialmente superior.&lt;/p&gt;
-
-&lt;p&gt;O desembolso médio do BNDES de 2001 a 2016 foi de cerca de R$ 100 bilhões por ano, com o pico em 2013 (R$ 190 bilhões), e fecharam 2016 com R$ 88,2 bilhões.&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://bit.ly/2o8ksUl&quot;&gt;Banco Nacional de Desenvolvimento Econômico e Social - BNDES&lt;/a&gt;, no &lt;a href=&quot;http://bit.ly/2o8qC6Q&quot;&gt;conjunto de dados&lt;/a&gt; “Desembolsos do Sistema BNDES por Portes de Empresas”.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 20 Apr 2017 00:00:00 -0300</pubDate>
-        <link>http://mono.voltdata.info/bndes-desembolsos-empresas</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/bndes-desembolsos-empresas</guid>
-        
-        <category>BNDES, </category>
-        
-        <category>crédito, </category>
-        
-        <category>investimentos</category>
-        
-        
-        <category>empresas</category>
-        
-      </item>
-    
-      <item>
-        <title>Síria, conflito brutal fora e dentro do campo de batalha</title>
-        <description>&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;A questão dos refugiados sírios tentando escapar da brutal guerra civil do país talvez seja uma das grandes preocupações do mundo hoje, e com razão. É uma crise imigratória, política e até econômica, mas, acima de tudo, humanitária. Estima-se mais de 5 &lt;a href=&quot;http://data.unhcr.org/syrianrefugees/regional.php&quot;&gt;milhões&lt;/a&gt; de refugiados, com mais de &lt;a href=&quot;http://edition.cnn.com/2013/08/27/world/meast/syria-civil-war-fast-facts/&quot;&gt;400 mil&lt;/a&gt; mortos.&lt;/p&gt;
-
-&lt;p&gt;Para se ter uma ideia da escala do conflito com outros atuais, separei os 9 conflitos que mataram mais de 1.000 pessoas em batalha, segundo dados do &lt;a href=&quot;pcr.uu.se/research/UCDP&quot;&gt;Uppsala Conflict Data Program&lt;/a&gt; mais atuais no site do Banco Mundial, relativos a 2015.&lt;/p&gt;
-
-&lt;p&gt;Na Síria, foram mais de 45 mil mortos apenas naquele ano, tanto militares quanto civis, um número que, quando atualizado, não deve surpreender se for ainda maior, após a intervenção de diversas partes no ano passado.&lt;/p&gt;
-
-&lt;p&gt;A metodologia afirma que “mortes em batalha” são mortes ocorridas durante batalha entre partes em conflito, tipicamente sob táticas de guerra envolvendo forças armadas, como combate aberto, atividades de guerrilha e todos os tipos de bombardeamento de unidades militares, cidades etc., tendo geralmente posições militares como principal alvo, mesmo que haja dano colaterais e mortes de civis.&lt;/p&gt;
-
-&lt;p&gt;Iraque também deve ver um aumento nesses números, por conta da ofensiva do governo contra o Estado Islâmico.&lt;/p&gt;
-
-&lt;p&gt;As informações de “guerra civil” e “conflito interno” são baseados no excelente projeto &lt;a href=&quot;http://www.cfr.org/global/global-conflict-tracker/p32137#!/&quot;&gt;&lt;em&gt;Global Conflit Tracker&lt;/em&gt;&lt;/a&gt;, do excepcional Council on Foreign Relations.&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://data.worldbank.org/indicator/VC.BTL.DETH?year_high_desc=true&quot;&gt;DataBank, do Banco Mundial&lt;/a&gt;, com dados do &lt;a href=&quot;pcr.uu.se/research/UCDP&quot;&gt;Uppsala Conflict Data Program&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 19 Apr 2017 00:00:00 -0300</pubDate>
-        <link>http://mono.voltdata.info/mortes-em-batalha-2015</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/mortes-em-batalha-2015</guid>
-        
-        <category>guerra, </category>
-        
-        <category>mortes, </category>
-        
-        <category>violência</category>
-        
-        
-        <category>mundo</category>
         
       </item>
     

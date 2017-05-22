@@ -6981,12 +6981,15 @@ h3 {
 h4 {
   margin-top: 0;
   margin-bottom: 0 !important;
-  background-color: #f0f0f0;
+  background-color: #386cb0;
   padding: 15px;
-  color: #222;
+  color: #fff;
   font-weight: 700;
   border-top: 1px solid #cbcbcb;
-  text-align: center; }
+  text-align: center;
+  font-family: Inconsolata; }
+  h4:hover {
+    background-color: #f0027f; }
 
 /* para pé de tabelas e afins */
 h5 {

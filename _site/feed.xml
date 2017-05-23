@@ -5,9 +5,289 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 May 2017 12:17:39 -0300</pubDate>
-    <lastBuildDate>Mon, 22 May 2017 12:17:39 -0300</lastBuildDate>
+    <pubDate>Tue, 23 May 2017 10:14:08 -0300</pubDate>
+    <lastBuildDate>Tue, 23 May 2017 10:14:08 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Brasil melhora burocracia para abrir empresa, mas ainda está longe de concorrentes</title>
+        <description>&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;A burocracia brasileira para se abrir um negócio melhorou significativamente desde 2003, conseguindo sair do famigerado do rol dos 10 países com mais procedimentos necessários para se instituir uma empresa.&lt;/p&gt;
+
+&lt;p&gt;No entanto, as coisas ainda estão longe de ser fáceis por aqui, e o Brasil ainda está bem abaixo das médias mundial e da América Latina nesse quesito, ficando entre os 30 países com maior número de exigências.&lt;/p&gt;
+
+&lt;p&gt;Para legalizar um negócio no Brasil, atualmente são necessários 11 procedimentos, entre autorização, registro, alvará, notificações etc. É mais do que o dobro dos Estados Unidos, por exemplo, e quase duas vezes a média mundial, e cerca de 25% a mais do que o México.&lt;/p&gt;
+
+&lt;p&gt;Isso resulta em uma média de 80 dias para se abrir uma empresa no Brasil, colocando o país em 175º lugar &lt;a href=&quot;http://www.doingbusiness.org/data/exploretopics/starting-a-business&quot;&gt;no ranking&lt;/a&gt; do Banco Mundial para se fazer negócios (entre 190 países). Nova Zelândia, Canadá e Hong Kong (território da China) são os três primeiros, na respectiva ordem.&lt;/p&gt;
+
+&lt;p&gt;O número de procedimentos é significativo porque mostra o peso da burocracia sobre o empreendedorismo.&lt;/p&gt;
+
+&lt;p&gt;No entanto, não necessariamente impacta &lt;a href=&quot;_posts/2017-05-17-abrir-negocio-mundo.md&quot;&gt;no tempo de abertura de um negócio&lt;/a&gt;. A Argentina, por exemplo, exige 14 procedimentos, mas o tempo médio de abertura é de 25 dias.&lt;/p&gt;
+
+&lt;h4 id=&quot;pases-com-mais-de-10-procedimentos-para-abrir-um-negcio-em-2016&quot;&gt;Países com mais de 10 procedimentos para abrir um negócio, em 2016&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;país&lt;/th&gt;
+      &lt;th&gt;2003&lt;/th&gt;
+      &lt;th&gt;2010&lt;/th&gt;
+      &lt;th&gt;2016&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;Venezuela&lt;/td&gt;
+      &lt;td&gt;16&lt;/td&gt;
+      &lt;td&gt;19&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;Guiné Equatorial&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;18&lt;/td&gt;
+      &lt;td&gt;17&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;Filipinas&lt;/td&gt;
+      &lt;td&gt;17&lt;/td&gt;
+      &lt;td&gt;17&lt;/td&gt;
+      &lt;td&gt;16&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;Argentina&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;Bolívia&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;Etiópia&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;Eritréia&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;Índia&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;Arábia Saudita&lt;/td&gt;
+      &lt;td&gt;18&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;Sudão do Sul&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;Suriname&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;Uganda&lt;/td&gt;
+      &lt;td&gt;17&lt;/td&gt;
+      &lt;td&gt;16&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;Bósnia Herzegovina&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;Argélia&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;Haiti&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;16&lt;/td&gt;
+      &lt;td&gt;Kuwait&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;17&lt;/td&gt;
+      &lt;td&gt;Paquistão&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;18&lt;/td&gt;
+      &lt;td&gt;Suazilândia&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;19&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Brasil&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;17&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;Rep. Congo&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;21&lt;/td&gt;
+      &lt;td&gt;Equador&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;22&lt;/td&gt;
+      &lt;td&gt;Fiji&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;23&lt;/td&gt;
+      &lt;td&gt;Honduras&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;24&lt;/td&gt;
+      &lt;td&gt;Indonésia&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;25&lt;/td&gt;
+      &lt;td&gt;Myanmar&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;26&lt;/td&gt;
+      &lt;td&gt;Sudão&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;27&lt;/td&gt;
+      &lt;td&gt;R. Centro Africana&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;28&lt;/td&gt;
+      &lt;td&gt;Líbia&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;29&lt;/td&gt;
+      &lt;td&gt;Moçambique&lt;/td&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;30&lt;/td&gt;
+      &lt;td&gt;Namíbia&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;31&lt;/td&gt;
+      &lt;td&gt;Cisjordânia e Gaza&lt;/td&gt;
+      &lt;td&gt;-&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;32&lt;/td&gt;
+      &lt;td&gt;Zimbábue&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h5 id=&quot;fonte-banco-mundialdoing-business-project&quot;&gt;Fonte: Banco Mundial/Doing Business Project&lt;/h5&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://data.worldbank.org/indicator/IC.REG.PROC?locations=BR-US-MX-IN-CN-1W-ZJ&amp;amp;year_high_desc=true&quot;&gt;Portal de dados do Banco Mundial&lt;/a&gt;, com informações do &lt;a href=&quot;http://doingbusiness.org&quot;&gt;Doing Business project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1cO-PfiARUWSU9GxvGcQXB6Vq15eh5YOnCo3P0tCeZTc/edit#gid=1505977393&quot;&gt;Tabela utilizada pelo Volt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 23 May 2017 00:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/brasil-burocracia-neg%C3%B3cios</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/brasil-burocracia-neg%C3%B3cios</guid>
+        
+        <category>burocracia, </category>
+        
+        <category>negócios, </category>
+        
+        <category>startup</category>
+        
+        
+        <category>empresas</category>
+        
+      </item>
     
       <item>
         <title>INTERATIVO-A evolução financeira da JBS nos últimos 6 anos, em um gráfico</title>
@@ -76,43 +356,6 @@
         <pubDate>Thu, 11 May 2017 00:00:00 -0300</pubDate>
         <link>http://mono.voltdata.info/habitacao-inflacao</link>
         <guid isPermaLink="true">http://mono.voltdata.info/habitacao-inflacao</guid>
-        
-        <category>interativo, </category>
-        
-        <category>inflação, </category>
-        
-        <category>habitação, </category>
-        
-        <category>IPCA</category>
-        
-        
-        <category>brasil</category>
-        
-      </item>
-    
-      <item>
-        <title>INTERATIVO-Onde os custos com habitação têm caído mais no Brasil em 2017?</title>
-        <description>&lt;iframe src=&quot;http://graficos.voltdata.info/posts/interactives/habitacao-ibge/&quot; width=&quot;100%&quot; frameborder=&quot;no&quot; scrolling=&quot;no&quot; height=&quot;800px&quot; seamless=&quot;&quot; id=&quot;interact-ibge&quot;&gt; &lt;/iframe&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.ibge.gov.br/home/estatistica/indicadores/precos/inpc_ipca/defaultinpc.shtm&quot;&gt;Instituto Brasileiro de Geografia e Estatística - IBGE&lt;/a&gt;, a partir do &lt;a href=&quot;https://sidra.ibge.gov.br/tabela/1419&quot;&gt;Sistema IBGE de Recuperação Automática - SIDRA&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Encontrado em: &lt;code class=&quot;highlighter-rouge&quot;&gt;Tabela 1419 - IPCA &lt;/code&gt; - &lt;em&gt;Variação mensal, acumulada no ano, acumulada em 12 meses e peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (a partir de janeiro/2012)&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;style&gt;
-@media screen and (max-width: 620px) {
-    #interact-ibge {
-        height: 600px;
-    }
-}
-&lt;/style&gt;
-
-</description>
-        <pubDate>Thu, 11 May 2017 00:00:00 -0300</pubDate>
-        <link>http://mono.voltdata.info/brasil-linhas-fixas</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/brasil-linhas-fixas</guid>
         
         <category>interativo, </category>
         

@@ -1,7 +1,7 @@
 ---
 categories: brasil
 intro: 'Em geral, a variação nos custos de moradia no Brasil têm seguido a do IPCA desde 2012. Mas nem sempre.'
-title: "INTERATIVO-Onde os custos com habitação têm caído mais no Brasil em 2017?"
+title: "Onde os custos com habitação têm caído mais no Brasil em 2017?"
 layout: post-simple-interactive
 author_name: Sérgio Spagnuolo
 author_url: /author/sergio

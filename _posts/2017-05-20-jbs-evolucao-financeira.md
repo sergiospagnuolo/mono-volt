@@ -1,7 +1,7 @@
 ---
 categories: empresas
 intro: 'Ativos totais do frigorífico mais do que dobraram desde 2011, ao passo que a receita líquida quase triplicou'
-title: "INTERATIVO-A evolução financeira da JBS nos últimos 6 anos, em um gráfico"
+title: "A evolução financeira da JBS nos últimos 6 anos, em um gráfico"
 layout: post-simple-interactive
 author_name: Sérgio Spagnuolo
 author_url: /author/sergio

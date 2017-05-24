@@ -5,9 +5,46 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 May 2017 10:14:08 -0300</pubDate>
-    <lastBuildDate>Tue, 23 May 2017 10:14:08 -0300</lastBuildDate>
+    <pubDate>Wed, 24 May 2017 10:58:08 -0300</pubDate>
+    <lastBuildDate>Wed, 24 May 2017 10:58:08 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Abrir um negócio no Brasil demora mais do que no resto do mundo</title>
+        <description>&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;As dificuldades em se abrir um negócio no Brasil não estão apenas no &lt;a href=&quot;_posts/2017-05-24-mundo-burocracia-negócios.md&quot;&gt;número de procedimentos&lt;/a&gt; necessários, mas também no tempo que a burocracia leva para finalizar a criação de uma empresa.&lt;/p&gt;
+
+&lt;p&gt;Em alguns países, como na Argentina, é necessária a realização de diversos procedimentos, até mais do que no Brasil, mas leva menos tempo para se ter um negócio funcionando.&lt;/p&gt;
+
+&lt;p&gt;Mas, no Brasil, abrir uma empresa exige paciência de quase 3 meses, mais do que na Somália, no Laos e na Namíbia, e não muito longe de Suriname e Eritreia. Isso coloca o Brasil em meio a um grupo de países de economias menores, menos desenvolvidas, e longe da maioria do resto do mundo. Certamente, bem distante da Nova Zelândia - quiçá o país mais fácil de se abrir um negócio.&lt;/p&gt;
+
+&lt;p&gt;Pelo menos os custos de abertura de um negócio em terras brasileiras não tão altos, de acordo com dados do Banco Mundial.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.doingbusiness.org/data/exploretopics/starting-a-business&quot;&gt;Doing Business Project - Starting a Business dataset&lt;/a&gt;, projeto do [Banco Mundial]
+(http://worldbank.org)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1GlgX12cQwZaZzb623FBVBzl6BDjxuu4gEAWYT5R3tWw/edit#gid=1935914971&quot;&gt;Tabela utilizada pelo Volt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 24 May 2017 00:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/mundo-burocracia-neg%C3%B3cios</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/mundo-burocracia-neg%C3%B3cios</guid>
+        
+        <category>burocracia, </category>
+        
+        <category>negócios, </category>
+        
+        <category>startup, </category>
+        
+        <category>ranking</category>
+        
+        
+        <category>empresas</category>
+        
+      </item>
     
       <item>
         <title>Brasil melhora burocracia para abrir empresa, mas ainda está longe de concorrentes</title>
@@ -290,7 +327,7 @@
       </item>
     
       <item>
-        <title>INTERATIVO-A evolução financeira da JBS nos últimos 6 anos, em um gráfico</title>
+        <title>A evolução financeira da JBS nos últimos 6 anos, em um gráfico</title>
         <description>&lt;iframe src=&quot;http://graficos.voltdata.info/posts/geral/jbs&quot; width=&quot;100%&quot; frameborder=&quot;no&quot; scrolling=&quot;no&quot; height=&quot;800px&quot; seamless=&quot;&quot; id=&quot;interact-jbs&quot;&gt; &lt;/iframe&gt;
 
 &lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
@@ -334,7 +371,7 @@
       </item>
     
       <item>
-        <title>INTERATIVO-Onde os custos com habitação têm caído mais no Brasil em 2017?</title>
+        <title>Onde os custos com habitação têm caído mais no Brasil em 2017?</title>
         <description>&lt;iframe src=&quot;http://graficos.voltdata.info/posts/interactives/habitacao-ibge/&quot; width=&quot;100%&quot; frameborder=&quot;no&quot; scrolling=&quot;no&quot; height=&quot;800px&quot; seamless=&quot;&quot; id=&quot;interact-ibge&quot;&gt; &lt;/iframe&gt;
 
 &lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
@@ -1087,163 +1124,6 @@
         
         
         <category>ciência</category>
-        
-      </item>
-    
-      <item>
-        <title>Ex-empresas Parmalat devem tanto dinheiro à União que ofuscam comparação com outros devedores</title>
-        <description>&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;Em vista do debate da reforma previdenciária, muito tem se debatido da cobrança de grandes devedores para cobrir as contas da Previdência, algo que o governo rejeita como solução, inclusive com dados &lt;a href=&quot;http://bit.ly/2ofls9e&quot;&gt;não confirmados&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Assim, eu queria comparar o quanto esses devedores, principalmente empresas, deviam em contribuições previdenciária em relação aos seus débitos totais inscritos na dívida ativa da União. Selecionei todos os 225 devedores com dívidas previdenciárias acima de R$ 100 milhões.&lt;/p&gt;
-
-&lt;p&gt;Na hora de fazer o gráfico, um dado impedia uma comparação melhor: a dívida total da Padma Indústria de Alimentos, &lt;a href=&quot;http://bit.ly/2ofIxIP&quot;&gt;antiga&lt;/a&gt; Parmalat Brasil. O número era tão alto que fez todos os outros grandes devedores parecerem pequenos.&lt;/p&gt;
-
-&lt;p&gt;Fazendo nova busca, agora pelos maiores devedores totais, encontrei a Carital Brasil em primeiro lugar na lista, logo acima da Padma. A Carital era a antiga filial da Parmalat italiana, antes da Padma. Acrescentei-a a meu gráfico.&lt;/p&gt;
-
-&lt;p&gt;O resultado disso foi uma bigorna (ou duas, depende de como enxergar a situação) em um palheiro, como pode ser visto no gráfico acima.&lt;/p&gt;
-
-&lt;h4 id=&quot;maiores-devedores-em-valores-totais-cadastrados-na-dvida-ativa-da-unio&quot;&gt;20 maiores devedores, em valores totais, cadastrados na dívida ativa da União&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;CPF/CNPJ&lt;/th&gt;
-      &lt;th&gt;Nome/Razão Social&lt;/th&gt;
-      &lt;th&gt;Valor Total Devido (R$)&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;44.764.595/0001-27&lt;/td&gt;
-      &lt;td&gt;CARITAL BRASIL LTDA&lt;/td&gt;
-      &lt;td&gt;27.000.277.945,32&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;89.940.878/0001-10&lt;/td&gt;
-      &lt;td&gt;PADMA INDUSTRIA DE ALIMENTOS S/A&lt;/td&gt;
-      &lt;td&gt;25.886.575.377,63&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;010.335.908-78&lt;/td&gt;
-      &lt;td&gt;LAODSE DENIS DE ABREU DUARTE&lt;/td&gt;
-      &lt;td&gt;7.109.756.452,53&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;50.469.303/0001-26&lt;/td&gt;
-      &lt;td&gt;DUAGRO SA ADMINISTRACAO E PARTICIPACOES&lt;/td&gt;
-      &lt;td&gt;7.095.999.117,75&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;010.171.878-00&lt;/td&gt;
-      &lt;td&gt;LUIZ LIAN DE ABREU DUARTE&lt;/td&gt;
-      &lt;td&gt;6.872.129.654,17&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;021.311.371-68&lt;/td&gt;
-      &lt;td&gt;ERNESTO ANGEL LAZZARO&lt;/td&gt;
-      &lt;td&gt;6.868.698.906,55&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;565.989.398-87&lt;/td&gt;
-      &lt;td&gt;LUCE CLEO DE ABREU DUARTE&lt;/td&gt;
-      &lt;td&gt;6.868.698.906,55&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;03.300.070/0001-53&lt;/td&gt;
-      &lt;td&gt;PPL PARTICIPACOES LTDA.&lt;/td&gt;
-      &lt;td&gt;6.846.924.715,12&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;92.772.821/0001-64&lt;/td&gt;
-      &lt;td&gt;S.A. (VIACAO AEREA RIO-GRANDENSE) - FALIDA&lt;/td&gt;
-      &lt;td&gt;5.606.996.197,12&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;60.703.923/0001-31&lt;/td&gt;
-      &lt;td&gt;VIACAO AEREA SAO PAULO S A&lt;/td&gt;
-      &lt;td&gt;6.611.272.908,74&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;02.161.598/0001-26&lt;/td&gt;
-      &lt;td&gt;CONDOR - FACTORING - FOMENTO COMERCIAL LTDA&lt;/td&gt;
-      &lt;td&gt;4.384.090.075,42&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;012.194.277-56&lt;/td&gt;
-      &lt;td&gt;FABIO CUNHA SIMOES DE CARVALHO&lt;/td&gt;
-      &lt;td&gt;4.384.090.075,42&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;464.732.548-20&lt;/td&gt;
-      &lt;td&gt;BERNARDINO JUSTINO VARGAS&lt;/td&gt;
-      &lt;td&gt;4.384.090.075,42&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;037.034.797-87&lt;/td&gt;
-      &lt;td&gt;ALBERTO ISRAEL LIFSITCH&lt;/td&gt;
-      &lt;td&gt;4.384.090.075,42&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;27.893.064/0001-15&lt;/td&gt;
-      &lt;td&gt;BETAFAC ASSESSORIA E FOMENTO MERCANTIL LTDA - ME&lt;/td&gt;
-      &lt;td&gt;3.912.569.971,33&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;86.826.179/0001-56&lt;/td&gt;
-      &lt;td&gt;ENGEFIN ASSESSORIA E FOMENTO MERCANTIL LTDA - ME&lt;/td&gt;
-      &lt;td&gt;3.899.681.260,46&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;33.000.167/0001-01&lt;/td&gt;
-      &lt;td&gt;PETROLEO BRASILEIRO S A PETROBRAS&lt;/td&gt;
-      &lt;td&gt;3.768.712.879,67&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;168.161.104-04&lt;/td&gt;
-      &lt;td&gt;FLAVIO AUGUSTO VIEIRA DE LACERDA&lt;/td&gt;
-      &lt;td&gt;3.766.830.574,58&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;043.063.187-10&lt;/td&gt;
-      &lt;td&gt;MARCEL LEVY&lt;/td&gt;
-      &lt;td&gt;3.765.321.275,77&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;28.937.704/0001-04&lt;/td&gt;
-      &lt;td&gt;COOPERATIVA FLUMINENSE DO PRODS DE ACUC ALCOOL LTDA&lt;/td&gt;
-      &lt;td&gt;3.602.571.073,91&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h5 id=&quot;fonte-pgfn&quot;&gt;* Fonte: PGFN&lt;/h5&gt;
-
-&lt;p&gt;Quis, então, fazer um segundo gráfico que fosse possível comparar mais empresas de uma maneira visível.&lt;/p&gt;
-
-&lt;p&gt;Como as falidas aéreas Varig e Vasp são devedoras previdenciárias bilionárias, muito acima de outras companhias, decidi por um recorte entre companhias com dívidas previdenciárias entre R$ 100 milhões e R$ 1 bilhão, como se poder ver no gráfico abaixo.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/graf/divida-previdenciaria.png&quot; alt=&quot;Grafico divida previdenciaria entre R$ 100 mi e RR 1 bi&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www2.pgfn.fazenda.gov.br/ecac/contribuinte/devedores/listaDevedores.jsf&quot;&gt;Procuradoria-Geral da Fazenda Nacional - PGFN&lt;/a&gt;, na lista de devedores que possuem débitos com a Fazenda Nacional e o FGTS inscritos em dívida ativa.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 22 Apr 2017 00:00:00 -0300</pubDate>
-        <link>http://mono.voltdata.info/divida-ativa-empresas-bilhoes</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/divida-ativa-empresas-bilhoes</guid>
-        
-        <category>dívida ativa, </category>
-        
-        <category>FGTS, </category>
-        
-        <category>previdência</category>
-        
-        
-        <category>brasil</category>
         
       </item>
     

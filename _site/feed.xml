@@ -5,9 +5,56 @@
     <description></description>
     <link>http://mono.voltdata.info/</link>
     <atom:link href="http://mono.voltdata.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 May 2017 10:58:08 -0300</pubDate>
-    <lastBuildDate>Wed, 24 May 2017 10:58:08 -0300</lastBuildDate>
+    <pubDate>Mon, 05 Jun 2017 10:26:58 -0300</pubDate>
+    <lastBuildDate>Mon, 05 Jun 2017 10:26:58 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Diagnósticos de sífilis congênita em bebês dispararam em todo o Brasil</title>
+        <description>&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
+
+&lt;p&gt;A detecção e a comunicação de casos de sífilis congênitas em bebês disparou em todo o Brasil nos últimos 15 anos, de acordo com dados oficiais.&lt;/p&gt;
+
+&lt;p&gt;Se, por um lado, é boa a existência de mecanismos de detecção mais eficazes, rápidos e baratos, também é alarmante a quantidade de casos a mais. Segundo apuração do projeto &lt;a href=&quot;http://journalismgrants.org/projects/the-worlds-penicillin-problem&quot;&gt;&lt;em&gt;The World’s Penicillin Problem&lt;/em&gt;&lt;/a&gt;, essa alta foi influenciada por alguns fatores:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Mais testes (ou seja, mais instrumentos para identificar a presença da infecção);&lt;/li&gt;
+  &lt;li&gt;Um surto (mais presença da bactéria em circulação);&lt;/li&gt;
+  &lt;li&gt;Falta do medicamento - a penicilina - para frear a doença e para evitar a transmissão vertical de mãe para filho&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A penicilina benzatina é reconhecidamente o único antibiótico  eficaz para evitar a transmissão congênita.&lt;/p&gt;
+
+&lt;p&gt;Rio Grande do Sul e Sergipe são alguns dos Estados onde houve maior crescimento em detecção entre 2005 e 2015, ao passo que o Rio de Janeiro possui mais casos relatados.&lt;/p&gt;
+
+&lt;p&gt;No gráfico, foram consideradas taxas a partir de 2005, a fim de evitar valores nulos (iguais a zero), mas os dados datam pelo menos desde 2000.&lt;/p&gt;
+
+&lt;p&gt;Para mais detalhes, o &lt;em&gt;World’s Penicillin Problem&lt;/em&gt; foi publicado em diversos veículos, notadamente &lt;a href=&quot;http://www1.folha.uol.com.br/equilibrioesaude/2017/05/1881791-falta-de-penicilina-afeta-pacientes-no-mundo.shtml&quot;&gt;Folha de S.Paulo&lt;/a&gt;, &lt;a href=&quot;https://www.nexojornal.com.br/expresso/2017/05/23/Qual-o-resultado-da-investiga%C3%A7%C3%A3o-que-apontou-a-escassez-global-de-penicilina&quot;&gt;Nexo&lt;/a&gt; e &lt;a href=&quot;https://qz.com/984705/syphilis-is-on-the-rise-because-penicillin-isnt-profitable/&quot;&gt;Quartz&lt;/a&gt;, entre outros.&lt;/p&gt;
+
+&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://indicadoressifilis.aids.gov.br/&quot;&gt;Departamento de DST, AIDS e Hepatites Virais&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Gráfico baseado em conjunto de dados compilado para o projeto &lt;a href=&quot;http://journalismgrants.org/projects/the-worlds-penicillin-problem&quot;&gt;&lt;em&gt;The World’s Penicillin Problem&lt;/em&gt;&lt;/a&gt;, da jornalista brasileira &lt;a href=&quot;https://twitter.com/keilacguimaraes&quot;&gt;Keila Guimarães&lt;/a&gt; e do jornalista britânico &lt;a href=&quot;http://journalismgrants.org/people/ashley-kirk/3702&quot;&gt;Ashley Kirk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Os dados podem ser encontrados &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1nwHaLCuiEqDTR-AJ8Zj1n30XYSYrYNCX079jpH-qkv0/pubhtml&quot;&gt;nesta tabela&lt;/a&gt; enviada pela Keila para o &lt;strong&gt;Mono&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 05 Jun 2017 00:00:00 -0300</pubDate>
+        <link>http://mono.voltdata.info/sifilis-deteccao-estados</link>
+        <guid isPermaLink="true">http://mono.voltdata.info/sifilis-deteccao-estados</guid>
+        
+        <category>saúde, </category>
+        
+        <category>sífilis, </category>
+        
+        <category>medicina, </category>
+        
+        <category>penicilina</category>
+        
+        
+        <category>ciência</category>
+        
+      </item>
     
       <item>
         <title>Abrir um negócio no Brasil demora mais do que no resto do mundo</title>
@@ -1093,37 +1140,6 @@
         
         
         <category>mundo</category>
-        
-      </item>
-    
-      <item>
-        <title>Pedidos para registro de propriedade intelectual de softwares no Brasil estão em alta desde 2012</title>
-        <description>&lt;h3 id=&quot;descrio&quot;&gt;Descrição&lt;/h3&gt;
-
-&lt;p&gt;Os pedidos para registros de programas de computadores atingiram o maior patamar desde 2009, segundo ano da série histórica, frente a uma queda nos pedidos de patentes, principalmente patentes de invenção.&lt;/p&gt;
-
-&lt;p&gt;O impulso foi beneficiado, &lt;a href=&quot;http://www.inpi.gov.br/sobre/estatisticas/arquivos/publicacoes/boletim_jan-2017.pdf&quot;&gt;segundo INPI&lt;/a&gt;, por pedidos efetuados por micro e pequenos empreendedores, instituições de ensino e pesquisa e associações e sociedades de intuito não econômico.&lt;/p&gt;
-
-&lt;p&gt;Os pedidos para patentes são organizados em três categorias: I. invenção (90,3% do estoque) II. modelos de utilidade (9,5%) III. certificação de adição (0,2%), sendo a primeira responsável pela queda, segundo o INPI.&lt;/p&gt;
-
-&lt;h3 id=&quot;referncias&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.inpi.gov.br/sobre/estatisticas&quot;&gt;Instituto Nacional da Propriedade Industrial - INPI&lt;/a&gt;, utilizando estatisticas preliminares a partir de 2013 e de 2000 a 2012. Série histórica de &lt;em&gt;softwares&lt;/em&gt; só foi iniciada em 2008.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 24 Apr 2017 00:00:00 -0300</pubDate>
-        <link>http://mono.voltdata.info/patentes-software-inpi</link>
-        <guid isPermaLink="true">http://mono.voltdata.info/patentes-software-inpi</guid>
-        
-        <category>patentes, </category>
-        
-        <category>software, </category>
-        
-        <category>propriedade intelectual</category>
-        
-        
-        <category>ciência</category>
         
       </item>
     

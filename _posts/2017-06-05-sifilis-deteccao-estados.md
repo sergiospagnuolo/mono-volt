@@ -9,6 +9,8 @@ author_avatar: sergio
 show_avatar: true
 feature_image: alerta-sifilis.png
 show_related_posts: true
+atualiza_data: 05.06.2017
+atualiza_texto: para acrescentar link com admissão do governo sobre surto
 tags:
   - 'saúde, '
   - 'sífilis, '
@@ -24,7 +26,7 @@ A detecção e a comunicação de casos de sífilis congênitas em bebês dispar
 Se, por um lado, é boa a existência de mecanismos de detecção mais eficazes, rápidos e baratos, também é alarmante a quantidade de casos a mais. Segundo apuração do projeto [*The World’s Penicillin Problem*](http://journalismgrants.org/projects/the-worlds-penicillin-problem), essa alta foi influenciada por alguns fatores:
 
 1. Mais testes (ou seja, mais instrumentos para identificar a presença da infecção);
-2. Um surto (mais presença da bactéria em circulação);
+2. Um surto (maior presença da bactéria em circulação), o que foi [admitido](http://veja.abril.com.br/saude/brasil-vive-epidemia-de-sifilis/) pelo governo;
 3. Falta do medicamento - a penicilina - para frear a doença e para evitar a transmissão vertical de mãe para filho
 
 
@@ -34,7 +36,7 @@ Rio Grande do Sul e Sergipe são alguns dos Estados onde houve maior crescimento
 
 No gráfico, foram consideradas taxas a partir de 2005, a fim de evitar valores nulos (iguais a zero), mas os dados datam pelo menos desde 2000.
 
-Para mais detalhes, o *World's Penicillin Problem* foi publicado em diversos veículos, notadamente [Folha de S.Paulo](http://www1.folha.uol.com.br/equilibrioesaude/2017/05/1881791-falta-de-penicilina-afeta-pacientes-no-mundo.shtml), [Nexo](https://www.nexojornal.com.br/expresso/2017/05/23/Qual-o-resultado-da-investiga%C3%A7%C3%A3o-que-apontou-a-escassez-global-de-penicilina) e [Quartz](https://qz.com/984705/syphilis-is-on-the-rise-because-penicillin-isnt-profitable/), entre outros.
+Para mais detalhes, o *The World's Penicillin Problem* foi publicado em diversos veículos, notadamente [Folha de S.Paulo](http://www1.folha.uol.com.br/equilibrioesaude/2017/05/1881791-falta-de-penicilina-afeta-pacientes-no-mundo.shtml), [Nexo](https://www.nexojornal.com.br/expresso/2017/05/23/Qual-o-resultado-da-investiga%C3%A7%C3%A3o-que-apontou-a-escassez-global-de-penicilina) e [Quartz](https://qz.com/984705/syphilis-is-on-the-rise-because-penicillin-isnt-profitable/), entre outros.
 
 ### Referências
 

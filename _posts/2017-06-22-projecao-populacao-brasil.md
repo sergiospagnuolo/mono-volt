@@ -1,7 +1,7 @@
 ---
 categories: brasil
 intro: 'Estimativas da ONU mostram crescimento negativo na taxa de crescimento populacional caso não haja imigração'
-title: "Sem imigração, crescimento da população no Brasil seria negativo a partir de 2050"
+title: "Sem imigração, crescimento da população no Brasil seria negativo a partir de 20"
 layout: post-no-feature
 author_name: Sérgio Spagnuolo
 author_url: /author/sergio
